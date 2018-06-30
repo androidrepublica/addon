@@ -1,0 +1,916 @@
+#EXTM3U Rooney
+
+#EXTINF:-1,## WELCOME Ronney (Santai DULU BRO) ##
+http://163.172.39.167:25461/live/KodiBalkan/r2Q7LMYnNn/5.ts
+
+#EXTINF:0, group-title="NINMEDIA", INFO FREESAT
+http://stream1.ninmedia.tv/live/nin-info.stream_nin/playlist.m3u8
+#EXTINF:0, group-title="NINMEDIA", MALEO CHANNEL
+http://stream1.ninmedia.tv/live/nin-bmw.stream_nin/playlist.m3u8
+#EXTINF:0, group-title="NINMEDIA", KLIK MUSIK
+http://stream1.ninmedia.tv/live/nin-klik-music.stream_nin/playlist.m3u8
+#EXTINF:0, group-title="NINMEDIA", SALURAN MUSIK INDONESIA
+http://stream1.ninmedia.tv/live/nin-smi.stream_nin/playlist.m3u8
+#EXTINF:0, group-title="NINMEDIA", SALURAN FILM INDONESIA
+http://stream1.ninmedia.tv/live/nin-sfi.stream_nin/playlist.m3u8
+#EXTINF:0, group-title="NINMEDIA", TV BMW
+http://stream1.ninmedia.tv/live/nin-dc7.stream_nin/playlist.m3u8
+#EXTINF:0, group-title="NINMEDIA", FAKTA TV
+http://stream1.ninmedia.tv/live/nin-9net.stream_nin/playlist.m3u8
+#EXTINF:0, group-title="NINMEDIA", NU CHANNEL
+http://stream1.ninmedia.tv/live/nin-nuchannel.stream_nin/playlist.m3u8
+#EXTINF:0, group-title="NINMEDIA", DMI CHANNEL
+http://stream1.ninmedia.tv/live/nin-dmi.stream_nin/playlist.m3u8
+#EXTINF:0, group-title="NINMEDIA", TV TABALONG
+http://stream1.ninmedia.tv/live/nin-tabalong.stream_nin/playlist.m3u8
+#EXTINF:0, group-title="NINMEDIA", KITANESIA
+http://stream1.ninmedia.tv/live/nin-ladies.stream_nin/playlist.m3u8
+#EXTINF:0, group-title="NINMEDIA", DUTA TV BANJARMASIN
+video2.onlivestreaming.net/dutatv/live.sdp/playlist.m3u8
+#EXTINF:0, group-title="NINMEDIA", SALING SAPA
+http://stream2.ninmedia.tv/live/nin-salingsapa.stream_nin/playlist.m3u8
+#EXTINF:0, group-title="NINMEDIA", DIAMOND TV
+http://stream1.ninmedia.tv/live/nin-dtv.stream_nin/playlist.m3u8
+#EXTINF:0, group-title="NINMEDIA", AVAVA BOLLYWOOD
+http://wowza60.indostreamserver.com:1935/abc/live/playlist.m3u8
+#EXTINF:0, group-title="NINMEDIA", AVAVA DIAMOND
+http://wowza60.indostreamserver.com:1935/adti/live/playlist.m3u8
+#EXTINF:0, group-title="NINMEDIA", BLACK DIAMOND
+http://wowza60.indostreamserver.com:1935/bdti/live/playlist.m3u8
+#EXTINF:0, group-title="NINMEDIA", RED DIAMOND
+http://wowza60.indostreamserver.com:1935/red/live/playlist.m3u8
+#EXTINF:0, group-title="NINMEDIA", WHITE DIAMOND
+http://wowza60.indostreamserver.com:1935/white/live/playlist.m3u8
+#EXTINF:0, group-title="NINMEDIA", DIAMOND KIDS
+http://wowza60.indostreamserver.com:1935/kids/live/playlist.m3u8
+#EXTINF:0, group-title="NINMEDIA", DIAMOND EARTH
+http://wowza60.indostreamserver.com:1935/earth/live/playlist.m3u8
+#EXTINF:0, group-title="NINMEDIA", GOLD DIAMOND
+http://wowza60.indostreamserver.com:1935/gold/live/playlist.m3u8
+#EXTINF:0, group-title="NINMEDIA", INSPIRA TV
+http://stream1.ninmedia.tv/live/nin-inspira.stream_nin/playlist.m3u8
+#EXTINF:0, group-title="NINMEDIA", NUSANTARA TV
+http://103.77.106.171:1935/live/liventv1/playlist.m3u8
+#EXTINF:0, group-title="NINMEDIA", TV DESA
+http://wowza60.indostreamserver.com:1935/tvdesa/live/playlist.m3u8
+#EXTINF:0, group-title="NINMEDIA", THE INDONESIA CHANNEL
+http://202.93.133.3:1935/SVR1/ch_tic.stream_720p/playlist.m3u8
+#EXTINF:0, group-title="NINMEDIA", ANTARA TV
+http://edge.telin.swiftserve.com/live/LiveOONA/antara-da5a865f3284/playlist.m3u8
+#EXTINF:0, group-title="NINMEDIA", BALI TV
+http://edge.telin.swiftserve.com/live/LiveOONA/balitv-0e3e49d9f128/chunklist.m3u8
+#EXTINF:0, group-title="NINMEDIA", THE START UP CHANNEL
+http://edge.telin.swiftserve.com/live/LiveOONA/startup-93db06bd3f82/playlist.m3u8
+#EXTINF:0, group-title="NINMEDIA", AL AZIZIAH TRAVEL TV
+http://119.235.249.58:1935/alaziziahtraveltv/live/playlist.m3u8
+#EXTINF:0, group-title="NINMEDIA", NADA MUSLIM TV
+http://stream.aswajadev.com:8081/nadamuslim/stream/playlist.m3u8
+#EXTINF:0, group-title="NINMEDIA", EFARINA TV
+http://43.240.226.40:1935/AppLiveEfarinaTV/efarinatv_360p/index.m3u8
+#EXTINF:0, group-title="NINMEDIA", PAYTREN TV
+http://wowza58.indostreamserver.com:1935/ymtv/live/playlist.m3u8
+#EXTINF:0, group-title="NINMEDIA", RRI NET
+http://36.89.47.217:11935/rrinet/live/index.m3u8
+#EXTINF:0, group-title="NINMEDIA", SPACETOON
+https://kmklive-lh.akamaihd.net/i/spacetoon_geo@586951/master.m3u8
+#EXTINF:0, group-title="NINMEDIA", AKHYAR TV
+stream.asianastream.com:1935/live/ngrp:akhyartv_all/chunk.m3u8
+#EXTINF:0, group-title="NINMEDIA", SN TV
+http://svr.sntivi.id:1935/live/sntv/chunk.m3u8
+#EXTINF:0, group-title="NINMEDIA", MADANI TV
+stream.asianastream.com:1935/live/ngrp:madanitv_all/chunk.m3u8
+#EXTINF:0, group-title="NINMEDIA", TV9 NUSANTARA
+rtmp://videostream.indostreamserver.com:1935/tv9/live
+#EXTINF:0, group-title="NINMEDIA", WESAL TV
+rtmp://119.235.249.60:1935/wesaltv/live
+#EXTINF:0, group-title="NINMEDIA", INSAN TV
+http://wz.insantv.net/group/ngrp:insantv_mobile/playlist.m3u8
+#EXTINF:0, group-title="NINMEDIA", AHSAN TV
+rtmp://119.82.224.75:1935/live/ahsantv
+#EXTINF:0, group-title="NINMEDIA", ASWAJA TV
+http://stream.aswajadev.com:8081/liveas/stream/playlist.m3u8
+#EXTINF:0, group-title="NINMEDIA", RODJA TV
+http://rr2.dens.tv/s/s14/index1.m3u8
+#EXTINF:0, group-title="NINMEDIA", TAHFIDZ TV
+rtmp://119.235.249.58:1935/tahfidztv/live
+#EXTINF:0, group-title="NINMEDIA", TV MU
+rtmp://118.97.183.222:1935/discover/muhammadiyahtv
+#EXTINF:0, group-title="NINMEDIA", SURAU TV
+http://wowza60.indostreamserver.com:1935/surautv/live/playlist.m3u8
+#EXTINF:0, group-title="NINMEDIA", HIDAYAH
+https://cdn-livetv1.metube.id/hls/mncmuslim.m3u8
+
+#EXTINF:0, group-title="SPORT INDONESIA", LIGA1
+http://edge.telin.useetv.com/sc/useesport_720p.m3u8
+#EXTINF:-1 group-title="SPORT INDONESIA", FOX SPORT 1
+http://lihattv.com/?play=43353.m3u
+#EXTINF:-1 group-title="SPORT INDONESIA", FOX SPORT 2
+http://lihattv.com/?play=43354
+#EXTINF:-1 group-title="SPORT INDONESIA", FOX SPORT 3
+http://lihattv.com/?play=43355
+#EXTINF:-1 group-title="SPORT INDONESIA", TVRI SPORT
+http://lihattv.com/?play=43422
+#EXTINF:-1 group-title="SPORT INDONESIA", FOXX SPORT HK
+http://lihattv.com/?play=43359
+
+#EXTINF:-0, group-title="INDONESIA", TV ONE HD
+https://stream-02.sg1.dailymotion.com/59/dm/3/x619221/live.m3u8
+#EXTINF:0, group-title="INDONESIA", TVONE #1
+https://cdn-livetv1.metube.id/hls/tvone_480/index.m3u8
+#EXTINF:0, group-title="INDONESIA", TVONE #2
+https://cdn-livetv1.metube.id/hls/tvone.m3u8
+#EXTINF:0, group-title="INDONESIA", TVONE #3
+http://rr2.dens.tv/s/s02/index1.m3u8
+
+#EXTINF:-1 group-title="MOVIE INDONESIA", FOX FAMILY MOVIES
+http://lihattv.com/?play=43352
+#EXTINF:-1 group-title="MOVIE INDONESIA", FOX ACTION MOVIES
+http://lihattv.com/?play=43351
+#EXTINF:-1 group-title="MOVIE INDONESIA", FOX
+http://lihattv.com/?play=43346
+#EXTINF:-1 group-title="MOVIE INDONESIA", FOX LIFE
+http://lihattv.com/?play=43342
+#EXTINF:-1 group-title="MOVIE INDONESIA", MY CINEMA
+http://lihattv.com/?play=43427
+#EXTINF:-1 group-title="MOVIE INDONESIA", KIX
+http://lihattv.com/?play=43340
+#EXTINF:-1 group-title="MOVIE INDONESIA", BLACK DIAMOND
+http://lihattv.com/?play=43212
+#EXTINF:-1 group-title="MOVIE INDONESIA", GOLD DIAMOND
+http://lihattv.com/?play=43221
+#EXTINF:-1 group-title="MOVIE INDONESIA", AVAVA DIAMOND
+http://lihattv.com/?play=43218
+#EXTINF:-1 group-title="MOVIE INDONESIA", RED DIAMOND
+http://lihattv.com/?play=43224
+#EXTINF:-1 group-title="MOVIE INDONESIA", KOREA DRAMA
+http://lihattv.com/?play=43420
+#EXTINF:-1 group-title="MOVIE INDONESIA", K+
+http://lihattv.com/?play=43343
+#EXTINF:-1 group-title="MOVIE INDONESIA", V CHANNEL
+http://lihattv.com/?play=43419
+#EXTINF:-1 group-title="MOVIE INDONESIA", THRILL
+http://lihattv.com/?play=43415
+#EXTINF:-1 group-title="MOVIE INDONESIA", CELESTRIAL MOVIE
+http://lihattv.com/?play=43414
+#EXTINF:-1 group-title="MOVIE INDONESIA", ZEE BISOKOP
+http://lihattv.com/?play=43413
+#EXTINF:-1 group-title="MOVIE INDONESIA", AVAVA BOLYWOOD
+http://lihattv.com/?play=43208
+#EXTINF:-1 group-title="MOVIE INDONESIA", FOX
+http://lihattv.com/?play=43346
+#EXTINF:-1 group-title="MOVIE INDONESIA", THE INDONESIA CHANNEL
+http://lihattv.com/?play=43307
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="MOVIE INDONESIA", AXN 
+http://rr.dens.tv/h/h09/index1.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="MOVIE INDONESIA", S ONE 
+http://rr.dens.tv/h/h13/index1.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="MOVIE INDONESIA", SBS IN HD (
+http://rr.dens.tv/h/h28/index1.m3u8
+#EXTINF:-1 group-title="MOVIE INDONESIA", SFI
+http://lihattv.com/?play=43192
+
+#EXTINF:-1 group-title="INDONESIA GEOGRAPHIC", NATIONAL GEOGRAPHIC
+http://lihattv.com/?play=43347
+#EXTINF:-1 group-title="INDONESIA GEOGRAPHIC", NAT GEO WILD
+http://lihattv.com/?play=43348
+#EXTINF:-1 group-title="INDONESIA GEOGRAPHIC", CGTN DOCUMENTARY
+http://lihattv.com/?play=43404
+
+#EXTINF:0, group-title="INDONESIA", RCTI #1
+https://cdn-livetv2.metube.id/hls/rcti.m3u8
+#EXTINF:0, group-title="INDONESIA", RCTI #2
+https://edge.okezone.com/live/rctioke.m3u8
+#EXTINF:0, group-title="INDONESIA", RCTI #3
+https://cdn-livetv2.metube.id/hls/rcti_480/index.m3u8
+#EXTINF:0, group-title="INDONESIA", RCTI #4
+http://lihattv.com/?play=43104
+
+#EXTINF:0, group-title="INDONESIA", SCTV #1
+https://cdn-livetv1.metube.id/hls/sctv_480/index.m3u8
+#EXTINF:0, group-title="INDONESIA", SCTV #2
+https://cdn-livetv1.metube.id/hls/sctv.m3u8
+#EXTINF:0, group-title="INDONESIA", SCTV #3
+http://rr2.dens.tv/s/s03/index1.m3u8
+#EXTINF:0, group-title="INDONESIA", SCTV #4
+http://lihattv.com/?play=43401
+
+#EXTINF:0, group-title="INDONESIA", INDOSIAR #1
+https://cdn-livetv1.metube.id/hls/indosiar_480/index.m3u8
+#EXTINF:0, group-title="INDONESIA", INDOSIAR #2
+https://cdn-livetv1.metube.id/hls/indosiar.m3u8
+#EXTINF:0, group-title="INDONESIA", INDOSIAR #3
+http://rr2.dens.tv/s/s04/index1.m3u8
+#EXTINF:0, group-title="INDONESIA", INDOSIAR #4
+http://lihattv.com/?play=43400
+
+#EXTINF:-0, group-title="INDONESIA",  ANTV HD
+https://stream-01.sg1.dailymotion.com/02/dm/3/x3ifpox/live.m3u8
+#EXTINF:0, group-title="INDONESIA", ANTV #1
+https://cdn-livetv1.metube.id/hls/antv_480/index.m3u8
+#EXTINF:0, group-title="INDONESIA", ANTV #2
+https://cdn-livetv1.metube.id/hls/antv.m3u8
+#EXTINF:0, group-title="INDONESIA", ANTV #3
+http://rr2.dens.tv/s/s07/index1.m3u8
+#EXTINF:0, group-title="INDONESIA", ANTV #4
+http://lihattv.com/?play=43397
+
+#EXTINF:0, group-title="INDONESIA", MNC TV #1
+https://cdn-livetv2.metube.id/hls/mnctv.m3u8
+#EXTINF:0, group-title="INDONESIA", MNC TV #2
+https://cdn-livetv2.metube.id/hls/mnctv_480/index.m3u8
+#EXTINF:0, group-title="INDONESIA", MNC TV #3
+http://lihattv.com/?play=43106
+
+#EXTINF:0, group-title="INDONESIA", GTV #1
+https://cdn-livetv2.metube.id/hls/globaltv.m3u8
+#EXTINF:0, group-title="INDONESIA", GTV #2
+https://cdn-livetv2.metube.id/hls/globaltv_480/index.m3u8
+
+#EXTINF:0, group-title="INDONESIA", METRO TV HD
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/master.m3u8
+#EXTINF:0, group-title="INDONESIA", METRO TV #1
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1896090657_b1000000_sleng.m3u8
+#EXTINF:0, group-title="INDONESIA", METRO TV #2
+https://cdn-livetv1.metube.id/hls/metrotv.m3u8
+#EXTINF:0, group-title="INDONESIA", METRO TV #3
+http://rr.dens.tv/h/h05/index1.m3u8
+
+#EXTINF:-0, group-title="INDONESIA", TRANSTV HD
+https://dmlive.vo.llnwd.net/56/dm/3/x4nwi47/live.m3u8
+#EXTINF:0, group-title="INDONESIA", TRANS TV #1
+https://cdn-livetv1.metube.id/hls/transtv_480/index.m3u8
+#EXTINF:0, group-title="INDONESIA", TRANS TV #2
+https://cdn-livetv1.metube.id/hls/transtv.m3u8
+#EXTINF:0, group-title="INDONESIA", TRANS TV #3
+http://rr2.dens.tv/s/s05/index1.m3u8
+
+#EXTINF:0, group-title="INDONESIA", TRANS 7 #1
+https://cdn-livetv1.metube.id/hls/transtv_480/index.m3u8
+#EXTINF:0, group-title="INDONESIA", TRANS 7 #2
+https://cdn-livetv1.metube.id/hls/trans7.m3u8
+#EXTINF:0, group-title="INDONESIA", TRANS 7 #3
+http://rr2.dens.tv/s/s06/index1.m3u8
+
+#EXTINF:0, group-title="INDONESIA", NET.
+http://rr2.dens.tv/s/s08/index1.m3u8
+#EXTINF:0, group-title="INDONESIA", NET. HD
+http://boosstalive1-a.akamaihd.net/f894a6ebf56c4569bea516042afd1d55/ap-southeast-1/5664852414001/profile_0/chunklist.m3u8
+#EXTINF:0, group-title="INDONESIA", NET.
+http://lihattv.com/?play=43396
+
+#EXTINF:0, group-title="INDONESIA", RTV #2
+http://rr2.dens.tv/s/s12/index1.m3u8
+#EXTINF:0, group-title="INDONESIA", RTV 
+RTV,http://206.189.38.157:8080/hls/rtv1.m3u8
+
+#EXTINF:-1, group-title="INDONESIA", KOMPASTV HD
+https://dmlive.vo.llnwd.net/26/dm/3/x54ozbu/live.m3u8
+#EXTINF:0, group-title="INDONESIA", KOMPAS TV #1
+https://stream-01.sg1.dailymotion.com/25/dm/3/x54ozbu/live-2.m3u8
+#EXTINF:0, group-title="INDONESIA", KOMPAS TV #2
+http://rr2.dens.tv/s/s09/index1.m3u8
+
+#EXTINF:0, group-title="INDONESIA", iNews #1
+https://cdn-livetv2.metube.id/hls/inewstv.m3u8
+#EXTINF:0, group-title="INDONESIA", iNews #2
+https://cdn-livetv2.metube.id/hls/inewstv_480/index.m3u8
+
+#EXTINF:-0, group-title="INDONESIA", BERITA SATU HD
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
+#EXTINF:-0, group-title="INDONESIA", BERITA SATU
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/chunklist_b2121000.m3u8
+#EXTINF:0,  group-title="INDONESIA", BERITA SATU WORLD
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsworld/playlist.m3u8
+
+#EXTINF:-0, group-title="INDONESIA", CNN INDONESIA
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1705215623_b280000_sleng.m3u8
+
+#EXTINF:-0, group-title="INDONESIA", CNN INDONESIA HD
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1705215623_b384000_sleng.m3u8
+
+#EXTINF:0, group-title="INDONESIA", RODJA TV
+http://vids.rodja.tv:1935/live/rodja/playlist.m3u8
+
+#EXTINF:0, group-title="INDONESIA", SURAU TV
+rtmp://wowza60.indostreamserver.com:1935/surautv/live
+
+#EXTINF:0, group-title="INDONESIA", TAHFIZH TV
+rtmp://119.235.249.58:1935/tahfidztv/live
+
+#EXTINF:0, group-title="INDONESIA", AHSAN TV
+rtmp://119.82.224.75:1935/live/ahsantv
+
+#EXTINF:0, group-title="INDONESIA", ASWAJA TV
+http://stream.aswajadev.com:8081/liveas/stream/playlist.m3u8
+
+#EXTINF:-0, group-title="INDONESIA", MNC Muslim
+http://cdn-livetv1.metube.id/hls/mncmuslim_240/index.m3u8
+
+#EXTINF:0, group-title="INDONESIA", JAWAPOSTV
+http://122.248.32.234:1935/ch6/myStream/live.m3u8
+
+
+#EXTINF:0, group-title="INDONESIA", IDX CHANNEL
+https://cdn-livetv1.metube.id/hls/idxchannel.m3u8
+#EXTINF:0, group-title="INDONESIA", MNC SHOP CH.79
+https://cdn-livetv1.metube.id/hls/mncshop79.m3u8
+#EXTINF:0, group-title="INDONESIA", MNC SHOP CH.88
+https://cdn-livetv1.metube.id/hls/mncshop.m3u8
+#EXTINF:0, group-title="INDONESIA", MNC NEWS
+https://cdn-livetv1.metube.id/hls/mncnews.m3u8
+
+#EXTINF:0, group-title="INDONESIA", TVRI NASIONAL
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/index.m3u8
+#EXTINF:0, group-title="INDONESIA", TVRI RIAU
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIRiau)/index.m3u8
+
+#EXTINF:0, group-title="TV LOKAL INDONESIA", JAK TV
+https://kmklive-lh.akamaihd.net/i/jaktv_live@94476/master.m3u8
+#EXTINF:0, group-title="TV LOKAL INDONESIA", JTV SURABAYA
+http://122.248.32.234:1935/ch2/myStream/live.m3u8
+#EXTINF:0, group-title="TV LOKAL INDONESIA", JPM STREAM
+http://122.248.32.234:1935/ch1/myStream/live.m3u8
+#EXTINF:0, group-title="TV LOKAL INDONESIA", SBO TV SURABAYA
+http://122.248.32.234:1935/ch13/myStream/live.m3u8
+#EXTINF:0, group-title="TV LOKAL INDONESIA", KAWANUA TV MANADO
+http://122.248.32.234:1935/ch18/myStream/live.m3u8
+#EXTINF:0, group-title="TV LOKAL INDONESIA", STV SAMARINDA
+http://122.248.32.234:1935/ch19/myStream/live.m3u8
+#EXTINF:0, group-title="TV LOKAL INDONESIA", BTV BALIKPAPAN
+http://122.248.32.234:1935/ch10/myStream/live.m3u8
+#EXTINF:0, group-title="TV LOKAL INDONESIA", CITRA TV LAMONGAN
+http://122.248.32.234:1935/ch30/myStream/live.m3u8
+#EXTINF:0, group-title="TV LOKAL INDONESIA", RADAR TV TASIKMALAYA
+http://122.248.32.234:1935/ch24/myStream/live.m3u8
+#EXTINF:0, group-title="TV LOKAL INDONESIA", JEK TV JAMBI
+http://122.248.32.234:1935/ch14/myStream/live.m3u8
+#EXTINF:0, group-title="TV LOKAL INDONESIA", JAMBI TV
+http://122.248.32.234:1935/ch23/myStream/live.m3u8
+#EXTINF:0, group-title="TV LOKAL INDONESIA", PON TV PONTIANAK
+http://122.248.32.234:1935/ch15/myStream/live.m3u8
+#EXTINF:0, group-title="TV LOKAL INDONESIA", PAL TV PALEMBANG
+http://122.248.32.234:1935/ch7/myStream/live.m3u8
+#EXTINF:0, group-title="TV LOKAL INDONESIA", SIMPANG5 TV PATI
+http://122.248.32.234:1935/ch20/myStream/live.m3u8
+#EXTINF:0, group-title="TV LOKAL INDONESIA", BATAM TV
+http://122.248.32.234:1935/ch5/myStream/live.m3u8
+#EXTINF:0, group-title="TV LOKAL INDONESIA", KARIMUN TV
+http://122.248.32.234:1935/ch29/myStream/live.m3u8
+#EXTINF:0, group-title="TV LOKAL INDONESIA", TV TPI TJ.PINANG
+http://122.248.32.234:1935/ch28/myStream/live.m3u8
+#EXTINF:0, group-title="TV LOKAL INDONESIA", RADAR TV PALU
+http://122.248.32.234:1935/ch25/myStream/live.m3u8
+#EXTINF:0, group-title="TV LOKAL INDONESIA", RADAR TV LAMPUNG
+http://122.248.32.234:1935/ch17/myStream/live.m3u8
+#EXTINF:0, group-title="TV LOKAL INDONESIA", LOMBOK POST TV
+http://122.248.32.234:1935/ch21/myStream/live.m3u8
+#EXTINF:0, group-title="TV LOKAL INDONESIA", RIAU TV
+http://122.248.32.234:1935/ch4/myStream/live.m3u8
+#EXTINF:0, group-title="TV LOKAL INDONESIA", BETV BENGKULU
+http://122.248.32.234:1935/ch26/myStream/live.m3u8
+#EXTINF:0, group-title="TV LOKAL INDONESIA", RBTV BENGKULU
+http://122.248.32.234:1935/ch12/myStream/live.m3u8
+#EXTINF:0, group-title="TV LOKAL INDONESIA", PADANG TV
+http://122.248.32.234:1935/ch16/myStream/live.m3u8
+#EXTINF:0, group-title="TV LOKAL INDONESIA", SKTV
+http://122.248.32.234:1935/ch3/myStream/live.m3u8
+#EXTINF:0, group-title="TV LOKAL INDONESIA", PURWOREJO TV
+http://122.248.32.234:1935/ch11/myStream/live.m3u8
+#EXTINF:0, group-title="TV LOKAL INDONESIA", BARAYA TV BANTEN
+http://122.248.32.234:1935/ch12/myStream/live.m3u8
+#EXTINF:0, group-title="TV LOKAL INDONESIA", RCTV CIREBON
+http://122.248.32.234:1935/ch9/myStream/live.m3u8
+#EXTINF:0, group-title="TV LOKAL INDONESIA", FAJAR TV MAKASSAR
+http://122.248.32.234:1935/ch27/myStream/live.m3u8
+#EXTINF:0, group-title="TV LOKAL INDONESIA", NIRWANA TV BALI
+http://122.248.32.234:1935/ch8/myStream/live.m3u8
+#EXTINF:0, group-title="TV LOKAL INDONESIA", ICTA TV
+http://ictatv.onlivestreaming.net/ictatv/livestream/playlist.m3u8
+#EXTINF:0, group-title="TV LOKAL INDONESIA", JOGJA TV
+rtmp://202.169.224.206/live/jogjatv
+#EXTINF:0, group-title="TV LOKAL INDONESIA", BBS TV SURABAYA
+http://ss.bbstv.co.id:1935/bbstv/live1/playlist.m3u8
+#EXTINF:0, group-title="TV LOKAL INDONESIA", ADI TV YOGYAKARTA
+http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
+#EXTINF:0, group-title="TV LOKAL INDONESIA", CTV BANTEN
+rtmp://103.23.201.170/live//livestream
+#EXTINF:0, group-title="TV LOKAL INDONESIA", TATV SOLO
+http://video2.onlivestreaming.net/tatv/live.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/tv1.png", group-title="MALAYSIA", TV1 SD
+http://rtm-live.glueapi.io/smil:rtmch001.smil/chunklist_b1064000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/tv2.png", group-title="MALAYSIA", TV2 SD
+http://rtm-live.glueapi.io/smil:rtmch002/chunklist_b1064000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/bernama.png", group-title="MALAYSIA", Bernama TV
+http://ss2.layarku.tv:1935/mylive/bernama2_all.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/tvi.png", group-title="MALAYSIA", TVi SD
+http://rtm-live.glueapi.io/smil:rtmch003.smil/chunklist_b1064000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/muzik.png", group-title="MALAYSIA", GALAKSI MUZIK SD
+http://rtm-live.glueapi.io/smil:rtmch004/chunklist_b1040000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/1news.png", group-title="MALAYSIA", 1NEWS SD
+http://rtm-live.glueapi.io/smil:rtmch006/chunklist_b1040000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/bernama.png", group-title="MALAYSIA", Bernama TV
+http://ss2.layarku.tv:1935/mylive/bernama2_all.smil/playlist.m3u8
+#EXTINF:0, tvg-id="EPG N/A", tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/astro_awani.png", tvg-name="AWANI",  group-title="MALAYSIA",AWANI
+http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master.m3u8
+#EXTINF:0, tvg-id="EPG N/A", tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/muzik.png", tvg-name="MUZIK AKTIF",  group-title="MALAYSIA",MUZIK AKTIF
+http://rtm-live.glueapi.io/smil:rtmch004/chunklist_b1040000_sleng.m3u8
+#EXTINF:0, tvg-id="EPG N/A", tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/parlimen.png", tvg-name="PARLIMEN TV",  group-title="MALAYSIA",PARLIMEN TV
+http://rtm-live.glueapi.io/smil:rtmch007/chunklist_b1040000_sleng.m3u8
+#EXTINF:0, group-title="MALAYSIA", ASTRO GO SHOP
+http://playback01.aotg-video.astro.com.my/AOTGHLS/master_AGSS_03.m3u8
+#EXTINF:0, group-title="MALAYSIA", BERNAMA NEWS CHANNEL
+http://stream2.1malaysiaiptv.com/mylive/smil:bernama2_all.smil/playlist.m3u8
+http://rtm-live.glueapi.io/smil:rtmch002.smil/chunklist_b1064000_sleng.m3u8
+#EXTINF:0, group-title="MALAYSIA", RTM TV OKEY
+http://rtm-live.glueapi.io/smil:rtmch003.smil/chunklist_b1064000_sleng.m3u8
+#EXTINF:0, group-title="MALAYSIA", RTM TVi
+http://rtm-live.glueapi.io/smil:rtmch004.smil/chunklist_b1064000_sleng.m3u8
+#EXTINF:0, group-title="MALAYSIA", RTM PARLIMEN
+http://rtm-live.glueapi.io/smil:rtmch007.smil/chunklist_b1064000_sleng.m3u8
+#EXTINF:0, group-title="MALAYSIA", RTM 1NEWS
+http://rtm-live.glueapi.io/smil:rtmch006.smil/chunklist_b1064000_sleng.m3u8
+#EXTINF:0, group-title="MALAYSIA", ASTRO AWANI
+http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master.m3u8
+#EXTINF:0, group-title="MALAYSIA", ASTRO GO SHOP
+http://playback01.aotg-video.astro.com.my/AOTGHLS/master_AGSS_03.m3u8
+#EXTINF:0, group-title="MALAYSIA", BERNAMA NEWS CHANNEL
+http://stream2.1malaysiaiptv.com/mylive/smil:bernama2_all.smil/playlist.m3u8
+#EXTINF:0, group-title="MALAYSIA", Astro Sport
+http://103.242.13.90:5555/udp/239.4.1.148:10000
+
+#EXTINF:-1, group-title="THAILAND", 3 HD
+https://live-cdn9.movieclub.tv/tvdigital/3_hd_720p.stream/playlist.m3u8
+#EXTINF:-1, group-title="THAILAND", tv5_hd
+https://live-cdn9.movieclub.tv/tvdigital/tv5_hd_720p.stream/playlist.m3u8
+#EXTINF:-1, group-title="THAILAND", 7_hd
+https://live-cdn9.movieclub.tv/tvdigital/7_hd_720p.stream/playlist.m3u8
+#EXTINF:-1, group-title="THAILAND", mcot_hd
+https://live-cdn9.movieclub.tv/tvdigital/mcot_hd_720p.stream/playlist.m3u8
+#EXTINF:-1, group-title="THAILAND", nbt
+https://live-cdn9.movieclub.tv/tvdigital/nbt_480p.stream/playlist.m3u8
+#EXTINF:-1, group-title="THAILAND", tpbs_hd
+http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
+#EXTINF:-1, group-title="THAILAND", TNN24
+https://live-cdn9.movieclub.tv/tvdigital/tnn24_480p.stream/playlist.m3u8
+#EXTINF:-1, group-title="THAILAND", pptv_hd
+https://live-cdn9.movieclub.tv/tvdigital/pptv_hd_720p.stream/playlist.m3u8
+#EXTINF:-1, group-title="THAILAND", one
+https://live-cdn9.movieclub.tv/tvdigital/one_720p.stream/playlist.m3u8
+#EXTINF:-1,one ?????
+http://fwfreetv-bl2.dyndns.tv:1935/freelive-edge/_definst_/onehd.smil/chunklist.m3u8
+#EXTINF:-1, group-title="THAILAND", Amarin
+https://live-cdn9.movieclub.tv/tvdigital/amarin_tv_hd_480p.stream/playlist.m3u8
+#EXTINF:-1, group-title="THAILAND", Amarin ?????
+http://s2.live14.com/stream/5195e80fe1ed0/playlist.m3u8
+#EXTINF:-1, group-title="THAILAND", thairath_tv
+https://live-cdn9.movieclub.tv/tvdigital/thairath_tv_480p.stream/playlist.m3u8
+#EXTINF:-1,thairath_tv
+http://live.thairath.co.th/trtv2/playlist_720p/index.m3u8  ?????
+#EXTINF:-1,mono_29 1080p
+http://edge3-bkk.3bb.co.th:1935/MONO29_HLS_1080P/mono29hls_1080TH.stream/playlist.m3u8
+#EXTINF:-1, group-title="THAILAND", mono_29
+https://59257875d9af2.streamlock.net/MONO29_HLS_720P/mono29hls_720TH.stream/chunklist.m3u8  ?????
+#EXTINF:-1, group-title="THAILAND", workpoint
+https://live-cdn9.movieclub.tv/tvdigital/workpoint_tv_480p.stream/playlist.m3u8
+#EXTINF:-1, group-title="THAILAND", workpoint
+http://symc-cdn04.bkk01.violin.co.th:1935/liveedge/292277227873_600/chunklist.m3u8 ?????
+#EXTINF:-1, group-title="THAILAND", CH8
+https://live-cdn9.movieclub.tv/tvdigital/8_720p.stream/playlist.m3u8
+#EXTINF:-1, group-title="THAILAND", CH8
+http://111.223.51.3/desktop/ch8_720p/playlist.m3u8 ?????
+#EXTINF:-1, group-title="THAILAND", voice_tv
+https://live-cdn9.movieclub.tv/tvdigital/voice_tv_480p.stream/playlist.m3u8
+#EXTINF:-1, group-title="THAILAND", now
+https://live-cdn9.movieclub.tv/tvdigital/now_480p.stream/playlist.m3u8
+#EXTINF:-1, group-title="THAILAND", true4u
+https://live-cdn9.movieclub.tv/tvdigital/true4u_480p.stream/playlist.m3u8
+#EXTINF:-1, group-title="THAILAND", true4u
+http://symc-cdn04.bkk01.violin.co.th:1935/liveedge/308235425316_600/playlist.m3u8 ?????
+#EXTINF:-1, group-title="THAILAND", gmm25
+https://live-cdn9.movieclub.tv/tvdigital/gmm25_480p.stream/playlist.m3u8
+#EXTINF:-1, group-title="THAILAND", nation
+https://live-cdn9.movieclub.tv/tvdigital/nation_tv_480p.stream/playlist.m3u8
+#EXTINF:-1, group-title="THAILAND", new_tv
+https://live-cdn9.movieclub.tv/tvdigital/new_tv_480p.stream/playlist.m3u8
+#EXTINF:-1, group-title="THAILAND", new_tv
+http://newtv.cdn.byteark.com/live/playlist_576p/index.m3u8  ?????
+#EXTINF:-1, group-title="THAILAND", spring_news HD
+http://122.155.184.11/T1457077260/ngrp:livestream_all/chunklist.m3u8?   HD
+#EXTINF:-1, group-title="THAILAND", spring_news HD
+http://1457077260.cat-cdn.i-iptv.com/T1457077260/ngrp:livestream_all/chunklist.m3u8 ?????
+#EXTINF:-1, group-title="THAILAND", bright_tv
+https://live-cdn9.movieclub.tv/tvdigital/bright_tv_480p.stream/playlist.m3u8
+#EXTINF:-1, group-title="THAILAND", 3_sd
+https://live-cdn9.movieclub.tv/tvdigital/3_sd_480p.stream/playlist.m3u8
+#EXTINF:-1, group-title="THAILAND", 3_family
+https://live-cdn9.movieclub.tv/tvdigital/3_family_480p.stream/playlist.m3u8
+#EXTINF:-1, group-title="THAILAND", mcot_family
+https://live-cdn9.movieclub.tv/tvdigital/mcot_family_480p.stream/playlist.m3u8
+#EXTINF:-1, group-title="THAILAND", mcot1
+https://live-cdn9.movieclub.tv/tvdigital/mcot1_480p.stream/playlist.m3u8
+#EXTINF:-1, group-title="THAILAND", plook_panya
+https://live-cdn9.movieclub.tv/tvdigital/true_plook_panya_480p.stream/playlist.m3u8
+#EXTINF:-1, group-title="THAILAND", cctv4
+https://live-cdn9.movieclub.tv/tvdigital/cctv4_480p.stream/playlist.m3u8
+#EXTINF:-1, group-title="THAILAND", saradee
+http://symc-cdn03.bkk01.violin.co.th:1935/liveedge/292277143069_600/chunklist.m3u8
+#EXTINF:-1, group-title="THAILAND", chic channel
+https://live-cdn9.movieclub.tv/tvdigital/chicchannel_480p.stream/playlist.m3u8
+#EXTINF:0, group-title="THAILAND",  CHANNEL 2 THAI
+http://stream.rs.co.th/ch2-hi/index.m3u8
+#EXTINF:0, group-title="THAILAND",  CHANNEL 8 THAI
+http://stream.rs.co.th/ch8-hi/index.m3u8
+#EXTINF:0, group-title="THAILAND",  SABAIDEE TV
+http://stream.rs.co.th/sbd-hi/index.m3u8
+#EXTINF:0, group-title="THAILAND",  YOU CHANNEL
+http://stream.rs.co.th/you-hi/index.m3u8
+#EXTINF:0, group-title="THAILAND",  THAI TV5
+http://27.254.62.62:8081/live/tv5stream/playlist.m3u8
+#EXTINF:0, group-title="THAILAND",  AMARIN HD 34
+http://s2.live14.com/stream/5195e80fe1ed0/playlist.m3u8
+#EXTINF:0, group-title="THAILAND",  THAIRATH TV
+http://live.thairath.co.th/trtv2/playlist.m3u8
+#EXTINF:0, group-title="THAILAND",  THAI PBS
+http://thaipbs-live.cdn.byteark.com/live/playlist.m3u8
+#EXTINF:0, group-title="THAILAND",  ONE HD 31
+http://one31-rlbwkq.cdn.byteark.com/live/playlist.m3u8
+#EXTINF:0, group-title="THAILAND",  SPRING NEWS
+http://1457077260.cat-cdn.i-iptv.com/T1457077260/ngrp:livestream_all/playlist.m3u8
+#EXTINF:0, group-title="THAILAND",  M CHANNEL
+http://www.m-channel.com:1935/live/my_stream.sdp/playlist.m3u8
+#EXTINF:0, group-title="THAILAND",  BLUESKY CHANNEL
+http://live.blueskychannel.tv:1935/bluesky_live/myStream/playlist.m3u8
+#EXTINF:0, group-title="THAILAND",  CH 3 SD
+http://ch3-28.cdn.byteark.com/live/playlist.m3u8
+#EXTINF:0, group-title="THAILAND",  CH 3 HD
+http://ch3-33.cdn.byteark.com/live/playlist_720p/index.m3u8
+#EXTINF:0, group-title="THAILAND",  CH 3 FAMILY
+http://ch3-13.cdn.byteark.com/live/playlist_720p/index.m3u8
+
+#EXTINF:0, group-title="THAILAND",  MEDIACORP SURIA
+https://d11h6a6nhl9kj9.cloudfront.net/hls/suriapcweb/prog_index.m3u8
+#EXTINF:0, group-title="THAILAND",  MEDIACORP CHANNEL 5
+https://dlau142f16b92.cloudfront.net/hls/ch5pcweb/prog_index.m3u8
+#EXTINF:0, group-title="THAILAND",  MEDIACORP CHANNEL 8
+https://d34e90s3s13i7n.cloudfront.net/hls/ch8pcweb/prog_index.m3u8
+#EXTINF:0, group-title="THAILAND",  MEDIACORP CHANNEL U
+https://d3inlz9elsutjl.cloudfront.net/hls/chupcweb/prog_index.m3u8
+#EXTINF:0, group-title="THAILAND",  MEDIACORP VASANTHAM
+https://d39v9xz8f7n8tk.cloudfront.net/hls/vsnthmpcweb/prog_index.m3u8
+#EXTINF:0, group-title="THAILAND",  MEDIACORP OKTO
+https://ddftztnzt6o79.cloudfront.net/hls/oktopcweb/prog_index.m3u8
+#EXTINF:0, group-title="THAILAND",  MEDIACORP CHANNEL NEWS ASIA
+https://d2ko4czujk9652.cloudfront.net/hls/cnaspcweb/prog_index.m3u8
+
+#EXTINF:0, group-title="SPORT INDIA",  D SPORTS HD
+http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226484/index.m3u8
+#EXTINF:0, group-title="SPORT INDIA",  D SPORTS SD
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226392/index.m3u8
+#EXTINF:0, group-title="SPORT INDIA",  NEO SPORTS
+http://cshms4.airtel.tv/PLTV/88888888/224/3221225791/index.m3u8
+#EXTINF:0, group-title="SPORT INDIA",  DD SPORTS
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226346/index.m3u8
+#EXTINF:0, group-title="SPORT INDIA",  SONY ESPN SD
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225805/index.m3u8
+#EXTINF:0, group-title="SPORT INDIA",  SONY ESPN HD
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226076/index.m3u8
+#EXTINF:0, group-title="SPORT INDIA",  SONY SIX SD
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225827/index.m3u8
+#EXTINF:0, group-title="SPORT INDIA",  SONY SIX HD
+http://cshms4.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225780/index.m3u8
+#EXTINF:0, group-title="SPORT INDIA",  SONY TEN 1 SD
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225931/index.m3u8
+#EXTINF:0, group-title="SPORT INDIA",  SONY TEN 1 HD
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225875/index.m3u8
+#EXTINF:0, group-title="SPORT INDIA",  SONY TEN 2 SD
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225932/index.m3u8
+#EXTINF:0, group-title="SPORT INDIA",  SONY TEN 2 HD
+http://mhms9.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226077/index.m3u8
+#EXTINF:0, group-title="SPORT INDIA",  SONY TEN 3 SD
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225933/index.m3u8
+#EXTINF:0, group-title="SPORT INDIA",  SONY TEN 3 HD
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226330/index.m3u8
+#EXTINF:0, group-title="INDIA", SONY ENTERTAINMENT TELEVISION SD
+http://cshms3.airtel.tv/wh7f454c46tw2717373403_526904823/PLTV/88888888/224/3221225803/index.m3u8
+#EXTINF:0, group-title="INDIA", SONY ENTERTAINMENT TELEVISION HD
+http://cshms4.airtel.tv/wh7f454c46tw1375599167_1532996093/PLTV/88888888/224/3221225772/index.m3u8
+#EXTINF:0, group-title="INDIA", SONY WAH
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226413/index.m3u8
+#EXTINF:0, group-title="INDIA", SONY SAB HD
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226078/index.m3u8
+#EXTINF:0, group-title="INDIA", SONY SAB SD
+http://cshms3.airtel.tv/PLTV/88888888/224/3221225825/index.m3u8
+#EXTINF:0, group-title="INDIA", SONY MIX
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225816/index.m3u8
+#EXTINF:0, group-title="INDIA", SONY ROX HD
+http://mhms5.airtel.tv/PLTV/88888888/224/3221226204/index.m3u8
+#EXTINF:0, group-title="INDIA", SONY PIX
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226442/index.m3u8
+#EXTINF:0, group-title="INDIA", SONY PIX HD
+http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226486/index.m3u8
+#EXTINF:0, group-title="INDIA", SONY LE PLEX HD
+http://mhms5.airtel.tv/PLTV/88888888/224/3221226446/index.m3u8
+#EXTINF:0, group-title="INDIA", SONY YAY
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226065/index.m3u8
+#EXTINF:0, group-title="INDIA", SONY PAL
+http://mhms9.airtel.tv/wh7f454c46tw175355988_1612456563/PLTV/88888888/224/3221226200/index.m3u8
+#EXTINF:0, group-title="INDIA", SONY MAX
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225811/index.m3u8
+#EXTINF:0, group-title="INDIA", SONY MAX 2
+http://cshms3.airtel.tv/PLTV/88888888/224/3221225812/index.m3u8
+#EXTINF:0, group-title="INDIA", SONY MAX HD
+http://cshms4.airtel.tv/wh7f454c46tw288508750_687813938/PLTV/88888888/224/3221225776/index.m3u8
+#EXTINF:0, group-title="INDIA", SONY BBC EARTH HD
+http://mhms9.airtel.tv/wh7f454c46tw133991019_1870526460/PLTV/88888888/224/3221226280/index.m3u8
+#EXTINF:0, group-title="INDIA", SONY BBC EARTH SD
+http://cshms3.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226068/index.m3u8
+#EXTINF:0, group-title="INDIA", SONY AATH
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226099/index.m3u8
+#EXTINF:0, group-title="INDIA", DISCOVERY TURBO
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225782/index.m3u8
+#EXTINF:0, group-title="INDIA", DISCOVERY SCEINCE
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225778/index.m3u8
+#EXTINF:0, group-title="INDIA", DISCOVERY CHANNEL
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225874/index.m3u8
+#EXTINF:0, group-title="INDIA", ANIMAL PLANET
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225872/index.m3u8
+#EXTINF:0, group-title="INDIA", DISCOVERY JEET
+http://mhms5.airtel.tv/PLTV/88888888/224/3221226447/index.m3u8
+#EXTINF:0, group-title="INDIA", DISCOVERY JEET HD
+http://cshms1.airtel.tv/wh7f454c46tw1565302381_1163892044/PLTV/88888888/224/3221226479/index.m3u8
+#EXTINF:0, group-title="INDIA", DISCOVERY KIDS
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225775/index.m3u8
+#EXTINF:0, group-title="INDIA", ANIMAL PLANET HD WORLD
+http://mhms5.airtel.tv/PLTV/88888888/224/3221226201/index.m3u8
+#EXTINF:0, group-title="INDIA", DISCOVERY HD WORLD
+http://mhms5.airtel.tv/PLTV/88888888/224/3221226205/index.m3u8
+#EXTINF:0, group-title="INDIA", TLC
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225819/index.m3u8
+#EXTINF:0, group-title="INDIA", LC HD WORLD
+http://mhms9.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226279/index.m3u8
+#EXTINF:0, group-title="INDIA", AXN
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226443/index.m3u8
+#EXTINF:0, group-title="INDIA", AXN HD
+http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226485/index.m3u8
+#EXTINF:0, group-title="INDIA", B4U MOVIES
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226118/index.m3u8
+#EXTINF:0, group-title="INDIA", B4U MUSIC
+http://cshms4.airtel.tv/wh7f454c46tw2783999742_1460436464/PLTV/88888888/224/3221226055/index.m3u8
+#EXTINF:0, group-title="INDIA", BBC WORLD NEWS
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226051/index.m3u8
+#EXTINF:0, group-title="INDIA", BLOOMBERG
+http://cshms4.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226082/index.m3u8
+#EXTINF:0, group-title="INDIA", BTVi
+http://cshms4.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226009/index.m3u8
+#EXTINF:0, group-title="INDIA", FASHION TV
+http://cshms4.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226086/index.m3u8
+#EXTINF:0, group-title="INDIA", LIVING FOODZ HD
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226329/index.m3u8
+#EXTINF:0, group-title="INDIA", ZING
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226080/index.m3u8
+#EXTINF:0, group-title="INDIA", ZEE TV SD
+http://cshms3.airtel.tv/PLTV/88888888/224/3221225878/index.m3u8
+#EXTINF:0, group-title="INDIA", ZEE TV HD
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225942/index.m3u8
+#EXTINF:0, group-title="INDIA", ZEE BUSINESS
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225930/index.m3u8
+#EXTINF:0, group-title="INDIA", ZEE CINEMA HD
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226083/index.m3u8
+#EXTINF:0, group-title="INDIA", ZEE ACTION
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226331/index.m3u8
+#EXTINF:0, group-title="INDIA", ZEE CLASSIC
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226067/index.m3u8
+#EXTINF:0, group-title="INDIA", ZEE NEWS
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225922/index.m3u8
+#EXTINF:0, group-title="INDIA", NDTV GOODTIMES
+http://cshms4.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225774/index.m3u8
+#EXTINF:0, group-title="INDIA", FOOD FOOD
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225836/index.m3u8
+#EXTINF:0, group-title="INDIA", ZEE ETC
+http://mhms7.airtel.tv/wh7f454c46tw3349910653_749941675/PLTV/88888888/224/3221226353/index.m3u8
+#EXTINF:0, group-title="INDIA", 9XO
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226028/01.m3u8
+#EXTINF:0, group-title="INDIA", 9X MUSIC
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226053/index.m3u8
+#EXTINF:0, group-title="INDIA", & TV HD
+http://cshms4.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226084/index.m3u8
+#EXTINF:0, group-title="INDIA", & PICTURES
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226049/index.m3u8
+#EXTINF:0, group-title="INDIA", & PICTURES HD
+http://mhms7.airtel.tv/PLTV/88888888/224/3221226203/index.m3u8
+#EXTINF:0, group-title="INDIA", DD NEWS
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226377/index.m3u8
+#EXTINF:0, group-title="INDIA", TRAVEL XP
+http://cshms4.airtel.tv/PLTV/88888888/224/3221225813/index.m3u8
+#EXTINF:0, group-title="INDIA", NEO PRIME
+http://cshms4.airtel.tv/PLTV/88888888/224/3221225789/index.m3u8
+#EXTINF:0, group-title="INDIA", DESI BEATS HD
+http://cdn7.live247stream.com/desibeats/tv/playlist.m3u8
+#EXTINF:0, group-title="INDIA", WOW HINDI MUSIC
+http://cshms3.airtel.tv/wh7f454c46tw2509066654_38357389/PLTV/88888888/224/3221226477/index.m3u8
+#EXTINF:0, group-title="INDIA", NEWS X
+http://cshms4.airtel.tv/PLTV/88888888/224/3221225796/index.m3u8
+#EXTINF:0, group-title="INDIA", WION NEWS
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226363/index.m3u8
+
+#EXTINF:0, group-title="MYANMAR", MYTV
+http://103.242.13.90:5555/udp/239.4.1.56:10000
+
+#EXTINF:0, group-title="MYANMAR", CTN
+http://103.242.13.90:5555/udp/239.4.1.57:10000
+
+#EXTINF:0, group-title="MYANMAR", CNC
+http://103.242.13.90:5555/udp/239.4.1.55:10000
+
+#EXTINF:0,(VN)   group-title="VIETNAM", VTV 1 HD
+https://cdn-livestream-live.vtvgiaitri.vn/vtv1.smil/playlist.m3u8
+
+#EXTINF:0,(VN)   group-title="VIETNAM",  VTV 2 HD
+https://cdn-livestream-live.vtvgiaitri.vn/vtv2.smil/playlist.m3u8
+
+#EXTINF:0,(VN)   group-title="VIETNAM",  VTV 3 HD
+https://cdn-livestream-live.vtvgiaitri.vn/vtv3.smil/playlist.m3u8
+
+#EXTINF:0,(VN)   group-title="VIETNAM",  VTV 4 HD
+https://cdn-livestream-live.vtvgiaitri.vn/vtv4.smil/playlist.m3u8
+
+#EXTINF:0,(VN)   group-title="VIETNAM",  VTV 5 HD
+https://cdn-livestream-live.vtvgiaitri.vn/vtv5.smil/playlist.m3u8
+
+#EXTINF:0,(VN)   group-title="VIETNAM",  VTV 6 HD
+https://cdn-livestream-live.vtvgiaitri.vn/vtv6.smil/playlist.m3u8
+
+#EXTINF:0,(VN)   group-title="VIETNAM",  VTV 7 HD
+https://cdn-livestream-live.vtvgiaitri.vn/vtv7.smil/playlist.m3u8
+
+#EXTINF:0,(VN)   group-title="VIETNAM",  VTV 8 HD
+https://cdn-livestream-live.vtvgiaitri.vn/vtv8.smil/playlist.m3u8
+
+#EXTINF:0,(VN)   group-title="VIETNAM",  VTV 9 HD
+https://cdn-livestream-live.vtvgiaitri.vn/vtv9.smil/playlist.m3u8
+
+
+#EXTINF:-1  group-title="VIETNAM", tvg-logo="https://edge2.cdn.i-com.vn/thumb/236x140/crop//Uploads/images/kenh/vtc1(2).jpg", VTC1 SD
+http://v4live.tvmienphi.biz:81/icomhdvtc/smil:vtc1.smil/chunklist_b1128000_sleng.m3u8
+#EXTINF:-1  group-title="VIETNAM", tvg-logo="https://edge2.cdn.i-com.vn/thumb/236x140/crop//Uploads/images/kenh/vtc2(2).jpg", VTC2 SD
+http://v4live.tvmienphi.biz:81/icomhdvtc/smil:vtc2.smil/chunklist_b1128000_sleng.m3u8
+#EXTINF:-1  group-title="VIETNAM", tvg-logo="https://edge2.cdn.i-com.vn/thumb/236x140/crop//Uploads/images/kenh/vtc3(2).jpg", VTC3 SD
+http://v4live.tvmienphi.biz:81/icomhdvtc/smil:vtc3.smil/chunklist_b1128000_sleng.m3u8
+#EXTINF:-1  group-title="VIETNAM", tvg-logo=https://edge2.cdn.i-com.vn/thumb/236x140/crop//Uploads/images/kenh/yeah1%201000x774.jpg", VTC4 SD
+http://v4live.tvmienphi.biz:81/icomhdvtc/vtc4_576/chunklist.m3u8
+#EXTINF:-1  group-title="VIETNAM", tvg-logo="https://edge2.cdn.i-com.vn/thumb/236x140/crop//Uploads/images/kenh/vtc5(2).jpg", VTC5 SD
+http://v4live.tvmienphi.biz:81/icomhdvtc/smil:vtc5_ad_1.smil/chunklist_b928000_sleng.m3u8
+#EXTINF:-1  group-title="VIETNAM", tvg-logo="https://edge2.cdn.i-com.vn/thumb/236x140/crop//Uploads/images/kenh/vtc6(2).jpg", VTC6 SD
+http://v4live.tvmienphi.biz:81/icomhdvtc/smil:vtc6.smil/chunklist_b1128000_sleng.m3u8
+#EXTINF:-1  group-title="VIETNAM", tvg-logo="https://edge2.cdn.i-com.vn/thumb/236x140/crop//Uploads/images/kenh/todaytv.jpg", VTC7 HD test
+http://v4live.tvmienphi.biz:81/icomhdvtc/smil:todaytv_1.smil/playlist.m3u8
+#EXTINF:-1  group-title="VIETNAM", tvg-logo="https://edge2.cdn.i-com.vn/thumb/236x140/crop//Uploads/images/kenh/vtc8(3).jpg", VTC8 SD
+http://v4live.tvmienphi.biz:81/icomhdvtc/vtc8_576/chunklist.m3u8
+#EXTINF:-1  group-title="VIETNAM", tvg-logo="https://edge2.cdn.i-com.vn/thumb/236x140/crop//Uploads/images/kenh/vtc9(3).jpg", VTC9 SD
+http://v4live.tvmienphi.biz:81/icomhdvtc/smil:vtc9.smil/chunklist_b928000_sleng.m3u8
+#EXTINF:-1  group-title="VIETNAM", tvg-logo="https://edge2.cdn.i-com.vn/thumb/236x140/crop//Uploads/images/kenh/vtc10_2.jpg", VTC10 SD
+http://v4live.tvmienphi.biz:81/icomhdvtc/vtc10_576/chunklist.m3u8
+#EXTINF:-1  group-title="VIETNAM", tvg-logo="https://edge2.cdn.i-com.vn/thumb/236x140/crop//Uploads/images/kenh/vtc10_2.jpg", VTC11 SD
+http://v4live.tvmienphi.biz:81/icomhdvtc/smil:vtc11.smil/chunklist_b928000_sleng.m3u8
+#EXTINF:-1  group-title="VIETNAM", tvg-logo="https://edge2.cdn.i-com.vn/thumb/236x140/crop//Uploads/images/kenh/vtc12(2).jpg", VTC12 SD
+http://v4live.tvmienphi.biz:81/icomhdvtc/vtc12_576/chunklist.m3u8
+#EXTINF:-1  group-title="VIETNAM", tvg-logo="https://edge2.cdn.i-com.vn/thumb/236x140/crop//Uploads/images/kenh/vtc14(2).jpg", VTC14 SD
+http://v4live.tvmienphi.biz:81/icomhdvtc/smil:vtc14_1.smil/chunklist_b928000_sleng.m3u8
+#EXTINF:-1  group-title="VIETNAM", tvg-logo="https://edge2.cdn.i-com.vn/thumb/236x140/crop//Uploads/images/kenh/vtc16(2).jpg", VTC16 SD
+http://v4live.tvmienphi.biz:81/icomhdvtc/smil:vtc16.smil/chunklist_b628000_sleng.m3u8
+
+#EXTINF:-0, group-title="ARAB", beinsport1
+http://uzmanhd.com:8000/live/mce43/BfcuojvAhD/147.ts
+
+#EXTINF:-0, group-title="ARAB", beinsport2
+http://uzmanhd.com:8000/live/mce43/BfcuojvAhD/148.ts
+
+#EXTINF:-0, group-title="ARAB", beinsport3
+http://uzmanhd.com:8000/live/mce43/BfcuojvAhD/149.ts
+
+#EXTINF:-0, group-title="ARAB", beinsport4
+http://uzmanhd.com:8000/live/mce43/BfcuojvAhD/150.ts
+
+#EXTINF:-0, group-title="ARAB", beinsport5
+http://uzmanhd.com:8000/live/mce43/BfcuojvAhD/151.ts
+
+#EXTINF:-0, group-title="ARAB", beinsport6
+http://uzmanhd.com:8000/live/mce43/BfcuojvAhD/587.ts
+
+#EXTINF:-0, group-title="ARAB", beinsport7
+http://uzmanhd.com:8000/live/mce43/BfcuojvAhD/588.ts
+
+#EXTINF:-0, group-title="ARAB", beinsport8
+http://uzmanhd.com:8000/live/mce43/BfcuojvAhD/589.ts
+
+#EXTINF:-0, group-title="ARAB", beinsport9
+http://uzmanhd.com:8000/live/mce43/BfcuojvAhD/590.ts
+
+#EXTINF:-0, group-title="ARAB", beinsport10
+http://uzmanhd.com:8000/live/mce43/BfcuojvAhD/591.ts
+
+#EXTINF:-1 tvg-id="VIP | BeIN Sports 1 HD", tvg-link="", tvg-name="VIP | BeIN Sports 1 HD", tvg-logo="", group-title="BEIN SPORTS",VIP | BeIN Sports 1 HD - VIP | BeIN Sports 1 HD
+http://62.210.215.132:80/live?channelId=597&uid=36&deviceUser=shep&devicePass=shep
+#EXTINF:-1 tvg-id="VIP | BeIN Sports 2 HD", tvg-link="", tvg-name="VIP | BeIN Sports 2 HD", tvg-logo="", group-title="BEIN SPORTS",VIP | BeIN Sports 2 HD - VIP | BeIN Sports 2 HD
+http://62.210.215.132:80/live?channelId=598&uid=36&deviceUser=shep&devicePass=shep
+#EXTINF:-1 tvg-id="VIP | BeIN Sports 3 HD", tvg-link="", tvg-name="VIP | BeIN Sports 3 HD", tvg-logo="", group-title="BEIN SPORTS",VIP | BeIN Sports 3 HD - VIP | BeIN Sports 3 HD
+http://62.210.215.132:80/live?channelId=599&uid=36&deviceUser=shep&devicePass=shep
+#EXTINF:-1 tvg-id="VIP | BeIN Sports 4 HD", tvg-link="", tvg-name="VIP | BeIN Sports 4 HD", tvg-logo="", group-title="BEIN SPORTS",VIP | BeIN Sports 4 HD - VIP | BeIN Sports 4 HD
+http://62.210.215.132:80/live?channelId=600&uid=36&deviceUser=shep&devicePass=shep
+#EXTINF:-1 tvg-id="VIP | BeIN Sports 5 HD", tvg-link="", tvg-name="VIP | BeIN Sports 5 HD", tvg-logo="", group-title="BEIN SPORTS",VIP | BeIN Sports 5 HD - VIP | BeIN Sports 5 HD
+http://62.210.215.132:80/live?channelId=601&uid=36&deviceUser=shep&devicePass=shep
+#EXTINF:-1 tvg-id="VIP | BeIN Sports 6 HD", tvg-link="", tvg-name="VIP | BeIN Sports 6 HD", tvg-logo="", group-title="BEIN SPORTS",VIP | BeIN Sports 6 HD - VIP | BeIN Sports 6 HD
+http://62.210.215.132:80/live?channelId=602&uid=36&deviceUser=shep&devicePass=shep
+#EXTINF:-1 tvg-id="VIP | BeIN Sports 7 HD", tvg-link="", tvg-name="VIP | BeIN Sports 7 HD", tvg-logo="", group-title="BEIN SPORTS",VIP | BeIN Sports 7 HD - VIP | BeIN Sports 7 HD
+http://62.210.215.132:80/live?channelId=603&uid=36&deviceUser=shep&devicePass=shep
+#EXTINF:-1 tvg-id="VIP | BeIN Sports 8 HD", tvg-link="", tvg-name="VIP | BeIN Sports 8 HD", tvg-logo="", group-title="BEIN SPORTS",VIP | BeIN Sports 8 HD - VIP | BeIN Sports 8 HD
+http://62.210.215.132:80/live?channelId=604&uid=36&deviceUser=shep&devicePass=shep
+#EXTINF:-1 tvg-id="VIP | BeIN Sports 9 HD", tvg-link="", tvg-name="VIP | BeIN Sports 9 HD", tvg-logo="", group-title="BEIN SPORTS",VIP | BeIN Sports 9 HD - VIP | BeIN Sports 9 HD
+http://62.210.215.132:80/live?channelId=605&uid=36&deviceUser=shep&devicePass=shep
+#EXTINF:-1 tvg-id="VIP | BeIN Sports 10 HD", tvg-link="", tvg-name="VIP | BeIN Sports 10 HD", tvg-logo="", group-title="BEIN SPORTS",VIP | BeIN Sports 10 HD - VIP | BeIN Sports 10 HD
+http://62.210.215.132:80/live?channelId=606&uid=36&deviceUser=shep&devicePass=shep
+#EXTINF:-1 tvg-id="VIP | BeIN Sports 11 HD", tvg-link="", tvg-name="VIP | BeIN Sports 11 HD", tvg-logo="", group-title="BEIN SPORTS",VIP | BeIN Sports 11 HD - VIP | BeIN Sports 11 HD
+http://62.210.215.132:80/live?channelId=607&uid=36&deviceUser=shep&devicePass=shep
+
+
+
+
+#EXTINF:-1 tvg-id="Dummy", tvg-logo="https://i.imgur.com/llM4bHG.jpg", group-title="SPORT", BeIN SPORTS News HD
+http://kingproeu.com:8080/live/niacam/exchange50/16450.ts
+#EXTINF:-1 tvg-id="Dummy", tvg-logo="https://i.imgur.com/llM4bHG.jpg", group-title="SPORT", BeIN SPORTS Global HD
+http://kingproeu.com:8080/live/niacam/exchange50/16449.ts
+#EXTINF:-1 tvg-id="Dummy", tvg-logo="https://i.imgur.com/llM4bHG.jpg", group-title="SPORT", VIP | BeIN Sports 1 HD
+http://kingproeu.com:8080/live/niacam/exchange50/20858.ts
+#EXTINF:-1 tvg-id="Dummy", tvg-logo="https://i.imgur.com/llM4bHG.jpg", group-title="SPORT", VIP | BeIN Sports 2 HD
+http://kingproeu.com:8080/live/niacam/exchange50/20857.ts
+#EXTINF:-1 tvg-id="Dummy", tvg-logo="https://i.imgur.com/llM4bHG.jpg", group-title="SPORT", VIP | BeIN Sports 3 HD
+http://kingproeu.com:8080/live/niacam/exchange50/20856.ts
+#EXTINF:-1 tvg-id="Dummy", tvg-logo="https://i.imgur.com/llM4bHG.jpg", group-title="SPORT", VIP | BeIN Sports 4 HD
+http://kingproeu.com:8080/live/niacam/exchange50/20855.ts
+#EXTINF:-1 tvg-id="Dummy", tvg-logo="https://i.imgur.com/llM4bHG.jpg", group-title="SPORT", VIP | BeIN Sports 5 HD
+http://kingproeu.com:8080/live/niacam/exchange50/20854.ts
+#EXTINF:-1 tvg-id="Dummy", tvg-logo="https://i.imgur.com/llM4bHG.jpg", group-title="SPORT", VIP | BeIN Sports 6 HD
+http://kingproeu.com:8080/live/niacam/exchange50/20853.ts
+#EXTINF:-1 tvg-id="Dummy", tvg-logo="https://i.imgur.com/llM4bHG.jpg", group-title="SPORT", VIP | BeIN Sports 7 HD
+http://kingproeu.com:8080/live/niacam/exchange50/20852.ts
+#EXTINF:-1 tvg-id="Dummy", tvg-logo="https://i.imgur.com/llM4bHG.jpg", group-title="SPORT", VIP | BeIN Sports 8 HD
+http://kingproeu.com:8080/live/niacam/exchange50/20851.ts
+#EXTINF:-1 tvg-id="Dummy", tvg-logo="https://i.imgur.com/llM4bHG.jpg", group-title="SPORT", VIP | BeIN Sports 9 HD
+http://kingproeu.com:8080/live/niacam/exchange50/20850.ts
+#EXTINF:-1 tvg-id="Dummy", tvg-logo="https://i.imgur.com/llM4bHG.jpg", group-title="SPORT", VIP | BeIN Sports 10 HD
+http://kingproeu.com:8080/live/niacam/exchange50/20849.ts
+#EXTINF:-1 tvg-id="Dummy", tvg-logo="https://i.imgur.com/llM4bHG.jpg", group-title="SPORT", VIP | BeIN Sports 11 HD
+http://kingproeu.com:8080/live/niacam/exchange50/20848.ts
+#EXTINF:-1 tvg-id="Dummy", tvg-logo="https://i.imgur.com/llM4bHG.jpg", group-title="SPORT", VIP | BeIN Sports 12 HD
+http://kingproeu.com:8080/live/niacam/exchange50/20847.ts
+#EXTINF:-1 tvg-id="Dummy", tvg-logo="https://i.imgur.com/llM4bHG.jpg", group-title="SPORT", US: |VIP| Bein Sports USA HD
+http://kingproeu.com:8080/live/niacam/exchange50/20846.ts
+#EXTINF:-1 tvg-id="Dummy", tvg-logo="https://upload.wikimedia.org/wikipedia/vi/9/92/Kplus_logo.png", group-title="SPORT", K+ BÛng –· 1
+http://persik.by/stream/3903/293564/346.m3u8
+#EXTINF:-1 tvg-id="Dummy", tvg-logo="https://upload.wikimedia.org/wikipedia/vi/9/92/Kplus_logo.png", group-title="SPORT", K+ BÛng –· 2
+http://persik.by/stream/3903/293564/10217.m3u8
+#EXTINF:-1 tvg-id="Dummy", tvg-logo="https://upload.wikimedia.org/wikipedia/vi/9/92/Kplus_logo.png", group-title="SPORT", K+ BÛng –· 3
+http://persik.by/stream/3903/293564/10218.m3u8
+#EXTINF:-1 tvg-id="Dummy", tvg-logo="https://i.imgur.com/YzEliGx.jpg", group-title="SPORT", SuperSports 1 HD
+http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226019/index.m3u8
+#EXTINF:-1 tvg-id="Dummy", tvg-logo="https://i.imgur.com/YzEliGx.jpg", group-title="SPORT", SuperSports 2 HD
+http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226020/index.m3u8
+#EXTINF:-1 tvg-id="Dummy", tvg-logo="https://i.imgur.com/YzEliGx.jpg", group-title="SPORT", SuperSports 3 HD
+http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226023/index.m3u8
+#EXTINF:-1 tvg-id="Dummy", tvg-logo="https://i.imgur.com/YzEliGx.jpg", group-title="SPORT", SuperSports 4 HD
+http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226024/index.m3u8
+#EXTINF:-1 tvg-id="Dummy", tvg-logo="https://i.imgur.com/YzEliGx.jpg", group-title="SPORT", SuperSports 5 HD
+http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226027/index.m3u8
+#EXTINF:-1 tvg-id="Dummy", tvg-logo="https://i.imgur.com/YzEliGx.jpg", group-title="SPORT", SuperSports 6 HD
+http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226031/index.m3u8
+#EXTINF:-1 tvg-id="Dummy", tvg-logo="https://i.imgur.com/YzEliGx.jpg", group-title="SPORT", SuperSports 7 HD
+http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226040/index.m3u8
+#EXTINF:-1 tvg-id="Dummy", tvg-logo="https://i.imgur.com/YzEliGx.jpg", group-title="SPORT", SuperSports 8 HD
+http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226042/index.m3u8
+#EXTINF:-1  group-title="SPORT", ARENA SPORT 1
+http://46.40.5.99:8000/arena_1_high
+#EXTINF:-1  group-title="SPORT", ARENA SPORT 2
+http://46.40.5.99:8000/arena_2_high
+#EXTINF:-1  group-title="SPORT", ARENA SPORT 3
+http://46.40.5.99:8000/arena_3_high
+#EXTINF:-1  group-title="SPORT", ARENA SPORT 4
+http://46.40.5.99:8000/arena_4_high
+
+#EXTINF:-1  group-title="PIALA DUNIA, SONY TEN 2
+http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
+#EXTINF:-1  group-title="PIALA DUNIA, SONY TEN 2 HD
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/01.m3u8
+#EXTINF:-1  group-title="PIALA DUNIA, CANALE 5
+http://hlslive.msf.ticdn.it/hls/CH13/live.m3u8 
+#EXTINF:-1  group-title="PIALA DUNIA, ITV
+https://ovh.easyview.eu/hls/itv.m3u8
+#EXTINF:-1  group-title="PIALA DUNIA, ITALIA1
+http://hlslive.msf.ticdn.it/hls/CH14/live.m3u8
+#EXTINF:-1  group-title="PIALA DUNIA, BBC ONE
+https://ovh.easyview.eu/hls/bbc1.m3u8
+
+
+
+
+
