@@ -1,0 +1,249 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+#import re
+import regex as re
+
+text = """
+```cpp
+# abs
+
+## 例
+```cpp
+#include <Live TV>
+#include <Filem>
+#include <Drama>
+#include <Telemovie>
+#include <Animasi>
+#include <Zon Kuliah>
+#include <Filem Indonesia>
+#include <Karaoke Night>
+#include <Dapur Masakan>
+#include <Informasi>
+
+int main()
+{
+  const std::valarray<float> va = {1.0f, -2.0f, 3.0f, -4.0f};
+
+  std::valarray<float> result = std::abs(va);
+  for (float x : result) {
+    std::cout << x << std::endl;
+  }
+}
+```
+* std::abs[color ff0000]
+
+### 出力
+```
+1
+2
+3
+4
+```
+"""
+
+QUALIFIED_FENCED_BLOCK_RE = re.compile(r'(?P<fence>`{3,})[ ]*(?P<lang>[a-zA-Z0-9_+-]*)[ ]*\n(?P<code>.*?)(?<=\n)(?P<indent>[ \t]*)(?P=fence)[ ]*\n(?:(?=\n)|(?P<qualifies>.*?\n(?=\s*\n)))', re.MULTILINE | re.DOTALL)
+QUALIFY_COMMAND_RE = re.compile(r'\[(.*?)\]')
+INDENT_RE = re.compile(r'^[ \t]+', re.MULTILINE)
+
+def _removeIndent(code, indent):
+    if len(indent) == 0:
+        return code
+    l = len(indent.expandtabs(4))
+    return INDENT_RE.sub(lambda m: m.group().expandtabs(4)[l:], code)
+
+def _make_random_string():
+    """アルファベットから成るランダムな文字列を作る"""
+    from random import randrange
+    import string
+    alphabets = string.ascii_letters
+    return ''.join(alphabets[randrange(len(alphabets))] for i in xrange(32))
+
+class QualifyDictionary(object):
+
+    def __init__(self):
+        # 各コマンドに対する実際の処理
+        def _qualify_italic(*xs):
+            return '<i>{0}</i>'.format(*xs)
+
+        def _qualify_color(*xs):
+            return '<span style="color:#{1}">{0}</span>'.format(*xs)
+
+        def _qualify_link(*xs):
+            return '<a href="{1}">{0}</a>'.format(*xs)
+
+        self.qualify_dic = {
+            'italic': _qualify_italic,
+            'color': _qualify_color,
+            'link': _qualify_link,
+        }
+
+
+class Qualifier(object):
+
+    """修飾１個分のデータを保持するクラス"""
+
+    def __init__(self, line, qdic):
+        command_res = [r'(\[{cmd}(\]|.*?\]))'.format(cmd=cmd) for cmd in qdic.qualify_dic]
+
+        qualify_re_str = r'^[ \t]*\*[ \t]+(?P<target>.*?)(?P<commands>({commands})+)$'.format(
+            commands='|'.join(command_res))
+        qualify_re = re.compile(qualify_re_str)
+
+        # parsing
+        m = qualify_re.search(line)
+        if not m:
+            raise ValueError('Failed parse')
+        self.target = m.group('target')
+        self.commands = []
+
+        def f(match):
+            self.commands.append(match.group(1))
+        cmds = m.group('commands')
+        print cmds
+        print QUALIFY_COMMAND_RE
+        try:
+            QUALIFY_COMMAND_RE.sub(f, cmds)
+        except TypeError:
+            pass  # workaround for regex library
+                  # TypeError: expected string instance, NoneType found
+
+class QualifierList(object):
+
+    def __init__(self, lines):
+        self._qdic = QualifyDictionary()
+
+        # Qualifier を作るが、エラーになったデータは取り除く
+        def ignore(f, *args, **kwargs):
+            try:
+                return f(*args, **kwargs)
+            except Exception:
+                return None
+
+        def unique(xs):
+            seen = set()
+            results = []
+            for x in xs:
+                if x not in seen:
+                    seen.add(x)
+                    results.append(x)
+            return results
+
+        self._qs = filter(None, [ignore(Qualifier, v, self._qdic) for v in unique(lines)])
+        print self._qs
+
+    def mark(self, code):
+        """置換対象になる単語にマーキングを施す
+
+        対象文字列が 'sort' だとすれば、文字列中にある全ての 'sort' を
+        '{ランダムな文字列}'
+        という文字列に置換する。
+        """
+        if len(self._qs) == 0:
+            self._code_re = re.compile("")
+            return code
+
+        # 置換対象になる単語を正規表現で表す
+        def get_target_re(target):
+            return '((?<=[^a-zA-Z_])|(?:^)){target}((?=[^a-zA-Z_])|(?:$))'.format(
+                target=re.escape(target)
+            )
+
+        def find_match(target):
+            pattern = re.compile(target)
+            return pattern.search(code) is not None
+
+        pre_target_re_text_list = ['(?:{})'.format(get_target_re(q.target)) for q in self._qs]
+        pre_target_re_text_list = filter(find_match, pre_target_re_text_list)
+        if len(pre_target_re_text_list) == 0:
+            self._code_re = re.compile("")
+            return code
+
+        target_re_text = '|'.join(pre_target_re_text_list)
+
+        # 対象となる単語を置換し、その置換された文字列を後で辿るための正規表現（text_re_list）と、
+        # 置換された文字列に対してどのような修飾を行えばいいかという辞書（match_qualifier）を作る。
+        text_re_list = []
+        match_qualifier = {}
+
+        def mark_command(match):
+            # 各置換毎に一意な文字列を用意する
+            match_name = _make_random_string()
+            # 対象となる単語がどの修飾のデータなのかを調べる
+            text = match.group(0)
+            q = (q for q in self._qs if q.target == text).next()
+            match_qualifier[match_name] = q
+
+            # text をこの文字列に置換する
+            text = '{match_name}'.format(
+                match_name=match_name,
+            )
+            # 置換された text だけを確実に検索するための正規表現
+            text_re = '(?P<{match_name}>{match_name})'.format(
+                match_name=match_name
+            )
+            text_re_list.append(text_re)
+            return text
+        # 対象になる単語を一括置換
+        code = re.sub(target_re_text, mark_command, code)
+        # マークされた文字列を見つけるための正規表現を作る
+        self._code_re = re.compile('|'.join(r for r in text_re_list))
+        self._match_qualifier = match_qualifier
+        return code
+m = QUALIFIED_FENCED_BLOCK_RE.search(text)
+if m:
+    qualifies = m.group('qualifies') or ''
+    code = _removeIndent(*m.group('code', 'indent'))
+    qualifies = filter(None, qualifies.split('\n'))
+    qualifier_list = QualifierList(qualifies)
+    code = qualifier_list.mark(code)
+if len(digest) == 262: # Out of box configuration      
+        salt = digest[56:64]   
+        hash = digest[64:192]
+elif len(digest) == 314: # SMB turned on
+        print("SMB is on")
+        salt = digest[104:112]
+        hash = digest[112:240]
+elif len(digest) == 1436: # Lion Server
+        salt = digest[176:184]
+        hash = digest[176:304]
+elif len(digest) == 1492: # Lion Server with SMB
+        salt = digest[224:232]
+        hash = digest[232:360]
+ 
+print("SALT : " + salt)
+print("HASH : " + hash)
+ 
+salt_hex =  chr(int(salt[0:2], 16)) + chr(int(salt[2:4], 16)) + chr(int(salt[4:6], 16)) + chr(int(salt[6:8], 16))
+ 
+if len(sys.argv) == 3: # If dictionary file specified
+        print("Reading from dictionary file '"+sys.argv[2]+"'.")
+        check(whoami.rstrip())
+        passlist = open(sys.argv[2], "r")
+        password = passlist.readline()
+ 
+        while password:
+                check(password.rstrip())
+                password = passlist.readline()
+        passlist.close()
+ 
+else: # No dictionary file specified
+        print("No dictionary file specified. Defaulting to hard coded link.")
+       
+        passlist = urllib2.urlopen(link) # Download dictionary file
+        passwords = passlist.read().split("\n")
+        print("\nPassword list successfully read")
+       
+        passwords.append(whoami.rstrip())      
+       
+        print("\nCracking...")
+        for password in passwords:
+                check(password)
+ 
+# Save hash for later
+print("\nSaving hash to "+username+".hash...")
+out = open(username+".hash", "w")
+out.write(salt+hash)
+out.close()
+    print code
+else:
+    print "else"
