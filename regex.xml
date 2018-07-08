@@ -1,0 +1,40 @@
+<item>
+<title>http://www.matbet6.tv/tr/izle/bein-sport-1</title>
+<link>$doregex[url]|Referer=http://www.matbet6.tv/tr/channel/watch/bein-sport-1&amp;User-Agent=iPad</link>
+<regex>
+<name>url</name>
+<expres>source:"([^"]+)</expres>
+<page>$doregex[link]</page>
+</regex>
+<regex>
+<name>link</name>
+<expres>$pyFunction:base64.b64decode("$doregex[getlink]")</expres>
+<page></page>
+</regex>
+<regex>
+<name>getlink</name>
+<expres>atob."([^"]+)</expres>
+<page>http://www.matbet6.tv/tr/channel/watch/bein-sport-1</page>
+<referer>http://www.matbet6.tv/tr/izle/bein-sport-1</referer>
+<agent>Mozilla/5.0</agent>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>http://www.matbet6.tv/tr/izle/bein-sport-1</title>
+<link>$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres><![CDATA[#$pyFunction
+import re,base64
+def GetLSProData(page_data, Cookie_Jar, m):
+  list=base64.b64decode(re.findall('atob."([^"]+)',page_data)[0])
+  return re.findall('source:"([^"]+)',base64.b64decode(re.findall('atob."([^"]+)',page_data)[0]))[0]+'|Referer=http://www.matbet6.tv/tr/channel/watch/bein-sport-1&User-Agent=iPad'
+]]></expres>
+<page>http://www.matbet6.tv/tr/channel/watch/bein-sport-1</page>
+<referer>http://www.matbet6.tv/tr/izle/bein-sport-1</referer>
+<agent>Mozilla/5.0</agent>
+<cookieJar></cookieJar>
+</regex>
+</item>
