@@ -1,5 +1,53 @@
 
 <item>
+<title>http://french-stream.tv/xfsearch/qualit/HDLight/</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+  <title>[makelist.param2]</title>
+  <link>$doregex[makelist2]</link>
+  <thumbnail>http://french-stream.tv/templates/FRVDEV/images/logo.png</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[href="/(.+?/genre-\d.*?)".+?>(.*?)<]]></expres>
+<page>http://french-stream.tv/xfsearch/qualit/HDLight/</page>
+</regex>
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+  <title>[makelist2.param3]</title>
+  <link>$doregex[getUrl]</link>
+  <thumbnail>[makelist2.param2]</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+import re,requests
+def GetLSProData(page_data,Cookie_Jar,m):#streamwatcher2013
+  mdata=re.findall('(?s)class="short-poster.+?href="(.*?)".+?src=(h.*?)&.+?alt="([^"]+)',requests.get('http://french-stream.tv/[makelist.param1]').content.decode('ascii','ignore').replace('&#8217;','\''))
+  count=re.findall('.+>(\d+)</a>.<(?:span.class="nav_ext"|/span>)',requests.get('http://french-stream.tv/[makelist.param1]').content.decode('ascii','ignore'))[0];pn=2;data=[]
+  while pn <= int(count):
+     page='http://french-stream.tv/[makelist.param1]/page/'+str(pn)+'/';source=requests.get(page).content.decode('ascii','ignore')
+     data +=re.findall('(?s)class="short-poster.+?href="(.*?)".+?src=(h.*?)&.+?alt="([^"]+)',source);pn +=1
+  data=mdata+data
+  return data
+]]></expres>
+<page></page>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re,requests
+from urlresolver.plugins.lib import jsunpack
+def GetLSProData(page_data,Cookie_Jar,m):#streamwatcher2013
+  IDs=re.findall('var.fields.+?[\'"]([^\'"]+).*\n.*\n.*\n.*?gGotop1',page_data)[-1]
+  packed=jsunpack.unpack(requests.get('http://cloudvid.co/embed-'+re.findall('id="tmp".+?&&(.*?)%s'%IDs[0],page_data)[0],headers={'user-agent':'Mozilla/5.0','referer':'[makelist2.param1]'}).content).replace('\\','')
+  return re.findall('file:"(h[^"]+).+?(?:7\d\d|4\d\d)',packed)[0]+'|user-agent=ipad'
+]]></expres>
+<page>[makelist2.param1]</page>
+</regex>
+<thumbnail>http://french-stream.tv/templates/FRVDEV/images/logo.png</thumbnail>
+</item>
+
+<item>
 <title>https://cinematuga.fun | URLResolver</title>
 <link>$doregex[makelist]</link>
 <regex>
