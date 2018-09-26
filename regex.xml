@@ -1,5 +1,44 @@
 
 <item>
+<title>http://dl.royamovie.com/Movie/Foreign/1397/</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+   <title>[COLOR yellow][makelist.param2][/COLOR]</title>
+   <link>$doregex[makelist2]</link>
+]]></listrepeat>
+<expres><![CDATA[td><a href="(\d[^"]+).+?>(\d+)]]></expres>
+<page>http://dl.royamovie.com/Movie/Foreign/1397/</page>
+</regex>
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+   <title>[COLOR gold][makelist2.param2][/COLOR]</title>
+   <link>$doregex[makelist3]</link>
+]]></listrepeat>
+<expres><![CDATA[td><a href="(\d[^"]+).+?>(\d+)]]></expres>
+<page>http://dl.royamovie.com/Movie/Foreign/1397/[makelist.param1]</page>
+</regex>
+<regex>
+<name>makelist3</name>
+<listrepeat><![CDATA[
+   <title>[COLOR yellow][makelist3.param2][/COLOR]</title>
+   <link>http://dl.royamovie.com/Movie/Foreign/1397/[makelist.param1][makelist2.param2]/[makelist3.param1]</link>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+import re
+def GetLSProData(page_data,Cookie_Jar,m):#streamwatcher2013
+  list=re.findall('<tbody>(?s)(.*?)</tbody',page_data)[0]
+  return re.findall('href="(.+?[mkv|mp4])".title="(.+?\d+p)',list)
+]]></expres>
+<page>http://dl.royamovie.com/Movie/Foreign/1397/[makelist.param1][makelist2.param2]</page>
+<referer>http://dl.royamovie.com/Movie/Foreign/1397/[makelist.param1]</referer>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
 <title>http://french-stream.tv/xfsearch/qualit/HDLight/</title>
 <link>$doregex[makelist]</link>
 <regex>
