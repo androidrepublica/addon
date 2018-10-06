@@ -1,4 +1,71 @@
 
+
+
+<item>
+<title>[COLOR white]WORLD IPTV SERVER [COLOR red](www.ultrabet.tv)[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+  <title>[COLOR yellow][makelist.param2][/COLOR]</title>
+  <link>$doregex[getUrl]</link>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+import re
+def GetLSProData(page_data,Cookie_Jar,m):#streamwatcher2013
+  return re.findall('"item.*?[\w\W].*?href="(.+?)" title="(.+?)"',re.findall('channel-list">(?s)(.*?)</section>',page_data)[0])
+]]></expres>
+<page>https://www.ultrabet.tv/</page>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re,requests,urllib
+def GetLSProData(page_data,Cookie_Jar,m):#streamwatcher2013
+  r=requests.get('https://www.ultrabet.tv[makelist.param1]',headers={'Referer':'https://www.ultrabet.tv/','User-Agent':'Mozilla/5.0'},verify=False)
+  url=re.findall('id="player"[\w\W]*?src="([^"]+)',r.text)[0]
+  source=requests.get(url,headers={'Referer':'https://www.ultrabet.tv[makelist.param1]','User-Agent':'Mozilla/5.0'},cookies=r.cookies).text
+  return re.findall('source.+?[\'"]([^\'"]+)',source)[0]+'|User-Agent=iPad&Referer='+url
+]]></expres>
+<page></page>
+<referer></referer>
+</regex>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>http://betticket.tv/</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+  <title>[COLOR yellow][makelist.param2][/COLOR]</title>
+  <link>$doregex[getUrl]</link>
+  <thumbnail>http://betticket.tv/tvlogo.png</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+import re
+def GetLSProData(page_data,Cookie_Jar,m):#streamwatcher2013
+  return re.findall('href=[\'"]/(.*?)[\'"].title=[\'"]([^\'"]+)',re.findall('scrollbar-outer list">(?s)(.*?)</section',page_data)[0])
+]]></expres>
+<page>http://betticket.tv/</page>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re,requests,urllib
+def GetLSProData(page_data,Cookie_Jar,m):#streamwatcher2013
+  r=requests.get('http://betticket.tv/[makelist.param1]',headers={'Referer':'http://betticket.tv/','User-Agent':'Mozilla/5.0'},verify=False)
+  url=re.findall('id="player"[\w\W]*?src="([^"]+)',r.text)[0]
+  source=requests.get(url,headers={'Referer':'http://betticket.tv/[makelist.param1]','User-Agent':'Mozilla/5.0'},cookies=r.cookies).text
+  return re.findall('var.source.+?[\'"]([^\'"]+)',source)[0]+'|User-Agent=iPad&Referer='+url
+]]></expres>
+<page></page>
+<referer></referer>
+</regex>
+<thumbnail>http://betticket.tv/tvlogo.png</thumbnail>
+</item>
+
 <item>
 <title>http://cablegratis.tv/</title>
 <link>$doregex[makelist]</link>
