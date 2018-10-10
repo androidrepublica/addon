@@ -1,4 +1,57 @@
 <item>
+<title>https://www.watchbox.de/</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+  <title>[COLOR gold][makelist.param2][/COLOR]</title>
+  <link>$doregex[makelist2]</link>
+  <thumbnail>https://www.watchbox.de/apple-touch-icon.png</thumbnail>
+  <info>[makelist.param3]</info>
+]]></listrepeat>
+<expres><![CDATA["genre-teaser".href="/(.*?)"[\w\W]*?"text_browse-teaser-title".*\n.*?(\w[^\s]+)[\w\W]*?teaser-subtitle".*\n.*?(\w.*?)\s*<]]></expres>
+<page>https://www.watchbox.de/genres/</page>
+<referer>https://www.watchbox.de/</referer>
+<agent>Mozilla/5.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+  <title>[COLOR gold][makelist2.param1][/COLOR]</title>
+  <link>$doregex[getUrl]</link>
+  <thumbnail>https://[makelist2.param2]</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+import re,requests
+def GetLSProData(page_data,Cookie_Jar,m):#streamwatcher2013
+  source=requests.get('https://www.watchbox.de/[makelist.param1]',headers={'Referer':'https://www.watchbox.de/genres/','User-Agent':'Mozilla/5.0','Accept':'*/*'}).content.decode('ascii','ignore')
+  inf=re.findall('data-endpoint="/(.*?)".*\n.*?pageId":"(\d+)',source)[0]
+  headers={'Referer':'https://www.watchbox.de/[makelist.param1]','X-Requested-With':'XMLHttpRequest','User-Agent':'Mozilla/5.0','Accept':'*/*'}
+  data=[]
+  urls=['https://www.watchbox.de/%s?page=1&ajax=true&pageId=%s'%(inf[0],inf[1]),'https://www.watchbox.de/%s?page=2&ajax=true&pageId=%s'%(inf[0],inf[1]),
+            'https://www.watchbox.de/%s?page=3&ajax=true&pageId=%s'%(inf[0],inf[1]),'https://www.watchbox.de/%s?page=4&ajax=true&pageId=%s'%(inf[0],inf[1]),
+            'https://www.watchbox.de/%s?page=5&ajax=true&pageId=%s'%(inf[0],inf[1]),'https://www.watchbox.de/%s?page=6&ajax=true&pageId=%s'%(inf[0],inf[1])]
+  for page in urls:
+    source=requests.get(page,headers=headers).content.decode('ascii','ignore').replace('\\n','').replace('\\','');data +=re.findall('(?s)data-asset-title="(.*?)".+?data-src="//(.*?)".*?href="/([^"]+)',source)
+  return data
+]]></expres>
+<page></page>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re,requests
+def GetLSProData(page_data,Cookie_Jar,m):#streamwatcher2013
+  source=requests.get('https://www.watchbox.de/[makelist2.param3]',headers={'Referer':'https://www.watchbox.de/[makelist.param1]','User-Agent':'Mozilla/5.0','Accept':'*/*'}).content.decode('ascii','ignore')
+  return re.findall('"hls":"([^"]+)',re.findall('id="player"(?s)(.*?)</div>',source)[0].replace('&quot;','"').replace('\\',''))[0]+'|User-Agent=iPad&Referer=https://www.watchbox.de/[makelist2.param3]'
+]]></expres>
+<page></page>
+</regex>
+<thumbnail>https://www.watchbox.de/apple-touch-icon.png</thumbnail>
+</item>
+
+<item>
 <title>https://www.izletv5.pw</title>
 <link>$doregex[makelist]</link>
 <regex>
