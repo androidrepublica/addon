@@ -1,4 +1,43 @@
 <item>
+<title>https://www.izletv5.pw</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+  <title>[COLOR gold][makelist.param2][/COLOR]</title>
+  <link>$doregex[getUrl]</link>
+  <thumbnail>https://www.izletv5.pw/[makelist.param3]</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+import re,requests
+def GetLSProData(page_data,Cookie_Jar,m):#streamwatcher2013
+ data=[]
+ urls=['https://www.izletv5.pw/p1','https://www.izletv5.pw/p2','https://www.izletv5.pw/p3','https://www.izletv5.pw/p4']
+ for site in urls:
+    source=requests.get(site,headers={'User-Agent':'Mozilla/5.0'}).text;list=re.findall('class="main-grids">(?s)(.*?)"pagination',source)[0]
+    data +=re.findall('href="/(.*?)".title="(.*?)".+?src="/([^"]+)',list)
+ return data
+]]></expres>
+<page>https://www.izletv5.pw</page>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re,requests,base64
+def GetLSProData(page_data,Cookie_Jar,m):#streamwatcher2013
+  inf=re.findall('live."(.*?)"."(\d+)',page_data)[0]
+  source=requests.post('https://www.izletv5.pw/[makelist.param1]',headers={'Referer':'https://www.izletv5.pw/[makelist.param1]','User-Agent':'Mozilla/5.0'},data={'hash':inf[0],'id':inf[1]}).text
+  if '/' in source:
+    return base64.b64decode(re.findall('(.*)',source)[0][::-1]+'==')+'|User-Agent=iPad&Referer=https://www.izletv5.pw/[makelist.param1]'
+  else:
+    return base64.b64decode(re.findall('(.*)',source)[0][::-1].replace('_','/')+'==')+'|User-Agent=iPad&Referer=https://www.izletv5.pw/[makelist.param1]'
+]]></expres>
+<page>https://www.izletv5.pw/[makelist.param1]</page>
+<referer>https://www.izletv5.pw/</referer>
+</regex>
+</item>
+
+<item>
 <title>https://tumarcador.xyz/</title>
 <link>$doregex[makelist]</link>
 <regex>
