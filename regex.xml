@@ -1,4 +1,43 @@
 <item>
+<title>http://canlitvizle.com/</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+  <title>[COLOR gold][makelist.param2][/COLOR]</title>
+  <link>$doregex[getUrl]</link>
+  <thumbnail>http://canlitvizle.com/static/images/logo.png</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+import re
+def GetLSProData(page_data,Cookie_Jar,m):#streamwatcher2013
+ return re.findall('href="(.*?)".title="([^"]+)',re.findall('id="channels">(?s)(.*?)</ul',page_data)[0])
+]]></expres>
+<page>http://canlitvizle.com/</page>
+</regex>
+<regex>
+<name>link</name>
+<expres><![CDATA["player-inner"[\w\W]*?[\'"](h[^\'"]+)]]></expres>
+<page>[makelist.param1]</page>
+<referer>http://canlitvizle.com/</referer>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re
+from AADecoder import AADecoder
+def GetLSProData(page_data,Cookie_Jar,m):#streamwatcher2013
+ inf=re.findall('script>([^<]+)[\w\W]*?file.+?\+[\'"]([^\'"]+)',page_data)[0]
+ html=re.findall("=\s*'([^']+).+?\s+'([^']+)",AADecoder(inf[0]).decode())[0]
+ return html[0]+inf[1]+html[1]+'|User-Agent=iPad&Referer=$doregex[link]'
+]]></expres>
+<page>$doregex[link]</page>
+<referer>[makelist.param1]</referer>
+</regex>
+<thumbnail>http://canlitvizle.com/static/images/logo.png</thumbnail>
+</item>
+
+<item>
 <title>https://www.watchbox.de/</title>
 <link>$doregex[makelist]</link>
 <regex>
