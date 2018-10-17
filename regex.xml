@@ -1,4 +1,40 @@
 <item>
+<title>http://blaxup.org/movies-list/</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+  <title>[COLOR gold][makelist.param3][/COLOR]</title>
+  <link>$doregex[getUrl]</link>
+  <thumbnail>https://[makelist.param2]</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+import re,requests
+def GetLSProData(page_data,Cookie_Jar,m):#streamwatcher2013
+  count=re.findall('>(\d+)<.*\n.*\.\.\.',page_data)[0];pn=1;data=[]
+  while pn <= int(count):
+    page='http://blaxup.org/movies-list/page/'+str(pn);source=requests.get(page).text
+    data +=re.findall('(?s)class="poster".+?href="(.*?)".+?src="(.*?)".alt="([^"]+)',re.findall('<section class="block(?s)(.*?)<nav',source)[0]);pn +=1
+  return  data
+]]></expres>
+<page>http://blaxup.org/movies-list/</page>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re,requests
+def GetLSProData(page_data,Cookie_Jar,m):#streamwatcher2013
+  source=requests.get('[makelist.param1]',headers={'Referer':'http://blaxup.org/movies-list/','User-Agent':'Mozilla/5.0','Accept':'*/*'}).text#content.decode('ascii','ignore')
+  if '1080' in source:
+    return re.findall('rel="nofollow".href="(.*?1080[^"]+)',source)[0]
+  else:
+    return re.findall('rel="nofollow".href="(.*?720[^"]+)',source)[0]
+]]></expres>
+<page></page>
+</regex>
+</item>
+
+<item>
 <title>http://canlitvizle.com/</title>
 <link>$doregex[makelist]</link>
 <regex>
