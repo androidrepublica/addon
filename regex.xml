@@ -1,4 +1,65 @@
 <item>
+<title>http://kinoger.to/</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+  <title>[COLOR gold][makelist.param2][/COLOR] ([makelist.param3])</title>
+  <link>$doregex[getUrl]</link>
+  <thumbnail>[makelist.param4]</thumbnail>
+  <info>[makelist.param5]</info>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+import re,requests,xbmc,xbmcgui,xbmcaddon,time
+def GetLSProData(page_data, Cookie_Jar,m,itxt='Enter Movie Name:'):#streamwatcher2013
+  addon = xbmcaddon.Addon('plugin.video.live.streamspro')
+  addon_version = addon.getAddonInfo('version')
+  profile = xbmc.translatePath(addon.getAddonInfo('profile').decode('utf-8'))
+  solver = InputWindow(txt=itxt);solution= solver.get()
+  inf=re.findall('(?s)<form.method="post".+?value="(.*?)".+?value="(.*?)".+?value="(\d+)"',page_data)[0]
+  data={'do':inf[0],'subaction':inf[1],'titleonly':inf[2],'story':solution,'x':'4','y':'13','submit':'submit'}
+  source=requests.post('http://kinoger.to/',headers={'Referer':'http://kinoger.to/','User-Agent':'Mozilla/5.0'},data=data).text
+  list=re.findall('</table.*\n.*/form(?s)(.*?)"navigation"',source)[0]
+  return re.findall('(?s)<img src.+?href="(h.*?)">(.*?)\s\((\d+).+?src="(.*?)".+?</b>([^<]+)',list)
+
+class InputWindow(xbmcgui.WindowDialog):
+    def __init__(self, *args, **kwargs):
+        self.txt = kwargs.get('txt','')
+        xbmcgui.WindowXMLDialog.__init__(self)
+        #self.addControl(self.txt)
+        path = xbmcaddon.Addon().getAddonInfo('path')
+        self.kbd = xbmc.Keyboard()
+        self.kbd.setHeading( self.txt)
+    def get(self):
+        self.show()
+        time.sleep(2)
+        self.kbd.doModal()
+        if (self.kbd.isConfirmed()):
+            text = self.kbd.getText()
+            self.close()
+            return text
+        self.close()
+        return False
+]]></expres>
+<page>http://kinoger.to/</page>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re,requests
+def GetLSProData(page_data,Cookie_Jar,m):#streamwatcher2013
+  source=requests.get(re.findall('id="kinog-player"[\w\W]*?"(h[^"]+)',page_data)[0],headers={'referer':'[makelist.param1]','user-agent':'Mozilla/5.0','accept':'*/*'}).text
+  inf=re.findall('src="//((.+?)video[^"]+)',source)[0];url='http://%s'%inf[0]
+  source=requests.get(url,headers={'Referer':'[makelist.param1]','User-Agent':'Mozilla/5.0','Accept':'*/*'}).text
+  html='http://'+re.findall('media.+?[\'"]//([^\'"]+)',source)[0]
+  return requests.get(html,headers={'user-agent':'Mozilla/5.0','referer':'http://%s'%inf[1],'accept':'*/*'}).url+'|user-agent=ipad&referer=http://%s'%inf[1]
+]]></expres>
+<page>[makelist.param1]</page>
+<referer>http://kinoger.to/</referer>
+</regex>
+</item>
+
+<item>
 <title>http://blaxup.org/movies-list/</title>
 <link>$doregex[makelist]</link>
 <regex>
