@@ -1,4 +1,42 @@
 <item>
+<title>https://www.ecanlitvizle.live/</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+  <title>[makelist.param3]</title>
+  <link>$doregex[getUrl]</link>
+  <thumbnail>[makelist.param2]</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+import re,requests
+def GetLSProData(page_data,Cookie_Jar,m):# streamwatcher2013
+  count=re.findall('.+page/(\d+)/".*\n.*class="ilantahtasi',requests.get('https://www.ecanlitvizle.live/').content)[0];pn=1;data=[]
+  while pn <= int(count):
+     page='https://www.ecanlitvizle.live/page/'+str(pn)+'/';data +=re.findall('href="(.*?)".*\n.*kanallarlogo".*?src="(.*?)".alt="(.*?)"',requests.get(page).content);pn +=1
+  return data
+]]></expres>
+<page></page>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re,requests
+def GetLSProData(page_data,Cookie_Jar,m):# streamwatcher2013
+  link=re.findall('<p><iframe.*?[\'"](htt.*?embed.*?)[\'"]',requests.get('[makelist.param1]',headers={'Referer':'https://www.ecanlitvizle.live/'}).content)[0];source=requests.get(link,headers={'Referer':'[makelist.param1]'}).content
+  if 'm3u8' in source:
+     return re.findall('[\'"](h.*?wmsAuthSign.*?)[\'"]',source)[0]+'|User-Agent=iPad'
+  elif 'token' in source:
+     source=requests.get(re.findall('[\'"](h.*(?:token).*?)[\'"]',source)[0],headers={'Referer':link}).content;return re.findall('[\'"](h.*(?:m3u8).*?)[\'"]',source)[0]+'|User-Agent=iPad'
+  else:
+     return 'plugin://plugin.video.youtube/play/?video_id=%s'%link
+]]></expres>
+<page></page>
+</regex>
+<thumbnail>https://www.ecanlitvizle.live/images/logo.png</thumbnail>
+</item>
+
+<item>
 <title>http://kinoger.to/</title>
 <link>$doregex[makelist]</link>
 <regex>
