@@ -1,4 +1,42 @@
 <item>
+<title>http://filmzone.org/</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+  <title>[COLOR gold][makelist.param2][/COLOR]</title>
+  <link>$doregex[getUrl]</link>
+  <thumbnail>[makelist.param3]</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+import re,requests
+def GetLSProData(page_data,Cookie_Jar,m):#streamwatcher2013
+  mdata=re.findall('(?s)"ico-post-film".+?href="(.*?)".+?>([^<]+).+?src="([^"]+)',page_data)
+  count=re.findall('>(\d+)<.*\n.*?&raquo',page_data)[0];pn=2;data=[]
+  while pn <= int(count):
+    page='http://filmzone.org/page/'+str(pn)+'/';source=requests.get(page).text
+    data +=re.findall('(?s)"ico-post-film".+?href="(.*?)".+?>([^<]+).+?src="([^"]+)',source);pn +=1
+  return mdata+data
+]]></expres>
+<page>http://filmzone.org/</page>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re,requests
+def GetLSProData(page_data,Cookie_Jar,m):#streamwatcher2013
+  source=requests.get('[makelist.param1]',headers={'Referer':'http://filmzone.org/','User-Agent':'Mozilla/5.0','Accept':'*/*'}).text
+  if '1080p' in source:
+    return re.findall('class="dl-link".*\n.*?href="(h.+?1080[^"]+)',source)[0]
+  else:
+    return re.findall('class="dl-link".*\n.*?href="(h.+?720[^"]+)',source)[0]
+]]></expres>
+<page></page>
+</regex>
+<thumbnail>http://filmzone.org/wp-content/uploads/2018/07/FilmZone.png</thumbnail>
+</item>
+
+<item>
 <title>https://www.watchbox.de/</title>
 <link>$doregex[makelist]</link>
 <regex>
