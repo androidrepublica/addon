@@ -1,4 +1,23 @@
 <item>
+<title>[COLOR white]footyandroid.com[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+   <title>([makelist.param1]) [COLOR lime][makelist.param3][COLOR white] vs [COLOR lime][makelist.param4][/COLOR] [COLOR gold]| [makelist.param2] [/COLOR]</title>
+   <link>plugin://program.plexus/?mode=1&amp;name=[makelist.param3] vs [makelist.param4] em [makelists.param1]&amp;url=acestream://[makelist.param5]</link>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+import re
+def GetLSProData(page_data,Cookie_Jar,m):#streamwatcher2013
+  list=re.findall('"start(?s)(.*?)\]',page_data)[0].replace('\\','')
+  return re.findall('datetime_utc":"(.+?)".+?:"(.*?)".+?team":"(.*?)".+?team":"(.*?)".+?acestream.+?(\w[^"\,]+)',list)
+]]></expres>
+<page>https://pastebin.com/raw/MUMdpL17</page>
+</regex>
+</item>
+
+<item>
 <title>http://fullmatchtv.com/index.php/nba/</title>
 <link>$doregex[makelist]</link>
 <regex>
