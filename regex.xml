@@ -1,4 +1,44 @@
 <item>
+<title>Rugby Full Match</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+  <title>([makelist.param4]) [COLOR gold][makelist.param1][/COLOR]</title>
+  <link>$doregex[getUrl]</link>
+  <thumbnail>[makelist.param3]</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+import re
+def GetLSProData(page_data,Cookie_Jar,m):#streamwatcher2013
+  return re.findall('"title".+?:\s(.*?)".+?link":"(.*?)".+?"medium":"(.*?)".+?"date":"([^"]+)',re.findall('(.*)',page_data)[0].replace('\\',''))
+]]></expres>
+<page>https://www.premiershiprugby.com/wp-json/wp/v2/feed?endpoint=combined&amp;posts_per_page=75&amp;categories=160&amp;offset=&amp;orderby=date&amp;order=desc</page>
+<referer>https://www.premiershiprugby.com/videos/full-match-video/</referer>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re,requests
+def GetLSProData(page_data,Cookie_Jar,m):#streamwatcher2013
+  url=re.findall('class="video"[\w\W]*?script.src="([^"]+)',page_data)[0]
+  source=requests.get(url,headers={'User-Agent': 'Mozilla/5.0','Referer':'[makelist.param2]','Accept':'*/*'}).text.replace('\\','')
+  inf=re.findall('"thumbnailUrl.+?"(h.+?)thumbnail.+?"rootEntryId.+?(\w.*?)".+?width.+?"id":"(.*?)".+?width.+?"id":"(.*?)".+?width.+?"id":"(.*?)".+?width.+?"id":"(.*?)".+?2628.+?"id":"(.*?)".+?kuiconfid="([^"]+)',source)[0]
+  link='%splayManifest/entryId/%s/flavorIds/%s,%s,%s,%s,%s,%s,%s,%s/format/applehttp/protocol/https/a.m3u8?clientTag=html5:v2.42&uiConfId=%s'%(inf[0],inf[1],inf[2],inf[3],inf[4],inf[4],inf[5],inf[5],inf[6],inf[6],inf[7])
+  source=requests.get(link,headers={'User-Agent': 'Mozilla/5.0','Referer':'[makelist.param2]','Accept':'*/*'}).text
+  if 'x720' in source:
+    return re.findall('x720.*\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
+  elif 'x576' in source:
+    return re.findall('x576.*\n(.*)',source)[0]+'|user-agent=ipad&referer='+link
+  else:
+    return re.findall('x360.*\n(.*)',source)[-1]+'|user-agent=ipad&referer='+link
+]]></expres>
+<page>[makelist.param2]</page>
+</regex>
+<thumbnail>https://d2cx26qpfwuhvu.cloudfront.net/premier/wp-content/uploads/2018/06/20160225/premiership_rugby_logo.svg</thumbnail>
+</item>
+
+<item>
 <title>Arka Sokaklar Bölümler</title>
 <link>$doregex[makelist]</link>
 <regex>
