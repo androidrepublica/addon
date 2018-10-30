@@ -1,4 +1,66 @@
 <item>
+<title>http://toplive.info/</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+  <title>[COLOR gold][makelist.param1][/COLOR]</title>
+  <link>$doregex[makelist2]</link>
+  <thumbnail>https://i.imgur.com/Q1AI3P3.png</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+import re
+def GetLSProData(page_data,Cookie_Jar,m):
+  return re.findall('</i>([^<]+)</h4>(?s)(.*?)(?:class="titleag|</tbody)',re.findall('class="table-container">(?s)(.*?)</table',page_data)[0])
+]]></expres>
+<page>http://toplive.info/</page>
+</regex>
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+  <title>[COLOR gold][makelist2.param1][/COLOR]</title>
+  <link>$doregex[getUrl]</link>
+  <thumbnail>https://i.imgur.com/Q1AI3P3.png</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[(?s)</i>([^<]+)</h4.+?href="(.*?)"]]></expres>
+<page>[makelist.param2]</page>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re,requests
+from urlresolver.plugins.lib import jsunpack
+def GetLSProData(page_data,Cookie_Jar,m):#streamwatcher2013
+  link=re.findall('"embed-responsive[\w\W]*?src="([^"]+)',requests.get('http://toplive.info/[makelist2.param2]',headers={'referer':'http://toplive.info/','user-agent':'Mozilla/5.0'}).text)[0]
+  if 'm3u8' in link:
+    url='http://toplive.info/'+link
+    source=requests.get(url,headers={'user-agent':'Mozilla/5.0','Referer':'http://toplive.info/[makelist2.param2]'}).text
+    link=re.findall('Clappr.Player[\w\W]*?[\'"]([^\'"]+)',source)[0]
+    source=requests.get(link,headers={'user-agent':'Mozilla/5.0','Referer':url}).text
+    if 'x576' in source:
+      return link.replace('index','Stream(04)/index')+'|user-agent=Mozilla/5.0&referer='+url
+    elif 'x432' in source:
+      return link.replace('index','Stream(03)/index')+'|user-agent=Mozilla/5.0&referer='+url
+    else:
+      return link+'|user-agent=Mozilla/5.0&referer='+url
+  elif 'http' in link:
+    source=requests.get(link,headers={'user-agent':'Mozilla/5.0','Referer':'http://toplive.info/[makelist2.param2]'}).text
+    return re.findall('Clappr.Player[\w\W]*?[\'"]([^\'"]+)',source)[0]+'|user-agent=Mozilla/5.0&referer='+link
+  else:
+    url='http://toplive.info/'+link;mozhdr={'User-Agent':'Mozilla/5.0','Referer':'http://toplive.info/[makelist2.param2]'};source=requests.get(url,headers=mozhdr,verify=False).text
+    cid=re.findall("id='([^']+).+?telerium",source)[0];eurl='https://telerium.tv/embed/%s.html'%cid;ehtml=requests.get(eurl,headers=mozhdr).text
+    edata=re.findall('(eval\(function\(p,a,c,k,e,d.*)',ehtml)[0];epage=jsunpack.unpack(edata).replace('\\', '')
+    strvar=re.findall('source:([^,]+),mime',epage)[0];str1=re.findall('%s=atob\(rSt\(([^)]+)'%strvar,epage)[0];str2=re.findall('%s="([^"]+)'%str1,epage)[0][::-1].decode('base64')
+    tok1,tok2=re.findall('{url:atob\(rSt\(([^)]+)\)\)\+atob\(rSt\(([^)]+)',epage)[0];tok1=re.findall('%s="([^"]+)'%tok1,epage)[0][::-1].decode('base64');tok2=re.findall('%s="([^"]+)'%tok2,epage)[0][::-1].decode('base64')
+    tokurl='https:%s%s'%(tok1,tok2);mozhdr['Referer']=eurl;token=requests.get(tokurl,headers=mozhdr).text[::-1][1:-1]
+    return 'https:%s%s|referer=%s&user-agent=%s'%(str2,token,eurl,mozhdr['User-Agent'])
+]]></expres>
+<page></page>
+<referer></referer>
+</regex>
+<thumbnail>https://i.imgur.com/Q1AI3P3.png</thumbnail>
+</item>
+<item>
 <title>Soccer Full Match & Highlights</title>
 <link>$doregex[makelist]</link>
 <regex>
