@@ -1,4 +1,75 @@
 <item>
+<title>Soccer Full Match & Highlights</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+  <title>[COLOR gold][makelist.param2][/COLOR]</title>
+  <link>$doregex[makelist2]</link>
+  <thumbnail>https://armchairsommelier.files.wordpress.com/2014/07/world-ball.jpg</thumbnail>
+  <fanart>https://full-matches.com/wp-content/uploads/2017/05/backround-full-matches.jpg</fanart>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+import re
+def GetLSProData(page_data,Cookie_Jar,m):#streamwatcher2013
+  return re.findall("href='/(.*?)'.+?'name'>([^<]+)",re.findall('Home</span></a></li>(?s)(.*?)<form',page_data)[0])
+]]></expres>
+<page>http://www.replaymatches.com/</page>
+</regex>
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+  <title>[COLOR gold][makelist2.param3][/COLOR] [makelist2.param4]</title>
+  <link>$doregex[makelist3]</link>
+  <thumbnail>[makelist2.param1]</thumbnail>
+  <fanart>https://full-matches.com/wp-content/uploads/2017/05/backround-full-matches.jpg</fanart>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+import re,requests
+def GetLSProData(page_data,Cookie_Jar,m):#streamwatcher2013
+  return re.findall("content='(.*?)'[\w\W]*?href='(.*?)'.title='(.*?)(?:.(\d[^']+)|')",re.findall("id='post-wrapper'>(?s)(.*?)'blog-pager'",source)[0])
+]]></expres>
+<page>http://www.replaymatches.com/[makelist.param1]?max-results=200</page>
+</regex>
+<regex>
+<name>makelist3</name>
+<listrepeat><![CDATA[
+  <title>[COLOR gold][makelist3.param2][/COLOR]</title>
+  <link>$doregex[getUrl]</link>
+  <thumbnail>[makelist2.param1]</thumbnail>
+  <fanart>https://full-matches.com/wp-content/uploads/2017/05/backround-full-matches.jpg</fanart>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+import re
+def GetLSProData(page_data,Cookie_Jar,m):#streamwatcher2013
+  return re.findall('class="link-iframe".href="(h.*?)".+?>([^<]+)',re.findall('</h1>(?s)(.*?)<iframe',page_data)[0].replace('amp;',''))
+]]></expres>
+<page>[makelist2.param2]</page>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re,requests,urlresolver
+def GetLSProData(page_data,Cookie_Jar,m):#streamwatcher2013
+  serv='[makelist3.param1]'
+  if 'weshare.me' in serv:
+    return re.findall('id="my-video"[\w\W]*?src="([^"]+)',requests.get(serv,headers={'User-Agent': 'Mozilla/5.0','Referer':'[makelist2.param2]','Accept':'*/*'}).text)[0]+'|user-agent=ipad&referer=[makelist3.param1]'
+  elif 'streamable.com' in serv:
+    link=re.findall('href="([^"]+).+?id="download"',requests.get(serv,headers={'User-Agent': 'Mozilla/5.0','Referer':'[makelist2.param2]','Accept':'*/*'}).text)[0]
+    if 'http' in link:
+      return link+'|user-agent=ipad&referer=[makelist3.param1]'
+    else:
+      return 'https:'+link+'|user-agent=ipad&referer=[makelist3.param1]'
+  else:
+    return urlresolver.resolve(serv)
+]]></expres>
+<page></page>
+</regex>
+<thumbnail>https://armchairsommelier.files.wordpress.com/2014/07/world-ball.jpg</thumbnail>
+<fanart>https://full-matches.com/wp-content/uploads/2017/05/backround-full-matches.jpg</fanart>
+</item>
+
+<item>
 <title>http://toplive.info/</title>
 <link>$doregex[makelist]</link>
 <regex>
