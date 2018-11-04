@@ -1,4 +1,63 @@
 <item>
+<title>america</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=$doregex[getHDS]$doregex[getQuote]&amp;name=envivo</link> 
+<regex>
+<name>getUrl</name>
+<expres><![CDATA[atob\("(.*?)"]]></expres>
+<page>http://vmf.edge-apps.net/embed/live.php?streamname=americahls-100056&amp;autoplay=true</page>
+<referer></referer>
+<agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getdecoded</name>
+<expres>$pyFunction:base64.b64decode('$doregex[getUrl]')</expres>
+<page></page>
+</regex>
+<regex>
+<name>getQuote</name>
+<expres>$pyFunction:urllib.quote_plus('|Referer=http://vmf.edge-apps.net/embed/live.php?streamname=americahls-100056&amp;autoplay=true')</expres>
+<page></page>
+</regex>
+<regex>
+<name>getHDS</name>
+<expres><![CDATA[hds":"(.*?)"]]></expres>
+<page>$doregex[getdecoded]</page>
+<referer></referer>
+<agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>karwan.tv</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[makelist.param3]</title>
+        <link>$doregex[getUrl]|User-Agent=iPad</link>
+        <thumbnail>http://karwan.tv/[makelist.param2]</thumbnail>
+         <fanart>http://karwan.tv/[makelist.param2]</fanart>
+]]></listrepeat>
+<expres><![CDATA[href="(.*?)".*?\s.*src="(.*?)"\salt="(.*?)"]]></expres>
+<page>http://karwan.tv/</page>
+<referer>http://karwan.tv/</referer>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re,requests
+def GetLSProData(page_data,Cookie_Jar,m):
+  source=requests.get('http://karwan.tv/[makelist.param1]', headers={'User-Agent':'Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:58.0) Gecko/20100101 Firefox/58.0','Accept':'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'}).text;link='http://karwan.tv/'+re.findall('src="(.*php.*?)"',source)[0]
+  source=requests.get(link,headers={'User-Agent':'Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:58.0) Gecko/20100101 Firefox/58.0','Referer':'http://karwan.tv/[makelist.param1]','Accept':'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'}).text;return re.findall('file: "(.*?)"',source)[0]+'|User-Agent=iPad&Referer='+link
+]]></expres>
+<page></page>
+</regex>
+</item>
+
+<item>
 <title>http://baku.video/movie/lang/tr</title>
 <link>$doregex[makelist]</link>
 <regex>
