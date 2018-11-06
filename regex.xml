@@ -1,4 +1,37 @@
 <item>
+<title>tvpemobil</title>
+<link>$doregex[makelist2]</link>
+<thumbnail></thumbnail>
+ <regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+    <title>[makelist2.param2]</title>
+    <link>$doregex[makelist]</link>
+	<thumbnail></thumbnail>
+        <fanart></fanart>
+]]></listrepeat>
+<expres><![CDATA[&bull;\s<a href="(.*?)">(.*?)<]]></expres>
+<page>http://tvpemobil.net/</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[makelist.param2]</title>
+    <link>[makelist.param3]|user-agent=iPad</link>
+	<thumbnail>[makelist.param1]</thumbnail>
+        <fanart></fanart>
+]]></listrepeat>
+<expres>img src="(.*?)".*?alt=".*?bull;\s(.*?)<.*?href="(.*?)"</expres>
+<page>[makelist2.param1]</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
 <title>america</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=$doregex[getHDS]$doregex[getQuote]&amp;name=envivo</link> 
 <regex>
