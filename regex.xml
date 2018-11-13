@@ -29,6 +29,66 @@ def GetLSProData(page_data, Cookie_Jar, m):#streamwatcher2013
 </item>
 
 <item>
+<title>TEN Canal 10</title>
+<link>$doregex[getUrl]</link>
+<thumbnail>http://www.honduras504.com/img/tv/TEN-Canal-10.jpg</thumbnail>
+<regex>
+<name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re,requests
+def GetLSProData(page_data,Cookie_Jar,m):#streamwatcher2013
+ link=re.findall('"vid-player"[\w\W]*?src="([^\'"]+)',page_data)[0]
+ html=re.findall('"playlist":.+?"([^"]+)',requests.get(link,headers={'user-agent':'Mozilla/5.0','referer':'http://www.honduras504.com/tv/10/TEN'}).text)[0]
+ if 'http' not in html:
+   return re.findall('"file":"([^"]+)',requests.get('http:'+html,headers={'referer':link,'user-agent':'Mozilla/5.0'}).text)[0]+'|user-agent=Mozilla/5.0&referer=http://www.honduras504.com/tv/10/TEN'
+ else:
+   return re.findall('"file":"([^"]+)',requests.get(html,headers={'referer':link,'user-agent':'Mozilla/5.0'}).text)[0]+'|user-agent=Mozilla/5.0&referer=http://www.honduras504.com/tv/10/TEN'
+]]></expres>
+<page>http://www.honduras504.com/tv/10/TEN#tvhn</page>
+</regex>
+</item>
+
+<item>
+<title>https://tumarcador.xyz/</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+  <title>[COLOR gold][makelist.param1][/COLOR] ([makelist.param2])</title>
+  <link>$doregex[makelist2]</link>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+import re,requests
+def GetLSProData(page_data,Cookie_Jar,m):#streamwatcher2013
+  list=re.findall('class="table">(?s)(.*?)<script',requests.get('https://tumarcador.xyz/').content.decode('ascii','ignore'))[0]
+  title=re.findall('"Evento".+\n.*?(\w.*)\n',list);date=re.findall('"Hora".+\n.+?(\d.*)',list);links=re.findall('"Enlace">(?s)(.*?)</div',list)
+  return zip(title,date,links)
+]]></expres>
+<page>https://tumarcador.xyz/</page>
+</regex>
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+  <title>[COLOR gold][makelist2.param2][/COLOR]</title>
+  <link>$doregex[getUrl]</link>
+]]></listrepeat>
+<expres><![CDATA[href="(.*?)">([^<]+)]]></expres>
+<page>[makelist.param3]</page>
+<referer>https://tumarcador.xyz</referer>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re
+def GetLSProData(page_data,Cookie_Jar,m):#streamwatcher2013
+  return re.findall('Clappr.Player[\w\W]*?[\'"]([^\'"]+)',page_data)[0]+'|user-agent=ipad&referer=http://tumarcador.xyz/[makelist2.param1]'
+]]></expres>
+<page>http://tumarcador.xyz/[makelist2.param1]</page>
+<referer>https://tumarcador.xyz</referer>
+</regex>
+</item>
+
+<item>
 <title>http://www.livrefilmeshd.net/</title>
 <link>$doregex[makelist]</link>
 <regex>
