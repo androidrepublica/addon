@@ -1,0 +1,1360 @@
+#EXTINF:-1 tvg-ID="" tvg-name="=======>   INDONESIA   <=======" tvg-logo="" group-title="",=======>   INDONESIA   <=======
+#EXTINF:-1,LOKAL CHANNEL
+#EXTINF:-1,(ID) NET. SD
+http://rr2.dens.tv/s/s08/index1.m3u8
+#EXTINF:0, group-title="Indonesia",NET HD
+http://boosstalive1-a.akamaihd.net/f894a6ebf56c4569bea516042afd1d55/ap-southeast-1/5664852414001/profile_0/chunklist.m3u8
+#EXTINF:0,TRANS7
+http://210.210.155.35/session/aa57f192-b723-11e8-8904-b82a72d63267/qwr9ew/s/s06/02.m3u8
+#EXTINF:0,TRANS TV
+https://stream-02.sg1.dailymotion.com/dm/3/x5b99vx/live-1.m3u8
+#EXTINF:0,TRANSTV
+http://210.210.155.35/session/687d0a28-b723-11e8-a6e4-b82a72d63267/qwr9ew/s/s05/01.m3u8
+
+#EXTINF:-1,TRANSTV
+http://202.80.222.174/000001/2/ch14041511552652254306/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:0,TRANS7
+https://stream-03.sg1.dailymotion.com/dm/3/x6p1gw7/live-0.m3u8
+#EXTINF:0,TRANS7
+https://stream-01.sg1.dailymotion.com/dm/3/x6p1gw7/live-2.m3u8
+#EXTINF:0,TRANS7
+https://stream-01.sg1.dailymotion.com/dm/3/x6p1gw7/live-3.m3u8
+
+#EXTINF:-1,TRANS7
+http://202.80.222.174/000001/2/ch14041511545447343123/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:0, group-title="LOCAL CHANNELS",RCTI
+http://202.80.222.171/000001/2/ch14041511532707866226/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+
+#EXTINF:0,RCTI
+http://id8.indostreamingtv.com/live/tv6/index.m3u8
+
+#EXTINF:-1,RCTI
+http://202.80.222.171/000001/2/ch14041511532707866226/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1,SCTV
+http://202.80.222.178/000001/2/ch15010918464887721048/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:0,MNCTV
+http://id2.indostreamingtv.com/live/event/index.m3u8
+
+#EXTINF:-1,MNC
+http://202.80.222.182/000001/2/ch14041511111714365733/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,MNC
+http://202.80.222.182/000001/2/ch14041511111714365733/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1,INDOSIAR
+http://202.80.222.179/000001/2/ch15051810235326945512/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1,ANTV
+http://202.80.222.170/000001/2/ch14061215034900095272/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1,GLOBAL TV
+http://202.80.222.174/000001/2/ch14041511505498448705/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1,METROTV
+http://202.80.222.183/000001/2/ch14041511515576869807/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:0,METROTV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w645905961_b1128000_sleng.m3u8
+#EXTINF:0,METROTV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w645905961_b1492000_sleng.m3u8
+
+#EXTINF:-1,TV ONE
+http://202.80.222.182/000001/2/ch14061215030555428637/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:0,TVONE
+https://stream-02.sg1.dailymotion.com/dm/3/x619221/live-2.m3u8
+#EXTINF:0,TVONE
+https://stream-02.sg1.dailymotion.com/dm/3/x619221/live-3.m3u8
+
+#EXTINF:-1,ANTV
+http://210.210.155.35/qwr9ew/s/s07/index1.m3u8
+
+#EXTINF:-1,RTV
+http://202.80.222.170/000001/2/ch00000090990000001716/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1,JTV
+http://202.80.222.175/000001/2/ch00000090990000001731/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+
+#EXTINF:-1,METROTV HD 1
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1354494356_b1492000_sleng.m3u8
+
+#EXTINF:-1,METROTV HD 2
+http://210.210.155.35/session/7c30f4b4-b6ef-11e8-b712-b82a72d63267/qwr9ew/s/s49/01.m3u8
+
+#EXTINF:-1,iNEWS HD
+http://edge.okezone.com/live/inewsokezone.com.m3u8
+
+#EXTINF:-1,KOMPAS TV
+http://202.80.222.182/000001/2/ch00000090990000001730/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1,SINDO TV
+http://202.80.222.175/000001/2/ch14041511541532132975/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1,CNN
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
+
+#EXTINF:-1,BERITA SATU
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b846000.m3u8
+
+#EXTINF:-1,BERITA SATU WORLD
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsworld/playlist.m3u8
+
+#EXTINF:-1,JAKARTA GLOBE NEWS CHANNEL
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
+
+#EXTINF:-1,TV PARLEMEN NKRI
+http://iptv.didanurwanda.com/channel/live/tvr-parlemen.m3u8
+#EXTINF:-1,TVRI NASIONAL
+http://210.210.155.35/session/2c64ecb2-b724-11e8-9332-b82a72d63267/qwr9ew/s/s11/01.m3u8
+
+#EXTINF:-1,TVRI 3 BUDAYA
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/index.m3u8
+#EXTINF:-1,INTV
+https://edge.nim.mivo.tv/intv6vkhr543hkwt/intv_all/playlist.m3u8
+
+#EXTINF:-1,JAKTV
+http://202.80.222.169:80/000001/2/ch00000090990000001695/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1,CNN Indonesia
+http://live.cnnindonesia.com/livecnn/smil:mcnn.smil/chunklist_w799552868_b192000_sleng.m3u8
+
+#EXTINF:-1,KOMPAS TV
+http://210.210.155.35/qwr9ew/s/s09/index1.m3u8
+
+#EXTINF:-1,METRO TV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
+
+#EXTINF:-1,TVRI
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRInasional)/Stream(03)/index.m3u8
+
+#EXTINF:-1,RTV
+http://210.210.155.35/qwr9ew/s/s12/index1.m3u8
+#EXTINF:-1,(ID) RTV HD
+http://210.210.155.35/qwr9ew/s/s12/index1.m3u8
+
+#EXTINF:-1,(ID) RTV SD
+http://rr2.dens.tv/s/s12/index1.m3u8
+#EXTINF:-1,(ID) RTV HD
+http://210.210.155.35/qwr9ew/s/s12/index1.m3u8
+
+#EXTINF:-1,(ID) RTV SD
+http://rr2.dens.tv/s/s12/index1.m3u8
+
+
+#EXTINF:-1,DAAI TV
+http://210.210.155.35/session/4ad0585c-b725-11e8-b712-b82a72d63267/qwr9ew/s/s13/01.m3u8
+
+#EXTINF:-1,EFARINA TV
+http://43.240.226.40:1935/AppLiveEfarinaTV/efarinatv_360p/index.m3u8
+
+#EXTINF:-1,BAYU TV
+http://wms.klikhost.com/bayutv/live/playlist.m3u8
+
+#EXTINF:-1,TVKU
+http://103.30.1.14:8080/hls/live.m3u8
+
+#EXTINF:-1,INTV
+http://210.210.155.35/session/05f56f42-b725-11e8-bf09-b82a72d63267/qwr9ew/s/s46/01.m3u8
+
+#EXTINF:-1,BATAM TV
+http://122.248.32.234:1935/ch5/myStream/live.m3u8
+
+#EXTINF:-1,PADANG TV
+http://122.248.32.234:1935/ch16/myStream/live.m3u8
+
+#EXTINF:-1,RADAR TV LAMPUNG
+http://122.248.32.234:1935/ch17/myStream/playlist.m3u8
+
+#EXTINF:-1,RCTV CIREBON
+http://122.248.32.234:1935/ch9/myStream/live.m3u8
+
+#EXTINF:-1,BTV BALIKPAPAN
+http://122.248.32.234:1935/ch10/myStream/live.m3u8
+
+#EXTINF:-1,STV SAMARINDA
+http://122.248.32.234:1935/ch19/myStream/live.m3u8
+
+#EXTINF:-1,FAJAR TV MAKASSAR
+http://122.248.32.234:1935/ch27/myStream/live.m3u8
+
+#EXTINF:-1,BMS TV
+http://bmstv.onlivestreaming.net/bmstv/livestream/playlist.m3u8
+
+#EXTINF:-1,ADI TV YOGYAKARTA
+http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
+
+#EXTINF:-1,TATV SOLO
+http://video2.onlivestreaming.net/tatv/live.sdp/playlist.m3u8
+
+#EXTINF:-1,BBS TV SURABAYA
+http://ss.bbstv.co.id:1935/bbstv/live1/playlist.m3u8
+
+#EXTINF:-1,BALI TV
+http://202.80.222.171/000001/2/ch00000090990000001729/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:0, group-title="SPORTS",LIGA GOJEK
+http://id1.indostreamingtv.com/live/tv11/index.m3u8
+#EXTINF:-1,TVRI SPORTS HD
+http://210.210.155.35/session/c2b1cc2c-7d85-11e8-916f-b82a72d63267/qwr9ew/s/s48/index1.m3u8
+
+#EXTINF:-1,---------------KIDS CHANNEL---------
+#EXTINF:0, group-title="KIDS",BIZNET KIDS
+http://livestream.biznetvideo.net/biznet_kids/_definst_/stream_kids/chunklist_w381752356_tkdG9rZW5iaXpuZXRsaXZlc3RhcnR0aW1lPTAmdG9rZW5iaXpuZXRsaXZlZW5kdGltZT0wJnRva2VuYml6bmV0bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZ0b2tlbmJpem5ldGxpdmVoYXNoPUt0QlI0a05LS2lwclVCY3VEeTVrRUVORVZremtnRmdNc0VmU2xOYW1QcWpuUC1TQzNPclhNQUlTSDRpcDZ4dno=.m3u8
+
+#EXTINF:0, group-title="KIDS",ANIMAX ID
+http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/index2.m3u8
+
+#EXTINF:0, group-title="KIDS",BOOMERANG
+http://80.87.208.158/dna-143-tv-pc.m3u8
+
+#EXTINF:0, group-title="KIDS",CARTOON NETWORK 1
+http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
+
+#EXTINF:0, group-title="KIDS",CARTOON NETWORK 2
+http://persik.by/stream/2944/263250/32.m3u8
+
+#EXTINF:0, group-title="KIDS",DISNEY CHANNEL
+http://161.0.157.6/PLTV/88888888/224/3221226299/index.m3u8
+
+#EXTINF:0, group-title="KIDS",DISNEY JUNIOR
+http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
+
+#EXTINF:0, group-title="KIDS",MIAO MI
+https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="ID: Bein Junior" tvg-logo="" group-title="Indonesia",ID: Bein Junior
+http://bestbuyiptv.link:6969/andrijulian867@gmail.com/4xLyz2sal7/26771
+
+#EXTINF:-1,--------------------INTERTM--------------
+#EXTINF:-0, group-title="KNOWLEDGE",NAT GEO WILD
+http://livestream.biznetvideo.net/biznet_ngwild/_definst_/stream_ngwild/chunklist_w177687450_tkdG9rZW5iaXpuZXRsaXZlc3RhcnR0aW1lPTAmdG9rZW5iaXpuZXRsaXZlZW5kdGltZT0wJnRva2VuYml6bmV0bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZ0b2tlbmJpem5ldGxpdmVoYXNoPTlIQnp4TmV1VktDRjl0U2c4RUpCRFFvdUpyaDRNeUhaam1rTUpHZHE4VWg0QVBBRmQ5LTZ5bEpxVGgwM3BvcGw=.m3u8
+#EXTINF:0, group-title="KNOWLEDGE",ANIMAL PLANET
+http://80.80.160.168/live/1/live.m3u8
+
+#EXTINF:0, group-title="KNOWLEDGE",CGTN DOCUMENTARY
+https://livedoc.cgtn.com/1000d/prog_index.m3u8
+
+#EXTINF:0, group-title="KNOWLEDGE",DA VINCI LEARNING
+http://210.210.155.35/session/f44000e2-7ed4-11e8-8197-b82a72d63267/uq2663/h/h01/02.m3u8
+
+#EXTINF:0, group-title="KNOWLEDGE",HISTORY
+http://persik.by/stream/2944/263250/10244.m3u8
+
+#EXTINF:0, group-title="KNOWLEDGE",DISCOVERY
+http://80.80.160.168/live/8/2500000/live.m3u8
+
+#EXTINF:0, group-title="KNOWLEDGE",DISCOVERY SCIENCE
+http://80.80.160.168/live/9/live.m3u8
+
+#EXTINF:0, group-title="KNOWLEDGE",INVESTIGATION DISCOVERY
+http://80.80.160.168/live/5/live.m3u8
+
+#EXTINF:0, group-title="KNOWLEDGE",NASA TV
+http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
+
+#EXTINF:0, group-title="KNOWLEDGE",NAT GEO
+http://livestream.biznetvideo.net/biznet_ngc/_definst_/stream_ngc/chunklist_w2021209028_tkdG9rZW5iaXpuZXRsaXZlc3RhcnR0aW1lPTAmdG9rZW5iaXpuZXRsaXZlZW5kdGltZT0wJnRva2VuYml6bmV0bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZ0b2tlbmJpem5ldGxpdmVoYXNoPTd1TjhpclRZYmc0a3JxQ2xULWZ1bXc1OTdueXNpUUxUZWRNdzJfM0hYcThYTWtQR253X2xzQ3hxWng3T0hBY2M=.m3u8
+
+#EXTINF:0, group-title="KNOWLEDGE",NAT GEO WILD
+http://livestream.biznetvideo.net/biznet_ngwild/_definst_/stream_ngwild/chunklist_w177687450_tkdG9rZW5iaXpuZXRsaXZlc3RhcnR0aW1lPTAmdG9rZW5iaXpuZXRsaXZlZW5kdGltZT0wJnRva2VuYml6bmV0bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZ0b2tlbmJpem5ldGxpdmVoYXNoPTlIQnp4TmV1VktDRjl0U2c4RUpCRFFvdUpyaDRNeUhaam1rTUpHZHE4VWg0QVBBRmQ5LTZ5bEpxVGgwM3BvcGw=.m3u8
+
+#EXTINF:0, group-title="KNOWLEDGE",RT DOCUMENTARY
+https://secure-streams.akamaized.net/rt-doc/index.m3u8
+
+#EXTINF:0, group-title="KNOWLEDGE",BBC EARTH
+http://125.17.105.168/wh7f454c46tw133991019_1870526460/PLTV/88888888/224/3221226280/04.m3u8
+#EXTINF:0, group-title="MUSIC",1HD MUSIC TV
+http://cdn-01.bonus-tv.ru:8080/1HDmusic/tracks-v1a1/index.m3u8
+#EXTINF:-1,-------------MUSIC--------------
+#EXTINF:0, group-title="MUSIC",BOX HITS
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
+
+#EXTINF:0, group-title="MUSIC",CALIFORNIA MUSIC CHANNEL
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8
+
+#EXTINF:0, group-title="MUSIC",KEENG MUSIC
+http://125.235.29.16/livetv/keeng.m3u8
+
+#EXTINF:0, group-title="MUSIC",M2O TV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
+
+#EXTINF:0, group-title="MUSIC",MTV DANCE
+http://80.87.208.158:80/dna-68-tv-pc.m3u8
+
+#EXTINF:0, group-title="MUSIC",MTV HITS
+http://80.87.208.158:80/dna-67-tv-pc.m3u8
+
+#EXTINF:0, group-title="MUSIC",MTV ROCKS
+http://80.87.208.158:80/dna-99-tv-pc.m3u8
+
+#EXTINF:0, group-title="MUSIC",MUSIC CHOICE
+http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+
+#EXTINF:0, group-title="MUSIC",MUSIC TOP
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w767435128_b2028000_sleng.m3u8
+
+#EXTINF:0, group-title="MUSIC",O FHD
+http://77.232.128.68/bks.m3u8
+
+#EXTINF:0, group-title="MUSIC",ONE
+http://rtmp.one.by:1300
+
+#EXTINF:0, group-title="MUSIC",VH1
+http://80.87.208.158:80/dna-71-tv-pc.m3u8
+
+#EXTINF:0, group-title="MUSIC",VH1 CLASSIC
+http://80.87.208.158:80/dna-69-tv-pc.m3u8
+
+#EXTINF:0, group-title="MUSIC",XLITE MUSIC
+http://highvolume03.streampartner.nl:1935/vleugels_hd4/livestream/playlist.m3u8
+
+#EXTINF:0, group-title="MUSIC",ZOOM
+http://zoomweblive-lh.akamaihd.net/i/Zoom-TIL-WAP/Zoomweb_1@348071/master.m3u8
+#EXTINF:0, HBO HD
+http://210.210.155.35/session/a8d8d46e-d6ca-11e8-8397-c81f66f89318/uq2663/h/h231/index2.m3u8
+#EXTINF:0, MY CINEMA
+http://rr3.dens.tv/s/s31/index2.m3u8
+#EXTINF:0, ZEE BIOSKOP
+http://210.210.155.35/session/5d6f2928-d6cb-11e8-8e98-c81f66f89318/qwr9ew/s/s32/index2.m3u8
+#EXTINF:0,CELESTIAL MOVIE
+http://210.210.155.35/session/3f309224-ce85-11e8-83d2-b82a72d63267/qwr9ew/s/s33/02.m3u8
+#EXTINF:0,KIX
+http://210.210.155.35/session/84dfed7e-ce85-11e8-9074-c81f66f89318/uq2663/h/h07/02.m3u8
+#EXTINF:0,ZEEBIOSKOP
+http://210.210.155.35/session/cffc0fae-ce85-11e8-a249-b82a72d63267/qwr9ew/s/s32/02.m3u8
+#EXTINF:0,THRILL
+http://210.210.155.35/session/cd145ce6-ce86-11e8-ad70-b82a72d63267/qwr9ew/s/s34/02.m3u8
+
+#EXTINF:0, group-title="MOVIE",&FLIX HD
+http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="MOVIE",SYFY
+http://23.237.22.82:8086/udp/127.0.0.1:56063
+#EXTINF:0, group-title="MOVIE",&FILX
+http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
+
+#EXTINF:0, group-title="MOVIE",&PRIVE
+http://z5ams.akamaized.net/andprivehd/tracks-v1a1/index.m3u8
+
+#EXTINF:0, group-title="MOVIE",FOX MOVIES PREMIUM
+http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
+
+#EXTINF:0, group-title="MOVIE",SALURAN FILM INDONESIA
+http://stream1.ninmedia.tv/live/xmedia-sfitv.stream_nin/chunklist_w1327035077.m3u8
+
+#EXTINF:0, group-title="MOVIE",THE INDONESIA CHANNEL
+http://202.93.133.3:1935/svr2/tic.com.stream_720p/chunklist_w752720676.m3u8
+
+#EXTINF:0, group-title="MOVIE",JGO
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
+
+
+#EXTINF:0, group-title="MOVIE",&PICTURES HD
+http://z5ams.akamaized.net/andpicshd/tracks-v1a1/index.m3u8
+
+#EXTINF:0, group-title="MOVIE",&PRIVE HD
+http://z5ams.akamaized.net/andprivehd/tracks-v1a1/index.m3u8
+
+#EXTINF:0, group-title="MOVIE",SYFY
+http://23.237.22.82:8086/udp/127.0.0.1:56063
+
+#EXTINF:0, group-title="MOVIE",HALLMARK MOVIES&MYSTERIES
+http://23.237.22.82:8086/udp/127.0.0.1:56067
+
+#EXTINF:0, group-title="MOVIE",FOX MOVIES
+http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8
+
+#EXTINF:0, group-title="MOVIE",FOX MOVIES PREMIUM
+http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
+
+#EXTINF:0, group-title="MOVIE",FOX MOVIES COMEDY
+http://161.0.157.9/PLTV/88888888/224/3221226800/03.m3u8
+
+#EXTINF:0, group-title="MOVIE",RAI MOVIE
+http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
+
+#EXTINF:0, group-title="MOVIE",HBO HD
+http://80.87.208.158/dna-151-tv-pc.m3u8
+
+#EXTINF:0, group-title="MOVIE",HBO
+http://218.202.220.2:5000/nn_live.ts?id=HBO
+
+#EXTINF:0, group-title="MOVIE",HBO 2
+http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8
+
+#EXTINF:0, group-title="MOVIE",SHOWTIME HD
+http://80.80.160.168/live/7/live.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="ID: FOX Movies HD" tvg-logo="" group-title="Indonesia",ID: FOX Movies HD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/26747
+#EXTINF:-1 tvg-ID="" tvg-name="ID: Warner Bros" tvg-logo="" group-title="Indonesia",ID: Warner Bros
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/26773
+
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="=======>   Malaysia   <=======" tvg-logo="" group-title="",=======>   malaysia   <=======
+#EXTINF:-1 tvg-ID="" tvg-name="VIP: MY HD Fox Action Movies HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/foxactionmoviesarb.png" group-title="VipChannels",VIP: MY HD Fox Action Movies HD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/6175
+#EXTINF:-1 tvg-ID="" tvg-name="VIP: MY HD Fox Family Movies HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/foxfamilymovieshdarb.png" group-title="VipChannels",VIP: MY HD Fox Family Movies HD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/6174
+#EXTINF:-1 tvg-ID="" tvg-name="MY: Astro Awani" tvg-logo="http://iptvreseller.xyz:1234/Anh/astrotv.png" group-title="Malaysia",MY: Astro Awani
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/8471
+#EXTINF:-1 tvg-ID="" tvg-name="MY: Astro Maya" tvg-logo="http://iptvreseller.xyz:1234/Anh/astrotv.png" group-title="Malaysia",MY: Astro Maya
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/8469
+#EXTINF:-1 tvg-ID="" tvg-name="MY: Astro RIA" tvg-logo="http://iptvreseller.xyz:1234/Anh/astrotv.png" group-title="Malaysia",MY: Astro RIA
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/8465
+#EXTINF:-1 tvg-ID="" tvg-name="MY: Astro Warna" tvg-logo="http://iptvreseller.xyz:1234/Anh/astrotv.png" group-title="Malaysia",MY: Astro Warna
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/8464
+#EXTINF:-1 tvg-ID="" tvg-name="MY: Fox Movies Action" tvg-logo="http://iptvreseller.xyz:1234/Anh/foxactionmoviesarb.png" group-title="Malaysia",MY: Fox Movies Action
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/8463
+#EXTINF:-1 tvg-ID="" tvg-name="MY: Fox Movies Premium" tvg-logo="http://iptvreseller.xyz:1234/Anh/foxpremiummovieslam.png" group-title="Malaysia",MY: Fox Movies Premium
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/8462
+#EXTINF:-1 tvg-ID="" tvg-name="MY: NTV7" tvg-logo="http://iptvreseller.xyz:1234/Anh/ntv.png" group-title="Malaysia",MY: NTV7
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/8461
+#EXTINF:-1 tvg-ID="" tvg-name="MY: TV1" tvg-logo="http://iptvreseller.xyz:1234/Anh/tv1ba.png" group-title="Malaysia",MY: TV1
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/8460
+#EXTINF:-1 tvg-ID="" tvg-name="MY: TV2" tvg-logo="http://iptvreseller.xyz:1234/Anh/tv2-pistohicra.png" group-title="Malaysia",MY: TV2
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/8459
+#EXTINF:-1 tvg-ID="" tvg-name="MY: TV3" tvg-logo="http://iptvreseller.xyz:1234/Anh/tv3-pephawrego.png" group-title="Malaysia",MY: TV3
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/8458
+#EXTINF:-1 tvg-ID="" tvg-name="MY: TV9" tvg-logo="http://iptvreseller.xyz:1234/Anh/TV9.png" group-title="Malaysia",MY: TV9
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/8457
+#EXTINF:-1 tvg-ID="" tvg-name="MY: SKYNET SPORTS 1" tvg-logo="http://iptvreseller.xyz:1234/Anh/skysport1.png" group-title="Malaysia",MY: SKYNET SPORTS 1
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/17078
+#EXTINF:-1 tvg-ID="" tvg-name="MY: SKYNET SPORTS 2" tvg-logo="http://iptvreseller.xyz:1234/Anh/skysport2.png" group-title="Malaysia",MY: SKYNET SPORTS 2
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/17077
+#EXTINF:-1 tvg-ID="" tvg-name="MY: SKYNET SPORTS 3" tvg-logo="http://iptvreseller.xyz:1234/Anh/skysport3-phibruspel.png" group-title="Malaysia",MY: SKYNET SPORTS 3
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/17076
+#EXTINF:-1 tvg-ID="" tvg-name="MY: SKYNET SPORTS 4" tvg-logo="http://iptvreseller.xyz:1234/Anh/skysport4.png" group-title="Malaysia",MY: SKYNET SPORTS 4
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/17075
+#EXTINF:-1 tvg-ID="" tvg-name="MY: SKYNET SPORTS 5" tvg-logo="" group-title="Malaysia",MY: SKYNET SPORTS 5
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/17074
+#EXTINF:-1 tvg-ID="" tvg-name="MY: SKYNET SPORTS 6" tvg-logo="http://iptvreseller.xyz:1234/Anh/skysport6.png" group-title="Malaysia",MY: SKYNET SPORTS 6
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/17073
+#EXTINF:-1 tvg-ID="" tvg-name="MY: Skynet Sports 1(1)" tvg-logo="http://iptvreseller.xyz:1234/Anh/SkynetSports.png" group-title="Sport",MY: Skynet Sports 1(1)
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/26638
+#EXTINF:-1 tvg-ID="" tvg-name="MY: Skynet Sports 2(1)" tvg-logo="http://iptvreseller.xyz:1234/Anh/SkynetSports.png" group-title="Sport",MY: Skynet Sports 2(1)
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/26637
+#EXTINF:-1 tvg-ID="" tvg-name="MY: Skynet Sports 3(1)" tvg-logo="http://iptvreseller.xyz:1234/Anh/SkynetSports.png" group-title="Sport",MY: Skynet Sports 3(1)
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/26636
+#EXTINF:-1 tvg-ID="" tvg-name="MY: Skynet Sports 4(1)" tvg-logo="http://iptvreseller.xyz:1234/Anh/SkynetSports.png" group-title="Sport",MY: Skynet Sports 4(1)
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/26635
+#EXTINF:-1 tvg-ID="" tvg-name="MY: Skynet Sports 5(1)" tvg-logo="http://iptvreseller.xyz:1234/Anh/SkynetSports.png" group-title="Sport",MY: Skynet Sports 5(1)
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/26634
+#EXTINF:-1 tvg-ID="" tvg-name="MY: Skynet Sports 6(1)" tvg-logo="http://iptvreseller.xyz:1234/Anh/SkynetSports.png" group-title="Sport",MY: Skynet Sports 6(1)
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/26633
+#EXTINF:-1 tvg-ID="" tvg-name="MY: Skynet Sports HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/SkynetSports.png" group-title="Malaysia",MY: Skynet Sports HD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/26632
+#EXTINF:-1 tvg-ID="" tvg-name="MY: ASTRO SUPERSPORTS 1" tvg-logo="http://iptvreseller.xyz:1234/Anh/ASTROSUPERSPORTS.png" group-title="Malaysia",MY: ASTRO SUPERSPORTS 1
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/27363
+#EXTINF:-1 tvg-ID="" tvg-name="MY: ASTRO SUPERSPORTS 2" tvg-logo="http://iptvreseller.xyz:1234/Anh/ASTROSUPERSPORTS.png" group-title="Malaysia",MY: ASTRO SUPERSPORTS 2
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/27364
+#EXTINF:-1 tvg-ID="" tvg-name="MY: ASTRO SUPERSPORTS 3" tvg-logo="http://iptvreseller.xyz:1234/Anh/ASTROSUPERSPORTS.png" group-title="Malaysia",MY: ASTRO SUPERSPORTS 3
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/27365
+#EXTINF:-1 tvg-ID="" tvg-name="MY: ASTRO SUPERSPORTS 4" tvg-logo="http://iptvreseller.xyz:1234/Anh/ASTROSUPERSPORTS.png" group-title="Malaysia",MY: ASTRO SUPERSPORTS 4
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/27366
+#EXTINF:-1 tvg-ID="" tvg-name="MY: ANI PLUS HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/ANIPLUSHD.png" group-title="Malaysia",MY: ANI PLUS HD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29669
+#EXTINF:-1 tvg-ID="" tvg-name="MY: ANIMAL PLANET" tvg-logo="http://iptvreseller.xyz:1234/Anh/animalplanet.png" group-title="Malaysia",MY: ANIMAL PLANET
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29668
+#EXTINF:-1 tvg-ID="" tvg-name="MY: ANIMAX HD KD" tvg-logo="http://iptvreseller.xyz:1234/Anh/animaux.png" group-title="Malaysia",MY: ANIMAX HD KD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29667
+#EXTINF:-1 tvg-ID="" tvg-name="MY: ASTRO AEC HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/ASTROAECHD.png" group-title="Malaysia",MY: ASTRO AEC HD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29666
+#EXTINF:-1 tvg-ID="" tvg-name="MY: ASTRO ARENA HD" tvg-logo="" group-title="Malaysia",MY: ASTRO ARENA HD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29665
+#EXTINF:-1 tvg-ID="" tvg-name="MY: ASTRO AWANI HD" tvg-logo="" group-title="Malaysia",MY: ASTRO AWANI HD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29664
+#EXTINF:-1 tvg-ID="" tvg-name="MY: ASTRO BELLA" tvg-logo="" group-title="Malaysia",MY: ASTRO BELLA
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29663
+#EXTINF:-1 tvg-ID="" tvg-name="MY: ASTRO CERIA" tvg-logo="" group-title="Malaysia",MY: ASTRO CERIA
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29662
+#EXTINF:-1 tvg-ID="" tvg-name="MY: ASTRO CRICKET HD" tvg-logo="" group-title="Malaysia",MY: ASTRO CRICKET HD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29661
+#EXTINF:-1 tvg-ID="" tvg-name="MY: ASTRO MAYA HD" tvg-logo="" group-title="Malaysia",MY: ASTRO MAYA HD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29660
+#EXTINF:-1 tvg-ID="" tvg-name="MY: ASTRO OASIS HD" tvg-logo="" group-title="Malaysia",MY: ASTRO OASIS HD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29659
+#EXTINF:-1 tvg-ID="" tvg-name="MY: ASTRO PRIMA HD" tvg-logo="" group-title="Malaysia",MY: ASTRO PRIMA HD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29658
+#EXTINF:-1 tvg-ID="" tvg-name="MY: ASTRO QUAN JIA HD" tvg-logo="" group-title="Malaysia",MY: ASTRO QUAN JIA HD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29657
+#EXTINF:-1 tvg-ID="" tvg-name="MY: ASTRO RIA HD" tvg-logo="" group-title="Malaysia",MY: ASTRO RIA HD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29656
+#EXTINF:-1 tvg-ID="" tvg-name="MY: ASTRO SHUANG XING HD" tvg-logo="" group-title="Malaysia",MY: ASTRO SHUANG XING HD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29655
+#EXTINF:-1 tvg-ID="" tvg-name="MY: ASTRO TARA HD" tvg-logo="" group-title="Malaysia",MY: ASTRO TARA HD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29654
+#EXTINF:-1 tvg-ID="" tvg-name="MY: ASTRO VAANAVIL HD" tvg-logo="" group-title="Malaysia",MY: ASTRO VAANAVIL HD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29653
+#EXTINF:-1 tvg-ID="" tvg-name="MY: ASTRO VINMEEN HD" tvg-logo="" group-title="Malaysia",MY: ASTRO VINMEEN HD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29652
+#EXTINF:-1 tvg-ID="" tvg-name="MY: ASTRO WARNA HD" tvg-logo="" group-title="Malaysia",MY: ASTRO WARNA HD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29651
+#EXTINF:-1 tvg-ID="" tvg-name="MY: ASTRO XI YUE" tvg-logo="" group-title="Malaysia",MY: ASTRO XI YUE
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29650
+#EXTINF:-1 tvg-ID="" tvg-name="MY: ASTRO XIAO TAI YANG" tvg-logo="" group-title="Malaysia",MY: ASTRO XIAO TAI YANG
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29649
+#EXTINF:-1 tvg-ID="" tvg-name="MY: AXN HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/axnhd.png" group-title="Malaysia",MY: AXN HD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29648
+#EXTINF:-1 tvg-ID="" tvg-name="MY: BABY FIRST" tvg-logo="http://iptvreseller.xyz:1234/Anh/babyfirst.png" group-title="Malaysia",MY: BABY FIRST
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29647
+#EXTINF:-1 tvg-ID="" tvg-name="MY: BBC EARTH HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/bbcearth.png" group-title="Malaysia",MY: BBC EARTH HD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29645
+#EXTINF:-1 tvg-ID="" tvg-name="MY: BBC LIFESTYLE" tvg-logo="http://iptvreseller.xyz:1234/Anh/bbclifestyle.png" group-title="Malaysia",MY: BBC LIFESTYLE
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29644
+#EXTINF:-1 tvg-ID="" tvg-name="MY: BEIN SPORTS" tvg-logo="http://iptvreseller.xyz:1234/Anh/beinsports.png" group-title="Malaysia",MY: BEIN SPORTS
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29643
+#EXTINF:-1 tvg-ID="" tvg-name="MY: BLUE ANT EXTREME" tvg-logo="http://iptvreseller.xyz:1234/Anh/BLUEANTEXTREME.png" group-title="Malaysia",MY: BLUE ANT EXTREME
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29642
+#EXTINF:-1 tvg-ID="" tvg-name="MY: BOLLY ONE HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/BOLLYONEHD.png" group-title="Malaysia",MY: BOLLY ONE HD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29641
+#EXTINF:-1 tvg-ID="" tvg-name="MY: BOOMERANG HD KD" tvg-logo="http://iptvreseller.xyz:1234/Anh/boomerang.png" group-title="Malaysia",MY: BOOMERANG HD KD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29640
+#EXTINF:-1 tvg-ID="" tvg-name="MY: CARTOON NETWORK" tvg-logo="http://iptvreseller.xyz:1234/Anh/cartoonnetwork.png" group-title="Malaysia",MY: CARTOON NETWORK
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29639
+#EXTINF:-1 tvg-ID="" tvg-name="MY: CELESTIAL MOVIES" tvg-logo="http://iptvreseller.xyz:1234/Anh/CELESTIALMOVIES.png" group-title="Malaysia",MY: CELESTIAL MOVIES
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29638
+#EXTINF:-1 tvg-ID="" tvg-name="MY: CHANNEL W" tvg-logo="http://iptvreseller.xyz:1234/Anh/CHANNELW.png" group-title="Malaysia",MY: CHANNEL W
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29637
+#EXTINF:-1 tvg-ID="" tvg-name="MY: CINEMA WORLD HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/CINEMAWORLDHD.png" group-title="Malaysia",MY: CINEMA WORLD HD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29636
+#EXTINF:-1 tvg-ID="" tvg-name="MY: DISCOVERY CHANNEL" tvg-logo="http://iptvreseller.xyz:1234/Anh/discoverychannel.png" group-title="Malaysia",MY: DISCOVERY CHANNEL
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29635
+#EXTINF:-1 tvg-ID="" tvg-name="MY: DISNEY CH" tvg-logo="http://iptvreseller.xyz:1234/Anh/disneychannel.png" group-title="Malaysia",MY: DISNEY CH
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29634
+#EXTINF:-1 tvg-ID="" tvg-name="MY: DISNEY JR" tvg-logo="http://iptvreseller.xyz:1234/Anh/disneyjr.png" group-title="Malaysia",MY: DISNEY JR
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29628
+#EXTINF:-1 tvg-ID="" tvg-name="MY: DISNEY XD" tvg-logo="http://iptvreseller.xyz:1234/Anh/disneyxd.png" group-title="Malaysia",MY: DISNEY XD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29627
+#EXTINF:-1 tvg-ID="" tvg-name="MY: DIVA HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/divaexyu.png" group-title="Malaysia",MY: DIVA HD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29626
+#EXTINF:-1 tvg-ID="" tvg-name="MY: DUNIA SINEMA" tvg-logo="http://iptvreseller.xyz:1234/Anh/DUNIASINEMA.png" group-title="Malaysia",MY: DUNIA SINEMA
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29632
+#EXTINF:-1 tvg-ID="" tvg-name="MY: ENTERTAINMENT" tvg-logo="http://iptvreseller.xyz:1234/Anh/e.png" group-title="Malaysia",MY: ENTERTAINMENT
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29633
+#EXTINF:-1 tvg-ID="" tvg-name="MY: EVERY GOOD GAME HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/EVERYGOODGAMEHD.png" group-title="Malaysia",MY: EVERY GOOD GAME HD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29631
+#EXTINF:-1 tvg-ID="" tvg-name="MY: FOX ACTION MOVIES HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/foxactionmoviesarb.png" group-title="Malaysia",MY: FOX ACTION MOVIES HD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29630
+#EXTINF:-1 tvg-ID="" tvg-name="MY: FOX FAMILY MOVIES HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/foxfamilymovieshdarb.png" group-title="Malaysia",MY: FOX FAMILY MOVIES HD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29629
+#EXTINF:-1 tvg-ID="" tvg-name="MY: FOX LIFE HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/foxlifehd.png" group-title="Malaysia",MY: FOX LIFE HD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29625
+#EXTINF:-1 tvg-ID="" tvg-name="MY: FOX MOVIES HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/foxmovies.png" group-title="Malaysia",MY: FOX MOVIES HD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29624
+#EXTINF:-1 tvg-ID="" tvg-name="MY: FOX SPORTS 1" tvg-logo="http://iptvreseller.xyz:1234/Anh/foxsports1.png" group-title="Malaysia",MY: FOX SPORTS 1
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29623
+#EXTINF:-1 tvg-ID="" tvg-name="MY: FOX SPORTS 2" tvg-logo="http://iptvreseller.xyz:1234/Anh/foxsports2.png" group-title="Malaysia",MY: FOX SPORTS 2
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29622
+#EXTINF:-1 tvg-ID="" tvg-name="MY: FOX SPORTS 3" tvg-logo="http://iptvreseller.xyz:1234/Anh/foxsports3.png" group-title="Malaysia",MY: FOX SPORTS 3
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29621
+#EXTINF:-1 tvg-ID="" tvg-name="MY: FOX TV HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/foxsports4.png" group-title="Malaysia",MY: FOX TV HD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29620
+#EXTINF:-1 tvg-ID="" tvg-name="MY: FX CINEMA HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/foxcinemalam.png" group-title="Malaysia",MY: FX CINEMA HD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29619
+#EXTINF:-1 tvg-ID="" tvg-name="MY: GNIX SPORTS HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/GNIXSPORTSHD.png" group-title="Malaysia",MY: GNIX SPORTS HD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29618
+#EXTINF:-1 tvg-ID="" tvg-name="MY: HGTV" tvg-logo="http://iptvreseller.xyz:1234/Anh/hgtv.png" group-title="Malaysia",MY: HGTV
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29617
+#EXTINF:-1 tvg-ID="" tvg-name="MY: HHD" tvg-logo="http://iptvreseller.xyz:1234/Anh/HHD.png" group-title="Malaysia",MY: HHD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29615
+#EXTINF:-1 tvg-ID="" tvg-name="MY: HITS HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/HITSHD.png" group-title="Malaysia",MY: HITS HD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29616
+#EXTINF:-1 tvg-ID="" tvg-name="MY: K PLUS HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/KPLUSHD.png" group-title="Malaysia",MY: K PLUS HD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29614
+#EXTINF:-1 tvg-ID="" tvg-name="MY: KIX" tvg-logo="http://iptvreseller.xyz:1234/Anh/kix.png" group-title="Malaysia",MY: KIX
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29613
+#EXTINF:-1 tvg-ID="" tvg-name="MY: LIFETIME" tvg-logo="http://iptvreseller.xyz:1234/Anh/lifetime.png" group-title="Malaysia",MY: LIFETIME
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29612
+#EXTINF:-1 tvg-ID="" tvg-name="MY: MTV ASIA" tvg-logo="http://iptvreseller.xyz:1234/Anh/mtv.png" group-title="Malaysia",MY: MTV ASIA
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29611
+#EXTINF:-1 tvg-ID="" tvg-name="MY: MUTV HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/MUTVHD.png" group-title="Malaysia",MY: MUTV HD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29610
+#EXTINF:-1 tvg-ID="" tvg-name="MY: NAT GEO ASIA HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/natgeo.png" group-title="Malaysia",MY: NAT GEO ASIA HD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29609
+#EXTINF:-1 tvg-ID="" tvg-name="MY: NAT GEO PEOPLE HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/natgeopeople.png" group-title="Malaysia",MY: NAT GEO PEOPLE HD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29608
+#EXTINF:-1 tvg-ID="" tvg-name="MY: NAT GEO WILD HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/natgeowildhd.png" group-title="Malaysia",MY: NAT GEO WILD HD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29607
+#EXTINF:-1 tvg-ID="" tvg-name="MY: NICK JR KD" tvg-logo="http://iptvreseller.xyz:1234/Anh/nickjr.png" group-title="Malaysia",MY: NICK JR KD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29606
+#EXTINF:-1 tvg-ID="" tvg-name="MY: NICK KD" tvg-logo="http://iptvreseller.xyz:1234/Anh/nickelodeon.png" group-title="Malaysia",MY: NICK KD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29605
+#EXTINF:-1 tvg-ID="" tvg-name="MY: NOW TV CHINESE" tvg-logo="http://iptvreseller.xyz:1234/Anh/NOWTVCHINESE.png" group-title="Malaysia",MY: NOW TV CHINESE
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29604
+#EXTINF:-1 tvg-ID="" tvg-name="MY: OHIK" tvg-logo="http://iptvreseller.xyz:1234/Anh/OHIK.png" group-title="Malaysia",MY: OHIK
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29603
+#EXTINF:-1 tvg-ID="" tvg-name="MY: OUTDOOR HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/outdoorchannel.png" group-title="Malaysia",MY: OUTDOOR HD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29602
+#EXTINF:-1 tvg-ID="" tvg-name="MY: PARAMAUNT CHANNEL" tvg-logo="http://iptvreseller.xyz:1234/Anh/PARAMAUNTCHANNEL.png" group-title="Malaysia",MY: PARAMAUNT CHANNEL
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29601
+#EXTINF:-1 tvg-ID="" tvg-name="MY: PESONA HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/PESONAHD.png" group-title="Malaysia",MY: PESONA HD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29600
+#EXTINF:-1 tvg-ID="" tvg-name="MY: RED HBO HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/REDHBOHD.png" group-title="Malaysia",MY: RED HBO HD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29599
+#EXTINF:-1 tvg-ID="" tvg-name="MY: SETANTA SPORTS HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/SETANTASPORTSHD.png" group-title="Malaysia",MY: SETANTA SPORTS HD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29598
+#EXTINF:-1 tvg-ID="" tvg-name="MY: SETi CHINESE" tvg-logo="http://iptvreseller.xyz:1234/Anh/SETiCHINESE.png" group-title="Malaysia",MY: SETi CHINESE
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29597
+#EXTINF:-1 tvg-ID="" tvg-name="MY: SONY ONE HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/SONYONEHD.png" group-title="Malaysia",MY: SONY ONE HD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29596
+#EXTINF:-1 tvg-ID="" tvg-name="MY: SONY SAB APAC" tvg-logo="http://iptvreseller.xyz:1234/Anh/sonysab.png" group-title="Malaysia",MY: SONY SAB APAC
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29673
+#EXTINF:-1 tvg-ID="" tvg-name="MY: SONY SETMAX APAC" tvg-logo="http://iptvreseller.xyz:1234/Anh/SONYSETMAXAPAC.png" group-title="Malaysia",MY: SONY SETMAX APAC
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29672
+#EXTINF:-1 tvg-ID="" tvg-name="MY: SONY TV APAC" tvg-logo="http://iptvreseller.xyz:1234/Anh/sonytv.png" group-title="Malaysia",MY: SONY TV APAC
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29671
+#EXTINF:-1 tvg-ID="" tvg-name="MY: STAR CHINESE CHANNEL HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/STARCHINESECHANNELHD.png" group-title="Malaysia",MY: STAR CHINESE CHANNEL HD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29595
+#EXTINF:-1 tvg-ID="" tvg-name="MY: TLC" tvg-logo="http://iptvreseller.xyz:1234/Anh/tlc.png" group-title="Malaysia",MY: TLC
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29594
+#EXTINF:-1 tvg-ID="" tvg-name="MY: TRAVEL CHANNEL HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/travelchannel.png" group-title="Malaysia",MY: TRAVEL CHANNEL HD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29593
+#EXTINF:-1 tvg-ID="" tvg-name="MY: TV ALHIJRA" tvg-logo="http://iptvreseller.xyz:1234/Anh/tva.png" group-title="Malaysia",MY: TV ALHIJRA
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29592
+#EXTINF:-1 tvg-ID="" tvg-name="MY: TV8" tvg-logo="http://iptvreseller.xyz:1234/Anh/tv8-cricroclot.png" group-title="Malaysia",MY: TV8
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29591
+#EXTINF:-1 tvg-ID="" tvg-name="MY: TVN HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/tvn.png" group-title="Malaysia",MY: TVN HD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29590
+#EXTINF:-1 tvg-ID="" tvg-name="MY: TVN MOVIES" tvg-logo="http://iptvreseller.xyz:1234/Anh/TVNMOVIES.png" group-title="Malaysia",MY: TVN MOVIES
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29589
+#EXTINF:-1 tvg-ID="" tvg-name="MY: WARNER TV HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/WARNERTVHD.png" group-title="Malaysia",MY: WARNER TV HD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29588
+#EXTINF:-1 tvg-ID="" tvg-name="MY: WWE NETWORK HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/wwe.png" group-title="Malaysia",MY: WWE NETWORK HD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29587
+#EXTINF:-1 tvg-ID="" tvg-name="MY: ASIAN FOOD CHANNEL" tvg-logo="http://iptvreseller.xyz:1234/Anh/ASIANFOODCHANNEL.png" group-title="Turkey",MY: ASIAN FOOD CHANNEL
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/31497
+#EXTINF:-1 tvg-ID="" tvg-name="MY: ASTRO 1 PPV" tvg-logo="" group-title="Malaysia",MY: ASTRO 1 PPV
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/31831
+#EXTINF:-1 tvg-ID="" tvg-name="MY: ASTRO 10 PPV" tvg-logo="" group-title="Malaysia",MY: ASTRO 10 PPV
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/31830
+#EXTINF:-1 tvg-ID="" tvg-name="MY: ASTRO 11 PPV" tvg-logo="" group-title="Malaysia",MY: ASTRO 11 PPV
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/31829
+#EXTINF:-1 tvg-ID="" tvg-name="MY: ASTRO 12 PPV" tvg-logo="" group-title="Malaysia",MY: ASTRO 12 PPV
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/31828
+#EXTINF:-1 tvg-ID="" tvg-name="MY: ASTRO 2 PPV" tvg-logo="" group-title="Malaysia",MY: ASTRO 2 PPV
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/31827
+#EXTINF:-1 tvg-ID="" tvg-name="MY: ASTRO 3 PPV" tvg-logo="" group-title="Malaysia",MY: ASTRO 3 PPV
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/31826
+#EXTINF:-1 tvg-ID="" tvg-name="MY: ASTRO 4 PPV" tvg-logo="" group-title="Malaysia",MY: ASTRO 4 PPV
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/31825
+#EXTINF:-1 tvg-ID="" tvg-name="MY: ASTRO 5 PPV" tvg-logo="" group-title="Malaysia",MY: ASTRO 5 PPV
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/31824
+#EXTINF:-1 tvg-ID="" tvg-name="MY: ASTRO 6 PPV" tvg-logo="" group-title="Malaysia",MY: ASTRO 6 PPV
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/31823
+#EXTINF:-1 tvg-ID="" tvg-name="MY: ASTRO 7 PPV" tvg-logo="" group-title="Malaysia",MY: ASTRO 7 PPV
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/31822
+#EXTINF:-1 tvg-ID="" tvg-name="MY: ASTRO 8 PPV" tvg-logo="" group-title="Malaysia",MY: ASTRO 8 PPV
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/31821
+#EXTINF:-1 tvg-ID="" tvg-name="MY: ASTRO 9 PPV" tvg-logo="" group-title="Malaysia",MY: ASTRO 9 PPV
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/31820
+#EXTINF:-1 tvg-ID="" tvg-name="NZ: SKY SPORTS 1 HD" tvg-logo="" group-title="New Zealand",NZ: SKY SPORTS 1 HD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/31807
+#EXTINF:-1 tvg-ID="" tvg-name="NZ: SKY SPORTS 2 HD" tvg-logo="" group-title="New Zealand",NZ: SKY SPORTS 2 HD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/31806
+#EXTINF:-1 tvg-ID="" tvg-name="NZ: SKY SPORTS 3 HD" tvg-logo="" group-title="New Zealand",NZ: SKY SPORTS 3 HD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/31805
+#EXTINF:-1 tvg-ID="" tvg-name="NZ: SKY SPORTS 4 HD" tvg-logo="" group-title="New Zealand",NZ: SKY SPORTS 4 HD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/31804
+
+#EXTINF-1,------------BEIN SPORT CHANNEL------------------
+#EXTINF:-1 tvg-ID="" tvg-name="AR: BEIN 10 HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/BEINHD.png" group-title="ARABIC",AR: BEIN 10 HD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/9127
+#EXTINF:-1 tvg-ID="" tvg-name="AR: BEIN 11 HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/BEINHD.png" group-title="ARABIC",AR: BEIN 11 HD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/9126
+#EXTINF:-1 tvg-ID="" tvg-name="AR: BEIN 12 HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/BEINHD.png" group-title="ARABIC",AR: BEIN 12 HD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/9125
+#EXTINF:-1 tvg-ID="" tvg-name="AR: BEIN 13 HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/BEINHD.png" group-title="ARABIC",AR: BEIN 13 HD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/9123
+#EXTINF:-1 tvg-ID="" tvg-name="AR: BEIN 9 HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/BEINHD.png" group-title="ARABIC",AR: BEIN 9 HD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/9124
+#EXTINF:-1 tvg-ID="" tvg-name="AR: BEIN 1 FHD" tvg-logo="http://iptvreseller.xyz:1234/Anh/BEINHD.png" group-title="ARABIC",AR: BEIN 1 FHD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/8998
+#EXTINF:-1 tvg-ID="beIN Sports 2 HD ARB" tvg-name="AR: BEIN 2 FHD" tvg-logo="http://iptvreseller.xyz:1234/Anh/BEINHD.png" group-title="ARABIC",AR: BEIN 2 FHD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/8997
+#EXTINF:-1 tvg-ID="beIN Sports 3 HD ARB" tvg-name="AR: BEIN 3 FHD" tvg-logo="http://iptvreseller.xyz:1234/Anh/BEINHD.png" group-title="ARABIC",AR: BEIN 3 FHD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/8996
+#EXTINF:-1 tvg-ID="beIN Sports 4 HD ARB" tvg-name="AR: BEIN 4 FHD" tvg-logo="http://iptvreseller.xyz:1234/Anh/BEINHD.png" group-title="ARABIC",AR: BEIN 4 FHD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/8995
+#EXTINF:-1 tvg-ID="beIN Sports 5 HD ARB" tvg-name="AR: BEIN 5 HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/BEINHD.png" group-title="ARABIC",AR: BEIN 5 HD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/8994
+#EXTINF:-1 tvg-ID="beIN Sports 6 HD ARB" tvg-name="AR: BEIN 6 HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/BEINHD.png" group-title="ARABIC",AR: BEIN 6 HD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/8993
+#EXTINF:-1 tvg-ID="beIN Sports 7 HD ARB" tvg-name="AR: BEIN 7 FHD" tvg-logo="http://iptvreseller.xyz:1234/Anh/BEINHD.png" group-title="ARABIC",AR: BEIN 7 FHD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/8992
+#EXTINF:-1 tvg-ID="beIN Sports 8 HD ARB" tvg-name="AR: BEIN 8 FHD" tvg-logo="http://iptvreseller.xyz:1234/Anh/BEINHD.png" group-title="ARABIC",AR: BEIN 8 FHD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/8991
+
+#EXTINF:-1 tvg-ID="" tvg-name="=======>   India   <=======" tvg-logo="" group-title="",=======>   India   <=======
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/7493
+#EXTINF:-1 tvg-ID="NDTV India" tvg-name="IN: NDTV INDIA" tvg-logo="http://iptvreseller.xyz:1234/Anh/andtv.png" group-title="India",IN: NDTV INDIA
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/884
+#EXTINF:-1 tvg-ID="INDIA TODAY" tvg-name="IN: India Today" tvg-logo="http://iptvreseller.xyz:1234/Anh/IndiaToday.png" group-title="India",IN: India Today
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/1074
+#EXTINF:-1 tvg-ID="&tv HD" tvg-name="VIP IN: &tv HD india" tvg-logo="http://iptvreseller.xyz:1234/Anh/andtv.png" group-title="India",VIP IN: &tv HD india
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/6215
+#EXTINF:-1 tvg-ID="Sun TV HD" tvg-name="IN : Tamil | SUN TV INDIA" tvg-logo="http://iptvreseller.xyz:1234/Anh/SUNTV.png" group-title="India",IN : Tamil | SUN TV INDIA
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/3260
+#EXTINF:-1 tvg-ID="Music India" tvg-name="IN: MUSIC INDIA HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/MUSICINDIAHD.png" group-title="India",IN: MUSIC INDIA HD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/316
+#EXTINF:-1 tvg-ID="MTV" tvg-name="IN: MTV India" tvg-logo="http://iptvreseller.xyz:1234/Anh/mtv.png" group-title="India",IN: MTV India
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/8049
+#EXTINF:-1 tvg-ID="Zee TV HD" tvg-name="IN: Zee tv Uk" tvg-logo="http://iptvreseller.xyz:1234/Anh/zeetv.png" group-title="India",IN: Zee tv Uk
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/871
+#EXTINF:-1 tvg-ID="Zee News" tvg-name="IN: Zee news(1)" tvg-logo="http://iptvreseller.xyz:1234/Anh/zeenews.png" group-title="India",IN: Zee news(1)
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/872
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Zee Living" tvg-logo="http://iptvreseller.xyz:1234/Anh/zeeLiving.png" group-title="India",IN: Zee Living
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/874
+#EXTINF:-1 tvg-ID="NDTV 24x7" tvg-name="IN: NDTV 24X7" tvg-logo="http://iptvreseller.xyz:1234/Anh/NDTV24X7.png" group-title="India",IN: NDTV 24X7
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/885
+#EXTINF:-1 tvg-ID="Zing" tvg-name="IN: Zing TV" tvg-logo="http://iptvreseller.xyz:1234/Anh/zing.png" group-title="India",IN: Zing TV
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/1050
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Zindagi" tvg-logo="http://iptvreseller.xyz:1234/Anh/Zindagi.png" group-title="India",IN: Zindagi
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/1051
+#EXTINF:-1 tvg-ID="Zee TV" tvg-name="IN: ZEE TV ME" tvg-logo="http://iptvreseller.xyz:1234/Anh/zeetv.png" group-title="India",IN: ZEE TV ME
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/1053
+#EXTINF:-1 tvg-ID="Zee 24 Taas" tvg-name="IN: Zee Taas24" tvg-logo="http://iptvreseller.xyz:1234/Anh/zeeTaas24.png" group-title="India",IN: Zee Taas24
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/878
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Zee Smile" tvg-logo="http://iptvreseller.xyz:1234/Anh/zeeSmile.png" group-title="India",IN: Zee Smile
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/876
+#EXTINF:-1 tvg-ID="Zee Salaam" tvg-name="IN: Zee Salam" tvg-logo="http://iptvreseller.xyz:1234/Anh/zeeSalam.png" group-title="India",IN: Zee Salam
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/877
+#EXTINF:-1 tvg-ID="Zee Classic" tvg-name="IN: Zee Classic" tvg-logo="" group-title="India",IN: Zee Classic
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/881
+#EXTINF:-1 tvg-ID="Zee Cinema" tvg-name="IN: ZEE Cinema" tvg-logo="http://iptvreseller.xyz:1234/Anh/zeecinema.png" group-title="India",IN: ZEE Cinema
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/1055
+#EXTINF:-1 tvg-ID="" tvg-name="IN: ZEE Business" tvg-logo="http://iptvreseller.xyz:1234/Anh/zeeBusiness.png" group-title="India",IN: ZEE Business
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/1056
+#EXTINF:-1 tvg-ID="" tvg-name="IN: ZEE Bollywood HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/zeeBollywoodHD.png" group-title="India",IN: ZEE Bollywood HD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/1057
+#EXTINF:-1 tvg-ID="" tvg-name="IN: TEN Golf HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/TENGolfHD.png" group-title="India",IN: TEN Golf HD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/889
+#EXTINF:-1 tvg-ID="" tvg-name="IN: TEN CRICKET" tvg-logo="http://iptvreseller.xyz:1234/Anh/TENCRICKET.png" group-title="India",IN: TEN CRICKET
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/888
+#EXTINF:-1 tvg-ID="" tvg-name="IN: TEN 1 HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/TEN1HD.png" group-title="India",IN: TEN 1 HD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/887
+#EXTINF:-1 tvg-ID="SONY SIX HD" tvg-name="IN: VIP Sony six HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/sonysixHD.png" group-title="India",IN: VIP Sony six HD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/5630
+#EXTINF:-1 tvg-ID="STAR GOLD HD" tvg-name="IN:VIP STAR GOLD HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/stargold.png" group-title="India",IN:VIP STAR GOLD HD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/5637
+#EXTINF:-1 tvg-ID="STAR Movies" tvg-name="IN:VIP Star movies" tvg-logo="http://iptvreseller.xyz:1234/Anh/starmovies_in.png" group-title="India",IN:VIP Star movies
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/5641
+#EXTINF:-1 tvg-ID="STAR Movies HD" tvg-name="IN:VIP STAR MOVIES HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/starmovies_in.png" group-title="India",IN:VIP STAR MOVIES HD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/5640
+#EXTINF:-1 tvg-ID="" tvg-name="IN: SONY TEN 1 HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/SONYTEN.png" group-title="India",IN: SONY TEN 1 HD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29548
+#EXTINF:-1 tvg-ID="" tvg-name="IN: SONY TEN 2 HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/SONYTEN.png" group-title="India",IN: SONY TEN 2 HD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29547
+#EXTINF:-1 tvg-ID="" tvg-name="IN: TEN 3 HD" tvg-logo="" group-title="India",IN: TEN 3 HD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29546
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="=======>   Thai-Lan   <=======" tvg-logo="" group-title="",=======>   Thai-Lan   <=======
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/7478
+#EXTINF:-1 tvg-ID="" tvg-name="TH: ThaiPBS (HD)" tvg-logo="http://iptvreseller.xyz:1234/Anh/pbs.png" group-title="Thailand",TH: ThaiPBS (HD)
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/2403
+#EXTINF:-1 tvg-ID="" tvg-name="TH: Fox Thai" tvg-logo="http://iptvreseller.xyz:1234/Anh/fox.png" group-title="Thailand",TH: Fox Thai
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/2416
+#EXTINF:-1 tvg-ID="" tvg-name="THAI: BEIN Sports 1" tvg-logo="http://iptvreseller.xyz:1234/Anh/beinsports1.png" group-title="Thailand",THAI: BEIN Sports 1
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/8247
+#EXTINF:-1 tvg-ID="" tvg-name="TH: T SPORTS 1 HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/sporttv1_pt.png" group-title="Thailand",TH: T SPORTS 1 HD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/8260
+#EXTINF:-1 tvg-ID="" tvg-name="TH: T SPORTS 2 HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/sporttv2_pt.png" group-title="Thailand",TH: T SPORTS 2 HD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/8259
+#EXTINF:-1 tvg-ID="" tvg-name="TH: T SPORTS 2 SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/sporttv2_pt.png" group-title="Thailand",TH: T SPORTS 2 SD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/8258
+#EXTINF:-1 tvg-ID="" tvg-name="TH: T SPORTS 3 HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/sporttv3_pt.png" group-title="Thailand",TH: T SPORTS 3 HD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/8257
+#EXTINF:-1 tvg-ID="" tvg-name="TH: T SPORTS 7 SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/TSPORTS7.png" group-title="Thailand",TH: T SPORTS 7 SD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/8256
+#EXTINF:-1 tvg-ID="" tvg-name="THAI: TRUEVISION TENNIS HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/TRUEVISIONTENNISHD.png" group-title="Thailand",THAI: TRUEVISION TENNIS HD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/8611
+#EXTINF:-1 tvg-ID="" tvg-name="TH: Thairath TV HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/ThairathTVHD.png" group-title="Thailand",TH: Thairath TV HD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/2233
+#EXTINF:-1 tvg-ID="" tvg-name="TH: Thairath TV (HD)" tvg-logo="http://iptvreseller.xyz:1234/Anh/ThairathTVHD.png" group-title="Thailand",TH: Thairath TV (HD)
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/2404
+#EXTINF:-1 tvg-ID="" tvg-name="TH: PPTV (HD)" tvg-logo="http://iptvreseller.xyz:1234/Anh/PPTV.png" group-title="Thailand",TH: PPTV (HD)
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/2402
+#EXTINF:-1 tvg-ID="" tvg-name="TH: WorkPoint TV (HD)" tvg-logo="http://iptvreseller.xyz:1234/Anh/WorkPointTV.png" group-title="Thailand",TH: WorkPoint TV (HD)
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/2406
+#EXTINF:-1 tvg-ID="" tvg-name="TH: T News" tvg-logo="http://iptvreseller.xyz:1234/Anh/tnews.png" group-title="Thailand",TH: T News
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/2411
+#EXTINF:-1 tvg-ID="" tvg-name="TH: Speed Channel" tvg-logo="http://iptvreseller.xyz:1234/Anh/SpeedChannel.png" group-title="Thailand",TH: Speed Channel
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/2414
+#EXTINF:-1 tvg-ID="" tvg-name="TH: SMM TV" tvg-logo="http://iptvreseller.xyz:1234/Anh/SMMTV.png" group-title="Thailand",TH: SMM TV
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/2413
+#EXTINF:-1 tvg-ID="" tvg-name="TH: PBS HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/pbs.png" group-title="Thailand",TH: PBS HD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/2232
+#EXTINF:-1 tvg-ID="" tvg-name="TH: Parliament TV" tvg-logo="http://iptvreseller.xyz:1234/Anh/ParliamentTV.png" group-title="Thailand",TH: Parliament TV
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/2410
+#EXTINF:-1 tvg-ID="" tvg-name="TH: Parliament" tvg-logo="http://iptvreseller.xyz:1234/Anh/ParliamentTV.png" group-title="Thailand",TH: Parliament
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/2231
+#EXTINF:-1 tvg-ID="" tvg-name="TH: One (HD)" tvg-logo="http://iptvreseller.xyz:1234/Anh/onehd.png" group-title="Thailand",TH: One (HD)
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/2401
+#EXTINF:-1 tvg-ID="" tvg-name="TH: Now26 (HD)" tvg-logo="http://iptvreseller.xyz:1234/Anh/Now26.png" group-title="Thailand",TH: Now26 (HD)
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/2407
+#EXTINF:-1 tvg-ID="" tvg-name="TH: News1 (HD)" tvg-logo="http://iptvreseller.xyz:1234/Anh/News.png" group-title="Thailand",TH: News1 (HD)
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/2405
+#EXTINF:-1 tvg-ID="" tvg-name="TH: NewTV" tvg-logo="http://iptvreseller.xyz:1234/Anh/News.png" group-title="Thailand",TH: NewTV
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/2409
+#EXTINF:-1 tvg-ID="" tvg-name="TH: Nation (HD)" tvg-logo="http://iptvreseller.xyz:1234/Anh/Nation.png" group-title="Thailand",TH: Nation (HD)
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/2400
+#EXTINF:-1 tvg-ID="" tvg-name="TH: Muslim TV" tvg-logo="http://iptvreseller.xyz:1234/Anh/MuslimTV.png" group-title="Thailand",TH: Muslim TV
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/2230
+#EXTINF:-1 tvg-ID="" tvg-name="TH: Mono Plus" tvg-logo="http://iptvreseller.xyz:1234/Anh/MonoPlus.png" group-title="Thailand",TH: Mono Plus
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/2415
+#EXTINF:-1 tvg-ID="" tvg-name="TH: MCOT Kids & Family" tvg-logo="http://iptvreseller.xyz:1234/Anh/MCOTkidsandfamily.png" group-title="Thailand",TH: MCOT Kids & Family
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/2418
+#EXTINF:-1 tvg-ID="" tvg-name="TH : Ja Ting Ja" tvg-logo="http://iptvreseller.xyz:1234/Anh/JaTingJa.png" group-title="Thailand",TH : Ja Ting Ja
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/2417
+#EXTINF:-1 tvg-ID="" tvg-name="TH: DARA DAILY TV" tvg-logo="http://iptvreseller.xyz:1234/Anh/DARADAILYTV.png" group-title="Thailand",TH: DARA DAILY TV
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/2238
+#EXTINF:-1 tvg-ID="" tvg-name="TH: Chaiyo" tvg-logo="http://iptvreseller.xyz:1234/Anh/Chaiyo.png" group-title="Thailand",TH: Chaiyo
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/2228
+#EXTINF:-1 tvg-ID="" tvg-name="TH: Bright TV" tvg-logo="http://iptvreseller.xyz:1234/Anh/BrightTV.png" group-title="Thailand",TH: Bright TV
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/2408
+#EXTINF:-1 tvg-ID="" tvg-name="TH: 9 (HD)" tvg-logo="" group-title="Thailand",TH: 9 (HD)
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/2398
+#EXTINF:-1 tvg-ID="" tvg-name="TH: 8 (HD)" tvg-logo="http://iptvreseller.xyz:1234/Anh/tv8-cricroclot.png" group-title="Thailand",TH: 8 (HD)
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/2399
+#EXTINF:-1 tvg-ID="" tvg-name="TH: 7 (HD)" tvg-logo="http://iptvreseller.xyz:1234/Anh/rtv7.png" group-title="Thailand",TH: 7 (HD)
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/2397
+#EXTINF:-1 tvg-ID="" tvg-name="TH: 5 (HD)" tvg-logo="http://iptvreseller.xyz:1234/Anh/channel5.png" group-title="Thailand",TH: 5 (HD)
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/2396
+#EXTINF:-1 tvg-ID="" tvg-name="TH: 3 (HD)" tvg-logo="http://iptvreseller.xyz:1234/Anh/tv3-pephawrego.png" group-title="Thailand",TH: 3 (HD)
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/2395
+#EXTINF:-1 tvg-ID="" tvg-name="TH: 24TV" tvg-logo="http://iptvreseller.xyz:1234/Anh/tvi24_pt.png" group-title="Thailand",TH: 24TV
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/2412
+#EXTINF:-1 tvg-ID="" tvg-name="TH: AMC NETWORK" tvg-logo="http://iptvreseller.xyz:1234/Anh/amc.png" group-title="Thailand",TH: AMC NETWORK
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/9414
+#EXTINF:-1 tvg-ID="" tvg-name="TH: ANIMAL PLANET" tvg-logo="http://iptvreseller.xyz:1234/Anh/animalplanet.png" group-title="Thailand",TH: ANIMAL PLANET
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/9419
+#EXTINF:-1 tvg-ID="" tvg-name="TH: ASIAN Series HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/ASIANSeriesHD.png" group-title="Thailand",TH: ASIAN Series HD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/9426
+#EXTINF:-1 tvg-ID="" tvg-name="TH: AXN HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/axnhd.png" group-title="Thailand",TH: AXN HD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/9435
+#EXTINF:-1 tvg-ID="" tvg-name="TH: BLOOMBERG" tvg-logo="http://iptvreseller.xyz:1234/Anh/bloomberg.png" group-title="Thailand",TH: BLOOMBERG
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/9406
+#EXTINF:-1 tvg-ID="" tvg-name="TH: CARTOON NETWORK" tvg-logo="http://iptvreseller.xyz:1234/Anh/cartoonnetwork.png" group-title="Thailand",TH: CARTOON NETWORK
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/9405
+#EXTINF:-1 tvg-ID="" tvg-name="TH: CCTV NEWS" tvg-logo="http://iptvreseller.xyz:1234/Anh/cctvnews.png" group-title="Thailand",TH: CCTV NEWS
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/9404
+#EXTINF:-1 tvg-ID="" tvg-name="TH: CHANNEL NEWS ASIA" tvg-logo="http://iptvreseller.xyz:1234/Anh/CHANNELNEWSASIA.png" group-title="Thailand",TH: CHANNEL NEWS ASIA
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/9403
+#EXTINF:-1 tvg-ID="" tvg-name="TH: CI HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/cinemaxhd.png" group-title="Thailand",TH: CI HD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/9432
+#EXTINF:-1 tvg-ID="" tvg-name="TH: CINEMAX SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/cinemax.png" group-title="Thailand",TH: CINEMAX SD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/9433
+#EXTINF:-1 tvg-ID="" tvg-name="TH: CNBC SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/cnbc.png" group-title="Thailand",TH: CNBC SD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/9402
+#EXTINF:-1 tvg-ID="" tvg-name="TH: DEUTSCHE WELLE SD TH" tvg-logo="http://iptvreseller.xyz:1234/Anh/deutschewelle.png" group-title="Thailand",TH: DEUTSCHE WELLE SD TH
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/9401
+#EXTINF:-1 tvg-ID="" tvg-name="TH: DISCOVERY ASIA HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/discoveryhd.png" group-title="Thailand",TH: DISCOVERY ASIA HD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/9420
+#EXTINF:-1 tvg-ID="" tvg-name="TH: DISCOVERY KIDS SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/discoverykidsllam.png" group-title="Thailand",TH: DISCOVERY KIDS SD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/9390
+#EXTINF:-1 tvg-ID="" tvg-name="TH: DISCOVERY SCIENCE SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/discoveryscience.png" group-title="Thailand",TH: DISCOVERY SCIENCE SD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/9389
+#EXTINF:-1 tvg-ID="" tvg-name="TH: DISCOVERY SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/discovery.png" group-title="Thailand",TH: DISCOVERY SD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/9421
+#EXTINF:-1 tvg-ID="" tvg-name="TH: DISNEY JUNIOR SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/disneyjunior.png" group-title="Thailand",TH: DISNEY JUNIOR SD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/9388
+#EXTINF:-1 tvg-ID="" tvg-name="TH: DISNEY XD" tvg-logo="http://iptvreseller.xyz:1234/Anh/disneyxd.png" group-title="Thailand",TH: DISNEY XD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/9387
+#EXTINF:-1 tvg-ID="" tvg-name="TH: DIVA SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/divaexyu.png" group-title="Thailand",TH: DIVA SD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/9423
+#EXTINF:-1 tvg-ID="" tvg-name="TH: DMAX SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/dmax.png" group-title="Thailand",TH: DMAX SD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/9410
+#EXTINF:-1 tvg-ID="" tvg-name="TH: EDGE HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/edge.png" group-title="Thailand",TH: EDGE HD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/9431
+#EXTINF:-1 tvg-ID="" tvg-name="TH: ENTERTAINMENT SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/eentertainment.png" group-title="Thailand",TH: ENTERTAINMENT SD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/9386
+#EXTINF:-1 tvg-ID="" tvg-name="TH: ESPN" tvg-logo="http://iptvreseller.xyz:1234/Anh/espn.png" group-title="Thailand",TH: ESPN
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/9385
+#EXTINF:-1 tvg-ID="" tvg-name="TH: EUROSPORT" tvg-logo="http://iptvreseller.xyz:1234/Anh/eurosport.png" group-title="Thailand",TH: EUROSPORT
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/9383
+#EXTINF:-1 tvg-ID="" tvg-name="TH: EUROSPORT NEWS SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/eurosportnews.png" group-title="Thailand",TH: EUROSPORT NEWS SD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/9382
+#EXTINF:-1 tvg-ID="" tvg-name="TH: EVE SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/eve.png" group-title="Thailand",TH: EVE SD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/9424
+#EXTINF:-1 tvg-ID="" tvg-name="TH: EXP LIFE SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/EXPLIFESD.png" group-title="Thailand",TH: EXP LIFE SD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/9393
+#EXTINF:-1 tvg-ID="" tvg-name="TH: EXPLORE SCIENCE SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/EXPLORESCIENCESD.png" group-title="Thailand",TH: EXPLORE SCIENCE SD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/9392
+#EXTINF:-1 tvg-ID="" tvg-name="TH: EXPLORE WILD SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/EXPLOREWILDSD.png" group-title="Thailand",TH: EXPLORE WILD SD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/9391
+#EXTINF:-1 tvg-ID="" tvg-name="TH: Fox Action" tvg-logo="http://iptvreseller.xyz:1234/Anh/fox.png" group-title="Thailand",TH: Fox Action
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/9428
+#EXTINF:-1 tvg-ID="" tvg-name="TH: FOX NEWS SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/foxnews.png" group-title="Thailand",TH: FOX NEWS SD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/9380
+#EXTINF:-1 tvg-ID="" tvg-name="TH: FOX Premium HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/fox.png" group-title="Thailand",TH: FOX Premium HD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/9430
+#EXTINF:-1 tvg-ID="" tvg-name="TH: FOX SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/fox.png" group-title="Thailand",TH: FOX SD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/9427
+#EXTINF:-1 tvg-ID="" tvg-name="TH: FOX SPORTS 1 HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/foxsports1hd.png" group-title="Thailand",TH: FOX SPORTS 1 HD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/9379
+#EXTINF:-1 tvg-ID="" tvg-name="TH: FOX SPORTS 2 HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/foxsports2hd.png" group-title="Thailand",TH: FOX SPORTS 2 HD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/9378
+#EXTINF:-1 tvg-ID="" tvg-name="TH: FOX SPORTS 3 HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/foxsports3.png" group-title="Thailand",TH: FOX SPORTS 3 HD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/9377
+#EXTINF:-1 tvg-ID="" tvg-name="TH: Fox Sports HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/foxsportshd.png" group-title="Thailand",TH: Fox Sports HD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/9381
+#EXTINF:-1 tvg-ID="" tvg-name="TH: FRANCE24 SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/france24.png" group-title="Thailand",TH: FRANCE24 SD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/9400
+#EXTINF:-1 tvg-ID="" tvg-name="TH: FYI HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/fyi.png" group-title="Thailand",TH: FYI HD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/9411
+#EXTINF:-1 tvg-ID="" tvg-name="TH: HBO Asia HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/hbo.png" group-title="Thailand",TH: HBO Asia HD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/9434
+#EXTINF:-1 tvg-ID="" tvg-name="TH: HISTORY" tvg-logo="http://iptvreseller.xyz:1234/Anh/history.png" group-title="Thailand",TH: HISTORY
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/9408
+#EXTINF:-1 tvg-ID="" tvg-name="TH: HISTORY HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/historyhd.png" group-title="Thailand",TH: HISTORY HD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/9409
+#EXTINF:-1 tvg-ID="" tvg-name="TH: HLN SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/hln.png" group-title="Thailand",TH: HLN SD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/9399
+#EXTINF:-1 tvg-ID="" tvg-name="TH: INSIDE SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/INSIDESD.png" group-title="Thailand",TH: INSIDE SD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/9398
+#EXTINF:-1 tvg-ID="" tvg-name="TH: KBS WORLD" tvg-logo="http://iptvreseller.xyz:1234/Anh/KBSWORLD.png" group-title="Thailand",TH: KBS WORLD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/9418
+#EXTINF:-1 tvg-ID="" tvg-name="TH: MOVIE HITS SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/MOVIEHITSSD.png" group-title="Thailand",TH: MOVIE HITS SD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/9429
+#EXTINF:-1 tvg-ID="" tvg-name="TH: NAT GEO" tvg-logo="http://iptvreseller.xyz:1234/Anh/natgeo.png" group-title="Thailand",TH: NAT GEO
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/9407
+#EXTINF:-1 tvg-ID="" tvg-name="TH: NAT GEO HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/natgeohd.png" group-title="Thailand",TH: NAT GEO HD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/9397
+#EXTINF:-1 tvg-ID="" tvg-name="TH: NAT GEO PEOPLE HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/natgeopeople.png" group-title="Thailand",TH: NAT GEO PEOPLE HD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/9396
+#EXTINF:-1 tvg-ID="" tvg-name="TH: BEIN SPORTS TH 1 HD TRUE VISION" tvg-logo="http://iptvreseller.xyz:1234/Anh/beinsportshd1_mena.png" group-title="Thailand",TH: BEIN SPORTS TH 1 HD TRUE VISION
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/8243
+#EXTINF:-1 tvg-ID="" tvg-name="TH: BEIN SPORTS TH 2 HD TRUE VISION" tvg-logo="http://iptvreseller.xyz:1234/Anh/beinsportshd2_mena.png" group-title="Thailand",TH: BEIN SPORTS TH 2 HD TRUE VISION
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/8242
+#EXTINF:-1 tvg-ID="" tvg-name="TH: BEIN SPORTS TH 2 TRUE VISION" tvg-logo="http://iptvreseller.xyz:1234/Anh/beinsportshd2_mena.png" group-title="Thailand",TH: BEIN SPORTS TH 2 TRUE VISION
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/8246
+#EXTINF:-1 tvg-ID="" tvg-name="TH: BEIN SPORTS TH 3 HD TRUE VISON" tvg-logo="http://iptvreseller.xyz:1234/Anh/beinsportshd3_mena.png" group-title="Thailand",TH: BEIN SPORTS TH 3 HD TRUE VISON
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/8241
+#EXTINF:-1 tvg-ID="" tvg-name="TH: BEIN SPORTS TH 3 TRUE VISION" tvg-logo="http://iptvreseller.xyz:1234/Anh/beinsports3.png" group-title="Thailand",TH: BEIN SPORTS TH 3 TRUE VISION
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/8245
+#EXTINF:-1 tvg-ID="" tvg-name="TH: BEIN SPORTS TH 4 HD TRUE VISION" tvg-logo="http://iptvreseller.xyz:1234/Anh/beinsportshd4_mena.png" group-title="Thailand",TH: BEIN SPORTS TH 4 HD TRUE VISION
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/8240
+#EXTINF:-1 tvg-ID="" tvg-name="TH: BEIN SPORTS TH 4 TRUE VISION" tvg-logo="http://iptvreseller.xyz:1234/Anh/beinsportshd4_mena.png" group-title="Thailand",TH: BEIN SPORTS TH 4 TRUE VISION
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/8244
+#EXTINF:-1 tvg-ID="" tvg-name="TH: NAT GEO WILD HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/natgeowildhd.png" group-title="Thailand",TH: NAT GEO WILD HD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/9395
+#EXTINF:-1 tvg-ID="" tvg-name="TH: NICKELODEON SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/nickelodeon.png" group-title="Thailand",TH: NICKELODEON SD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/9394
+#EXTINF:-1 tvg-ID="" tvg-name="TH: PARAMOUNT" tvg-logo="http://iptvreseller.xyz:1234/Anh/paramountchannel.png" group-title="Thailand",TH: PARAMOUNT
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/9416
+#EXTINF:-1 tvg-ID="" tvg-name="TH: Sky Net Sport HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/SkyNetSportHD.png" group-title="Thailand",TH: Sky Net Sport HD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/17868
+#EXTINF:-1 tvg-ID="" tvg-name="TH: RTL CBS Entertainment" tvg-logo="http://iptvreseller.xyz:1234/Anh/RTLCBSentertainment.png" group-title="Thailand",TH: RTL CBS Entertainment
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/9415
+#EXTINF:-1 tvg-ID="" tvg-name="TH: SERIES SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/tvseries.png" group-title="Thailand",TH: SERIES SD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/9425
+#EXTINF:-1 tvg-ID="" tvg-name="TH: SETANA HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/SETANAHD.png" group-title="Thailand",TH: SETANA HD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/9384
+#EXTINF:-1 tvg-ID="" tvg-name="TH: SONY ASIA HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/sonytv.png" group-title="Thailand",TH: SONY ASIA HD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/9413
+#EXTINF:-1 tvg-ID="" tvg-name="TH: STAR WORLD HD" tvg-logo="" group-title="Thailand",TH: STAR WORLD HD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/9422
+#EXTINF:-1 tvg-ID="" tvg-name="TH: WARNER TV" tvg-logo="http://iptvreseller.xyz:1234/Anh/WARNERTV.png" group-title="Thailand",TH: WARNER TV
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/9412
+#EXTINF:-1 tvg-ID="" tvg-name="TH: LIFE INSPIRED" tvg-logo="http://iptvreseller.xyz:1234/Anh/LIFEINSPIRED.png" group-title="Thailand",TH: LIFE INSPIRED
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/9417
+#EXTINF:-1 tvg-ID="" tvg-name="TH: Channel 3 SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/channel3.png" group-title="Thailand",TH: Channel 3 SD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29422
+#EXTINF:-1 tvg-ID="" tvg-name="TH: Channel 5" tvg-logo="http://iptvreseller.xyz:1234/Anh/channel5.png" group-title="Thailand",TH: Channel 5
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29419
+#EXTINF:-1 tvg-ID="" tvg-name="TH: Channel 5 HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/channel5.png" group-title="Thailand",TH: Channel 5 HD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29418
+#EXTINF:-1 tvg-ID="" tvg-name="TH: Channel 7 HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/rtv7.png" group-title="Thailand",TH: Channel 7 HD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29417
+#EXTINF:-1 tvg-ID="" tvg-name="TH: Channel 8" tvg-logo="http://iptvreseller.xyz:1234/Anh/tv8-cricroclot.png" group-title="Thailand",TH: Channel 8
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29414
+#EXTINF:-1 tvg-ID="" tvg-name="TH: Channel 8 SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/tv8-cricroclot.png" group-title="Thailand",TH: Channel 8 SD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29415
+#EXTINF:-1 tvg-ID="" tvg-name="TH: Channel 8 TCC" tvg-logo="http://iptvreseller.xyz:1234/Anh/tv8-cricroclot.png" group-title="Thailand",TH: Channel 8 TCC
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29413
+#EXTINF:-1 tvg-ID="" tvg-name="TH: Channel 8 WONG" tvg-logo="http://iptvreseller.xyz:1234/Anh/tv8-cricroclot.png" group-title="Thailand",TH: Channel 8 WONG
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29416
+#EXTINF:-1 tvg-ID="" tvg-name="TH: Cinemax no Broadcasting anymore (soon Skynet Terminator Ch)" tvg-logo="http://iptvreseller.xyz:1234/Anh/cinemax.png" group-title="Thailand",TH: Cinemax no Broadcasting anymore (soon Skynet Terminator Ch)
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29396
+#EXTINF:-1 tvg-ID="" tvg-name="TH: CNN Philippines" tvg-logo="http://iptvreseller.xyz:1234/Anh/cnn.png" group-title="Thailand",TH: CNN Philippines
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29359
+#EXTINF:-1 tvg-ID="" tvg-name="TH: CTB" tvg-logo="http://iptvreseller.xyz:1234/Anh/CTB.png" group-title="Thailand",TH: CTB
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29365
+#EXTINF:-1 tvg-ID="" tvg-name="TH: Discovery Asia TH" tvg-logo="http://iptvreseller.xyz:1234/Anh/discovery.png" group-title="Thailand",TH: Discovery Asia TH
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29379
+#EXTINF:-1 tvg-ID="" tvg-name="TH: Discovery Science TH" tvg-logo="http://iptvreseller.xyz:1234/Anh/discoveryscience.png" group-title="Thailand",TH: Discovery Science TH
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29350
+#EXTINF:-1 tvg-ID="" tvg-name="TH: DIVA Eng TH" tvg-logo="http://iptvreseller.xyz:1234/Anh/divaexyu.png" group-title="Thailand",TH: DIVA Eng TH
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29361
+#EXTINF:-1 tvg-ID="" tvg-name="TH: DIVA SD/LAO MV" tvg-logo="http://iptvreseller.xyz:1234/Anh/divaexyu.png" group-title="Thailand",TH: DIVA SD/LAO MV
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29386
+#EXTINF:-1 tvg-ID="" tvg-name="TH: E! Entertainment TH" tvg-logo="http://iptvreseller.xyz:1234/Anh/eentertainment.png" group-title="Thailand",TH: E! Entertainment TH
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29387
+#EXTINF:-1 tvg-ID="" tvg-name="TH: EUROSPORT UK" tvg-logo="http://iptvreseller.xyz:1234/Anh/eurosport.png" group-title="Thailand",TH: EUROSPORT UK
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29376
+#EXTINF:-1 tvg-ID="" tvg-name="TH: Fight Sports TH" tvg-logo="http://iptvreseller.xyz:1234/Anh/FightSports.png" group-title="Thailand",TH: Fight Sports TH
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29384
+#EXTINF:-1 tvg-ID="" tvg-name="TH: Fox Action Movies (THAI)" tvg-logo="http://iptvreseller.xyz:1234/Anh/foxactionmoviesarb.png" group-title="Thailand",TH: Fox Action Movies (THAI)
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29391
+#EXTINF:-1 tvg-ID="" tvg-name="TH: Fox TH" tvg-logo="http://iptvreseller.xyz:1234/Anh/fox.png" group-title="Thailand",TH: Fox TH
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29357
+#EXTINF:-1 tvg-ID="" tvg-name="TH: Fox Thai (TH-Eng)" tvg-logo="http://iptvreseller.xyz:1234/Anh/fox.png" group-title="Thailand",TH: Fox Thai (TH-Eng)
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29397
+#EXTINF:-1 tvg-ID="" tvg-name="TH: FOXlife TH" tvg-logo="http://iptvreseller.xyz:1234/Anh/foxlife.png" group-title="Thailand",TH: FOXlife TH
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29388
+#EXTINF:-1 tvg-ID="" tvg-name="TH: GMM Channel SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/GMMChannelSD.png" group-title="Thailand",TH: GMM Channel SD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29410
+#EXTINF:-1 tvg-ID="" tvg-name="TH: GMM ONE HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/GMMONEHD.png" group-title="Thailand",TH: GMM ONE HD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29411
+#EXTINF:-1 tvg-ID="" tvg-name="TH: HBO" tvg-logo="http://iptvreseller.xyz:1234/Anh/hbo.png" group-title="Thailand",TH: HBO
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29392
+#EXTINF:-1 tvg-ID="" tvg-name="TH: HBO (TH)" tvg-logo="http://iptvreseller.xyz:1234/Anh/hbo.png" group-title="Thailand",TH: HBO (TH)
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29398
+#EXTINF:-1 tvg-ID="" tvg-name="TH: History HD MY" tvg-logo="http://iptvreseller.xyz:1234/Anh/historyhd.png" group-title="Thailand",TH: History HD MY
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29363
+#EXTINF:-1 tvg-ID="" tvg-name="TH: INSIDE TH" tvg-logo="http://iptvreseller.xyz:1234/Anh/INSIDEth.png" group-title="Thailand",TH: INSIDE TH
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29395
+#EXTINF:-1 tvg-ID="" tvg-name="TH: KBS" tvg-logo="http://iptvreseller.xyz:1234/Anh/KBS.png" group-title="Thailand",TH: KBS
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29356
+#EXTINF:-1 tvg-ID="" tvg-name="TH: KDN Thai/Ch3" tvg-logo="" group-title="Thailand",TH: KDN Thai/Ch3
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29382
+#EXTINF:-1 tvg-ID="" tvg-name="TH: MCOT Family SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/MCOT.png" group-title="Thailand",TH: MCOT Family SD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29408
+#EXTINF:-1 tvg-ID="" tvg-name="TH: MCOT HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/MCOT.png" group-title="Thailand",TH: MCOT HD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29409
+#EXTINF:-1 tvg-ID="" tvg-name="TH: Mediacorp CH 5 (SG)" tvg-logo="http://iptvreseller.xyz:1234/Anh/MediacorpCH5.png" group-title="Thailand",TH: Mediacorp CH 5 (SG)
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29354
+#EXTINF:-1 tvg-ID="" tvg-name="TH: MONO SD" tvg-logo="" group-title="Thailand",TH: MONO SD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29405
+#EXTINF:-1 tvg-ID="" tvg-name="TH: Movie Hits" tvg-logo="http://iptvreseller.xyz:1234/Anh/MovieHits.png" group-title="Thailand",TH: Movie Hits
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29385
+#EXTINF:-1 tvg-ID="" tvg-name="TH: NAT GEO PEOPLE TH" tvg-logo="http://iptvreseller.xyz:1234/Anh/natgeopeople.png" group-title="Thailand",TH: NAT GEO PEOPLE TH
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29380
+#EXTINF:-1 tvg-ID="" tvg-name="TH: NAT GEO TH" tvg-logo="http://iptvreseller.xyz:1234/Anh/natgeo.png" group-title="Thailand",TH: NAT GEO TH
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29381
+#EXTINF:-1 tvg-ID="" tvg-name="TH: NATION SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/Nation.png" group-title="Thailand",TH: NATION SD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29404
+#EXTINF:-1 tvg-ID="" tvg-name="TH: NBA HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/nba.png" group-title="Thailand",TH: NBA HD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29353
+#EXTINF:-1 tvg-ID="" tvg-name="TH: NEW 18" tvg-logo="http://iptvreseller.xyz:1234/Anh/NEW18.png" group-title="Thailand",TH: NEW 18
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29360
+#EXTINF:-1 tvg-ID="" tvg-name="TH: NOW 26 TH" tvg-logo="http://iptvreseller.xyz:1234/Anh/NOW26.png" group-title="Thailand",TH: NOW 26 TH
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29403
+#EXTINF:-1 tvg-ID="" tvg-name="TH: PPTV HD TH" tvg-logo="http://iptvreseller.xyz:1234/Anh/PPTVHD.png" group-title="Thailand",TH: PPTV HD TH
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29383
+#EXTINF:-1 tvg-ID="" tvg-name="TH: RTL CBS TH" tvg-logo="http://iptvreseller.xyz:1234/Anh/RTLCBS.png" group-title="Thailand",TH: RTL CBS TH
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29364
+#EXTINF:-1 tvg-ID="" tvg-name="TH: SBD HI TH" tvg-logo="" group-title="Thailand",TH: SBD HI TH
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29352
+#EXTINF:-1 tvg-ID="" tvg-name="TH: SETANTA HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/SETANTAHD.png" group-title="Thailand",TH: SETANTA HD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29378
+#EXTINF:-1 tvg-ID="" tvg-name="TH: Skynet Sports HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/SkynetSports.png" group-title="Thailand",TH: Skynet Sports HD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29348
+#EXTINF:-1 tvg-ID="" tvg-name="TH: Skynet World Drama/China CH" tvg-logo="" group-title="Thailand",TH: Skynet World Drama/China CH
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29347
+#EXTINF:-1 tvg-ID="" tvg-name="TH: SKYNETSPORT 1 SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/SkynetSports.png" group-title="Thailand",TH: SKYNETSPORT 1 SD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29375
+#EXTINF:-1 tvg-ID="" tvg-name="TH: SKYNETSPORT 2 SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/SkynetSports.png" group-title="Thailand",TH: SKYNETSPORT 2 SD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29374
+#EXTINF:-1 tvg-ID="" tvg-name="TH: SKYNETSPORT 3 SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/SkynetSports.png" group-title="Thailand",TH: SKYNETSPORT 3 SD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29373
+#EXTINF:-1 tvg-ID="" tvg-name="TH: SKYNETSPORT 4 SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/SkynetSports.png" group-title="Thailand",TH: SKYNETSPORT 4 SD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29372
+#EXTINF:-1 tvg-ID="" tvg-name="TH: SKYNETSPORT 5 SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/SkynetSports.png" group-title="Thailand",TH: SKYNETSPORT 5 SD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29371
+#EXTINF:-1 tvg-ID="" tvg-name="TH: SKYNETSPORT 6 SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/SkynetSports.png" group-title="Thailand",TH: SKYNETSPORT 6 SD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29370
+#EXTINF:-1 tvg-ID="" tvg-name="TH: Sony TH" tvg-logo="http://iptvreseller.xyz:1234/Anh/sonytv.png" group-title="Thailand",TH: Sony TH
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29377
+#EXTINF:-1 tvg-ID="" tvg-name="TH: SPORTS ILLUSTRATED HD" tvg-logo="" group-title="Thailand",TH: SPORTS ILLUSTRATED HD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29369
+#EXTINF:-1 tvg-ID="" tvg-name="TH: Super-Hero Channel" tvg-logo="http://iptvreseller.xyz:1234/Anh/SuperHeroChannel.png" group-title="Thailand",TH: Super-Hero Channel
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29346
+#EXTINF:-1 tvg-ID="" tvg-name="TH: TBPS HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/TBPSHD.png" group-title="Thailand",TH: TBPS HD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29345
+#EXTINF:-1 tvg-ID="" tvg-name="TH: THAI THAI" tvg-logo="" group-title="Thailand",TH: THAI THAI
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29412
+#EXTINF:-1 tvg-ID="" tvg-name="TH: THAIRATH HD" tvg-logo="" group-title="Thailand",TH: THAIRATH HD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29407
+#EXTINF:-1 tvg-ID="" tvg-name="TH: THAIRATH HD TH" tvg-logo="" group-title="Thailand",TH: THAIRATH HD TH
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29344
+#EXTINF:-1 tvg-ID="" tvg-name="TH: TNN-24/TH" tvg-logo="http://iptvreseller.xyz:1234/Anh/TNN.png" group-title="Thailand",TH: TNN-24/TH
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29402
+#EXTINF:-1 tvg-ID="" tvg-name="TH: TNN2/NBT" tvg-logo="http://iptvreseller.xyz:1234/Anh/TNN.png" group-title="Thailand",TH: TNN2/NBT
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29389
+#EXTINF:-1 tvg-ID="" tvg-name="TH: TPBS HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/TPBSHD.png" group-title="Thailand",TH: TPBS HD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29401
+#EXTINF:-1 tvg-ID="" tvg-name="TH: TRUE MOVIE HITS SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/truemovies.png" group-title="Thailand",TH: TRUE MOVIE HITS SD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29390
+#EXTINF:-1 tvg-ID="" tvg-name="TH: TRUE NBA" tvg-logo="" group-title="Thailand",TH: TRUE NBA
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29368
+#EXTINF:-1 tvg-ID="" tvg-name="TH: TRUE4YOU" tvg-logo="" group-title="Thailand",TH: TRUE4YOU
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29406
+#EXTINF:-1 tvg-ID="" tvg-name="TH: Truevision Disney ENG" tvg-logo="http://iptvreseller.xyz:1234/Anh/TruevisionDisney.png" group-title="Thailand",TH: Truevision Disney ENG
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29425
+#EXTINF:-1 tvg-ID="" tvg-name="TH: Truevision Disney TH" tvg-logo="http://iptvreseller.xyz:1234/Anh/TruevisionDisney.png" group-title="Thailand",TH: Truevision Disney TH
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29426
+#EXTINF:-1 tvg-ID="" tvg-name="TH: Truevision Disney XD TH" tvg-logo="http://iptvreseller.xyz:1234/Anh/TruevisionDisney.png" group-title="Thailand",TH: Truevision Disney XD TH
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29427
+#EXTINF:-1 tvg-ID="" tvg-name="TH: Truevision Fox Action Movies" tvg-logo="" group-title="Thailand",TH: Truevision Fox Action Movies
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29351
+#EXTINF:-1 tvg-ID="" tvg-name="TH: Truevision Fox Action Movies (Eng)" tvg-logo="" group-title="Thailand",TH: Truevision Fox Action Movies (Eng)
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29355
+#EXTINF:-1 tvg-ID="" tvg-name="TH: Truevision Fox Movies Action" tvg-logo="" group-title="Thailand",TH: Truevision Fox Movies Action
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29394
+#EXTINF:-1 tvg-ID="" tvg-name="TH: Truevision Fox Movies Premium" tvg-logo="" group-title="Thailand",TH: Truevision Fox Movies Premium
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29393
+#EXTINF:-1 tvg-ID="" tvg-name="TH: Truevision Golf TH" tvg-logo="" group-title="Thailand",TH: Truevision Golf TH
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29349
+#EXTINF:-1 tvg-ID="" tvg-name="TH: TRUEVISION TENNIS HD" tvg-logo="" group-title="Thailand",TH: TRUEVISION TENNIS HD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29366
+#EXTINF:-1 tvg-ID="" tvg-name="TH: TV5 Pacific HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/tv5manila.png" group-title="Thailand",TH: TV5 Pacific HD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29362
+#EXTINF:-1 tvg-ID="" tvg-name="TH: VOICE SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/VOICE.png" group-title="Thailand",TH: VOICE SD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29400
+#EXTINF:-1 tvg-ID="" tvg-name="TH: WorkPoint SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/WorkPointSD.png" group-title="Thailand",TH: WorkPoint SD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/29399
+#EXTINF:-1 tvg-ID="SkySportsF1.uk" tvg-name="VIP UK: Sky Sports 1 HD 1080p" tvg-logo="http://iptvreseller.xyz:1234/Anh/uk/SkySports1.uk.png" group-title="United Kingdom",VIP UK: Sky Sports 1 HD 1080p
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/6623
+#EXTINF:-1 tvg-ID="Sky Sports 2 UK" tvg-name="VIP UK: Sky Sports 2 HD 1080p" tvg-logo="http://iptvreseller.xyz:1234/Anh/uk/SkySports2.uk.png" group-title="United Kingdom",VIP UK: Sky Sports 2 HD 1080p
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/6624
+#EXTINF:-1 tvg-ID="Sky Sports 3 UK" tvg-name="VIP UK: Sky Sports 3 HD 1080p" tvg-logo="http://iptvreseller.xyz:1234/Anh/uk/SkySports3.uk.png" group-title="United Kingdom",VIP UK: Sky Sports 3 HD 1080p
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/6625
+#EXTINF:-1 tvg-ID="Sky Sports 4 UK" tvg-name="VIP UK: Sky Sports 4 HD 1080p" tvg-logo="http://iptvreseller.xyz:1234/Anh/uk/SkySports4.uk.png" group-title="United Kingdom",VIP UK: Sky Sports 4 HD 1080p
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/6626
+#EXTINF:-1 tvg-ID="Sky Sports 5 UK" tvg-name="VIP UK: Sky Sports 5 HD 1080p" tvg-logo="http://iptvreseller.xyz:1234/Anh/uk/SkySports5.uk.png" group-title="United Kingdom",VIP UK: Sky Sports 5 HD 1080p
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/6627
+#EXTINF:-1 tvg-ID="skysportsf1.uk" tvg-name="VIP UK: Sky Sports F1 HD 1080p" tvg-logo="http://iptvreseller.xyz:1234/Anh/uk/SkySportsF1.uk.png" group-title="United Kingdom",VIP UK: Sky Sports F1 HD 1080p
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/6628
+#EXTINF:-1 tvg-ID="skysportsnews.uk" tvg-name="VIP UK: Sky Sports News HD 1080p" tvg-logo="http://iptvreseller.xyz:1234/Anh/uk/SkySportsNews.uk.png" group-title="United Kingdom",VIP UK: Sky Sports News HD 1080p
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/6629
+#EXTINF:-1 tvg-ID="" tvg-name="VIP: OTE Sports 1 HD" tvg-logo="" group-title="Greece",VIP: OTE Sports 1 HD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/10174
+#EXTINF:-1 tvg-ID="" tvg-name="VIP: OTE Sports 2 HD" tvg-logo="" group-title="Greece",VIP: OTE Sports 2 HD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/10173
+#EXTINF:-1 tvg-ID="" tvg-name="VIP: OTE Sports 3 HD" tvg-logo="" group-title="Greece",VIP: OTE Sports 3 HD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/10172
+#EXTINF:-1 tvg-ID="" tvg-name="VIP: OTE Sports 4 HD" tvg-logo="" group-title="Greece",VIP: OTE Sports 4 HD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/10171
+#EXTINF:-1 tvg-ID="" tvg-name="VIP: OTE Sports 5 HD" tvg-logo="" group-title="Greece",VIP: OTE Sports 5 HD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/10170
+#EXTINF:-1 tvg-ID="" tvg-name="VIP: OTE Sports 6 HD" tvg-logo="" group-title="Greece",VIP: OTE Sports 6 HD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/10169
+#EXTINF:-1 tvg-ID="" tvg-name="VIP: OTE Sports 7 HD" tvg-logo="" group-title="Greece",VIP: OTE Sports 7 HD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/10168
+#EXTINF:-1 tvg-ID="" tvg-name="VIP: OTE Sports 8 HD" tvg-logo="" group-title="Greece",VIP: OTE Sports 8 HD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/10167
+#EXTINF:-1 tvg-ID="" tvg-name="BOXING OFFICE FHD PPV" tvg-logo="" group-title="United Kingdom",BOXING OFFICE FHD PPV
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/16085
+
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="=======>   JAPAN   <=======" tvg-logo="" group-title="",=======>   JAPAN   <=======
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/13176
+#EXTINF:-1 tvg-ID="" tvg-name="Japan: WOWOW PRIME" tvg-logo="" group-title="",Japan: WOWOW PRIME
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/2856
+#EXTINF:-1 tvg-ID="" tvg-name="Japan : WOWOW LIVE" tvg-logo="" group-title="",Japan : WOWOW LIVE
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/2855
+#EXTINF:-1 tvg-ID="" tvg-name="=======>   KOREA   <=======" tvg-logo="" group-title="",=======>   KOREA   <=======
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/13174
+#EXTINF:-1 tvg-ID="" tvg-name="KOR : DISNEY CHANNEL KOREA" tvg-logo="http://iptvreseller.xyz:1234/Anh/disneychannel.png" group-title="Korea",KOR : DISNEY CHANNEL KOREA
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/2834
+#EXTINF:-1 tvg-ID="" tvg-name="KOR : ANIMAX KOREA" tvg-logo="http://iptvreseller.xyz:1234/Anh/animaux.png" group-title="Korea",KOR : ANIMAX KOREA
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/2831
+#EXTINF:-1 tvg-ID="" tvg-name="KOR: PBC" tvg-logo="http://iptvreseller.xyz:1234/Anh/PBC.png" group-title="Korea",KOR: PBC
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/7712
+#EXTINF:-1 tvg-ID="" tvg-name="KOR: Tooniverse" tvg-logo="http://iptvreseller.xyz:1234/Anh/Tooniverse.png" group-title="Korea",KOR: Tooniverse
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/7713
+#EXTINF:-1 tvg-ID="" tvg-name="KOR: XTM" tvg-logo="http://iptvreseller.xyz:1234/Anh/XTM.png" group-title="Korea",KOR: XTM
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/7714
+#EXTINF:-1 tvg-ID="" tvg-name="KOR : TVN" tvg-logo="http://iptvreseller.xyz:1234/Anh/tvn.png" group-title="Korea",KOR : TVN
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/2854
+#EXTINF:-1 tvg-ID="" tvg-name="KOR : TV CHOSUN" tvg-logo="http://iptvreseller.xyz:1234/Anh/TVCHOSUN.png" group-title="Korea",KOR : TV CHOSUN
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/2853
+#EXTINF:-1 tvg-ID="" tvg-name="KOR : STAR 2" tvg-logo="http://iptvreseller.xyz:1234/Anh/star.png" group-title="Korea",KOR : STAR 2
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/2852
+#EXTINF:-1 tvg-ID="" tvg-name="KOR : SBS SPORTS" tvg-logo="http://iptvreseller.xyz:1234/Anh/SBSSPORTS.png" group-title="Korea",KOR : SBS SPORTS
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/2851
+#EXTINF:-1 tvg-ID="" tvg-name="KOR : SBS GOLF" tvg-logo="http://iptvreseller.xyz:1234/Anh/SBSGOLF.png" group-title="Korea",KOR : SBS GOLF
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/2850
+#EXTINF:-1 tvg-ID="" tvg-name="KOR : SBS" tvg-logo="http://iptvreseller.xyz:1234/Anh/SBS.png" group-title="Korea",KOR : SBS
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/2849
+#EXTINF:-1 tvg-ID="" tvg-name="KOR : O'LIVE" tvg-logo="http://iptvreseller.xyz:1234/Anh/olivetv.png" group-title="Korea",KOR : O'LIVE
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/2848
+#EXTINF:-1 tvg-ID="" tvg-name="KOR: MBN" tvg-logo="http://iptvreseller.xyz:1234/Anh/MBN.png" group-title="Korea",KOR: MBN
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/3750
+#EXTINF:-1 tvg-ID="" tvg-name="KOR : MBC SPORTS" tvg-logo="http://iptvreseller.xyz:1234/Anh/MBCSPORTS.png" group-title="Korea",KOR : MBC SPORTS
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/2847
+#EXTINF:-1 tvg-ID="" tvg-name="KOR : MBC" tvg-logo="http://iptvreseller.xyz:1234/Anh/MBC.png" group-title="Korea",KOR : MBC
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/2846
+#EXTINF:-1 tvg-ID="" tvg-name="KOR : M NET" tvg-logo="http://iptvreseller.xyz:1234/Anh/MNET.png" group-title="Korea",KOR : M NET
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/2845
+#EXTINF:-1 tvg-ID="" tvg-name="KOR : KBS SPORTS" tvg-logo="http://iptvreseller.xyz:1234/Anh/KBSSPORTS.png" group-title="Korea",KOR : KBS SPORTS
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/2844
+#EXTINF:-1 tvg-ID="" tvg-name="KOR : KBS 2" tvg-logo="http://iptvreseller.xyz:1234/Anh/KBS.png" group-title="Korea",KOR : KBS 2
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/2843
+#EXTINF:-1 tvg-ID="" tvg-name="KOR : KBS 1" tvg-logo="http://iptvreseller.xyz:1234/Anh/KBS.png" group-title="Korea",KOR : KBS 1
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/2842
+#EXTINF:-1 tvg-ID="" tvg-name="KOR : K-BADUK" tvg-logo="http://iptvreseller.xyz:1234/Anh/KBADUK.png" group-title="Korea",KOR : K-BADUK
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/2841
+#EXTINF:-1 tvg-ID="" tvg-name="KOR : JTBC" tvg-logo="http://iptvreseller.xyz:1234/Anh/JTBC.png" group-title="Korea",KOR : JTBC
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/2840
+#EXTINF:-1 tvg-ID="" tvg-name="KOR : JEI TV" tvg-logo="http://iptvreseller.xyz:1234/Anh/JEITV.png" group-title="Korea",KOR : JEI TV
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/2839
+#EXTINF:-1 tvg-ID="" tvg-name="KOR: JAY SPORTS 3" tvg-logo="" group-title="Korea",KOR: JAY SPORTS 3
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/2838
+#EXTINF:-1 tvg-ID="" tvg-name="KOR: JAY SPORTS 2" tvg-logo="" group-title="Korea",KOR: JAY SPORTS 2
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/2837
+#EXTINF:-1 tvg-ID="" tvg-name="KOR: JAY SPORTS" tvg-logo="" group-title="Korea",KOR: JAY SPORTS
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/2836
+#EXTINF:-1 tvg-ID="" tvg-name="KOR : FTV" tvg-logo="http://iptvreseller.xyz:1234/Anh/FTV.png" group-title="Korea",KOR : FTV
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/2835
+#EXTINF:-1 tvg-ID="" tvg-name="KOR : EBS 1" tvg-logo="http://iptvreseller.xyz:1234/Anh/EBS1.png" group-title="Korea",KOR : EBS 1
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/2830
+#EXTINF:-1 tvg-ID="" tvg-name="KOR : CHANNEL A" tvg-logo="http://iptvreseller.xyz:1234/Anh/channelaka.png" group-title="Korea",KOR : CHANNEL A
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/2833
+#EXTINF:-1 tvg-ID="" tvg-name="KOR : CGN TV" tvg-logo="http://iptvreseller.xyz:1234/Anh/CGNTV.png" group-title="Korea",KOR : CGN TV
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/2832
+#EXTINF:-1 tvg-ID="" tvg-name="=======>   Viet-Nam   <=======" tvg-logo="" group-title="",=======>   Viet-Nam   <=======
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/7479
+#EXTINF:-1 tvg-ID="" tvg-name="VN: HTVC thuan viet hd" tvg-logo="" group-title="Viet Nam",VN: HTVC thuan viet hd
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/17335
+#EXTINF:-1 tvg-ID="" tvg-name="VN: Paramount channel vietnam" tvg-logo="" group-title="Viet Nam",VN: Paramount channel vietnam
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/17365
+#EXTINF:-1 tvg-ID="" tvg-name="VN: Vietteen" tvg-logo="" group-title="Viet Nam",VN: Vietteen
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/17358
+#EXTINF:-1 tvg-ID="" tvg-name="VN: ITV SD" tvg-logo="" group-title="Viet Nam",VN: ITV SD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/481
+#EXTINF:-1 tvg-ID="" tvg-name="VN: Antv" tvg-logo="" group-title="Viet Nam",VN: Antv
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/17360
+#EXTINF:-1 tvg-ID="" tvg-name="VN: Da nang 1" tvg-logo="" group-title="Viet Nam",VN: Da nang 1
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/17354
+#EXTINF:-1 tvg-ID="DW" tvg-name="VN: DW" tvg-logo="" group-title="Viet Nam",VN: DW
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/17332
+#EXTINF:-1 tvg-ID="" tvg-name="VN: Fbnc" tvg-logo="" group-title="Viet Nam",VN: Fbnc
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/17356
+#EXTINF:-1 tvg-ID="" tvg-name="VN: HTV2" tvg-logo="" group-title="Viet Nam",VN: HTV2
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/17343
+#EXTINF:-1 tvg-ID="" tvg-name="VN: HTV3" tvg-logo="" group-title="Viet Nam",VN: HTV3
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/17342
+#EXTINF:-1 tvg-ID="" tvg-name="VN: HTV4" tvg-logo="" group-title="Viet Nam",VN: HTV4
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/17341
+#EXTINF:-1 tvg-ID="" tvg-name="VN: HTV7 HD" tvg-logo="" group-title="Viet Nam",VN: HTV7 HD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/17340
+#EXTINF:-1 tvg-ID="" tvg-name="VN: HTV9 HD" tvg-logo="" group-title="Viet Nam",VN: HTV9 HD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/17339
+#EXTINF:-1 tvg-ID="" tvg-name="VN: HTVC Du Lich" tvg-logo="" group-title="Viet Nam",VN: HTVC Du Lich
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/17338
+#EXTINF:-1 tvg-ID="" tvg-name="VN: HTVC gia dinh" tvg-logo="" group-title="Viet Nam",VN: HTVC gia dinh
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/17337
+#EXTINF:-1 tvg-ID="" tvg-name="VN: HTVC phu nu" tvg-logo="" group-title="Viet Nam",VN: HTVC phu nu
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/17336
+#EXTINF:-1 tvg-ID="" tvg-name="VN: HTVC the thao" tvg-logo="" group-title="Viet Nam",VN: HTVC the thao
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/17334
+#EXTINF:-1 tvg-ID="" tvg-name="VN: Mien Tay" tvg-logo="" group-title="Viet Nam",VN: Mien Tay
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/17355
+#EXTINF:-1 tvg-ID="" tvg-name="VN: Ncm" tvg-logo="" group-title="Viet Nam",VN: Ncm
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/17357
+#EXTINF:-1 tvg-ID="" tvg-name="VN: Phim Hay" tvg-logo="" group-title="Viet Nam",VN: Phim Hay
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/17333
+#EXTINF:-1 tvg-ID="" tvg-name="VN: Quoc hoi hd" tvg-logo="" group-title="Viet Nam",VN: Quoc hoi hd
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/17364
+#EXTINF:-1 tvg-ID="" tvg-name="VN: Quoc phong vn" tvg-logo="" group-title="Viet Nam",VN: Quoc phong vn
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/17363
+#EXTINF:-1 tvg-ID="" tvg-name="VN: Sam (BTV11)" tvg-logo="" group-title="Viet Nam",VN: Sam (BTV11)
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/17359
+#EXTINF:-1 tvg-ID="" tvg-name="VN: Truyen hinh nhan dan" tvg-logo="" group-title="Viet Nam",VN: Truyen hinh nhan dan
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/17361
+#EXTINF:-1 tvg-ID="" tvg-name="VN: VTC10" tvg-logo="" group-title="Viet Nam",VN: VTC10
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/17347
+#EXTINF:-1 tvg-ID="VTC12" tvg-name="VN: VTC12" tvg-logo="" group-title="Viet Nam",VN: VTC12
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/17346
+#EXTINF:-1 tvg-ID="" tvg-name="VN: VTC14" tvg-logo="" group-title="Viet Nam",VN: VTC14
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/17345
+#EXTINF:-1 tvg-ID="" tvg-name="VN: VTC16" tvg-logo="" group-title="Viet Nam",VN: VTC16
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/17344
+#EXTINF:-1 tvg-ID="" tvg-name="VN: VTC4" tvg-logo="" group-title="Viet Nam",VN: VTC4
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/17331
+#EXTINF:-1 tvg-ID="" tvg-name="VN: VTV7" tvg-logo="" group-title="Viet Nam",VN: VTV7
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/17352
+#EXTINF:-1 tvg-ID="" tvg-name="VN: VTV9" tvg-logo="" group-title="Viet Nam",VN: VTV9
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/17351
+#EXTINF:-1 tvg-ID="" tvg-name="VN: VTC7" tvg-logo="" group-title="Viet Nam",VN: VTC7
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/17350
+#EXTINF:-1 tvg-ID="" tvg-name="VN: VTC8" tvg-logo="" group-title="Viet Nam",VN: VTC8
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/17349
+#EXTINF:-1 tvg-ID="" tvg-name="VN: VTV6 HD" tvg-logo="" group-title="Viet Nam",VN: VTV6 HD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/17536
+#EXTINF:-1 tvg-ID="" tvg-name="VN: AN GIANG 1" tvg-logo="" group-title="Viet Nam",VN: AN GIANG 1
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/1835
+#EXTINF:-1 tvg-ID="" tvg-name="VN: BAC LIEU" tvg-logo="" group-title="Viet Nam",VN: BAC LIEU
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/1838
+#EXTINF:-1 tvg-ID="DakLakTV (DRT)" tvg-name="VN: DAK LAK" tvg-logo="" group-title="Viet Nam",VN: DAK LAK
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/1849
+#EXTINF:-1 tvg-ID="" tvg-name="VN: HA NAM" tvg-logo="" group-title="Viet Nam",VN: HA NAM
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/1853
+#EXTINF:-1 tvg-ID="" tvg-name="VN: HN1" tvg-logo="" group-title="Viet Nam",VN: HN1
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/500
+#EXTINF:-1 tvg-ID="Hung Yen TV" tvg-name="VN: HUNG YEN" tvg-logo="" group-title="Viet Nam",VN: HUNG YEN
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/1856
+#EXTINF:-1 tvg-ID="" tvg-name="VN: ITV HD" tvg-logo="" group-title="Viet Nam",VN: ITV HD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/482
+#EXTINF:-1 tvg-ID="KhanhHoaTV (KTV)" tvg-name="VN: KHANH HOA" tvg-logo="" group-title="Viet Nam",VN: KHANH HOA
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/1857
+#EXTINF:-1 tvg-ID="" tvg-name="VN: KIEN GIANG" tvg-logo="" group-title="Viet Nam",VN: KIEN GIANG
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/1858
+#EXTINF:-1 tvg-ID="" tvg-name="VN : KON TUM" tvg-logo="" group-title="Viet Nam",VN : KON TUM
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/1859
+#EXTINF:-1 tvg-ID="NinhThuanTV (NTV)" tvg-name="VN: NINH THUAN" tvg-logo="" group-title="Viet Nam",VN: NINH THUAN
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/1861
+#EXTINF:-1 tvg-ID="" tvg-name="VN: QUANG NINH 1" tvg-logo="" group-title="Viet Nam",VN: QUANG NINH 1
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/1864
+#EXTINF:-1 tvg-ID="" tvg-name="VN: QUANG NINH 3" tvg-logo="" group-title="Viet Nam",VN: QUANG NINH 3
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/1865
+#EXTINF:-1 tvg-ID="SocTrangTV (STV)" tvg-name="VN: SOC TRANG 1" tvg-logo="" group-title="Viet Nam",VN: SOC TRANG 1
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/1867
+#EXTINF:-1 tvg-ID="" tvg-name="VN: THVL1" tvg-logo="" group-title="Viet Nam",VN: THVL1
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/503
+#EXTINF:-1 tvg-ID="" tvg-name="VN: THVL2" tvg-logo="" group-title="Viet Nam",VN: THVL2
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/504
+#EXTINF:-1 tvg-ID="" tvg-name="VN: TTXVN" tvg-logo="" group-title="Viet Nam",VN: TTXVN
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/756
+
+#EXTINF:-1 tvg-ID="" tvg-name="=======> CHINA <=======" tvg-logo="" group-title="",=======> CHINA <=======
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/11784
+#EXTINF:-1 tvg-ID="" tvg-name="CN: CCTV9" tvg-logo="" group-title="China",CN: CCTV9
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/2270
+#EXTINF:-1 tvg-ID="" tvg-name="CN: CCTV8" tvg-logo="" group-title="China",CN: CCTV8
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/2269
+#EXTINF:-1 tvg-ID="" tvg-name="CN: CCTV7" tvg-logo="" group-title="China",CN: CCTV7
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/2268
+#EXTINF:-1 tvg-ID="" tvg-name="CCTV5+ HD" tvg-logo="" group-title="",CCTV5+ HD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/1447
+#EXTINF:-1 tvg-ID="" tvg-name="CH: UPC My Sports FHD" tvg-logo="" group-title="China",CH: UPC My Sports FHD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/16158
+#EXTINF:-1 tvg-ID="" tvg-name="CN: FAICHR HD" tvg-logo="" group-title="China",CN: FAICHR HD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/17664
+#EXTINF:-1 tvg-ID="" tvg-name="CN: CCTV6" tvg-logo="" group-title="China",CN: CCTV6
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/2267
+#EXTINF:-1 tvg-ID="" tvg-name="CN: CCTV5" tvg-logo="" group-title="China",CN: CCTV5
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/2266
+#EXTINF:-1 tvg-ID="" tvg-name="CN: CCTV4" tvg-logo="" group-title="China",CN: CCTV4
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/2265
+#EXTINF:-1 tvg-ID="" tvg-name="CN: CCTV3" tvg-logo="" group-title="China",CN: CCTV3
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/2264
+#EXTINF:-1 tvg-ID="" tvg-name="CN: CCTV2" tvg-logo="" group-title="China",CN: CCTV2
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/2263
+#EXTINF:-1 tvg-ID="" tvg-name="CN: CCTV1HD" tvg-logo="" group-title="China",CN: CCTV1HD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/2262
+#EXTINF:-1 tvg-ID="" tvg-name="CN: CCTV15" tvg-logo="" group-title="China",CN: CCTV15
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/2276
+#EXTINF:-1 tvg-ID="" tvg-name="CN: CCTV14" tvg-logo="" group-title="China",CN: CCTV14
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/2275
+#EXTINF:-1 tvg-ID="" tvg-name="CN: CCTV13" tvg-logo="" group-title="China",CN: CCTV13
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/2274
+#EXTINF:-1 tvg-ID="" tvg-name="CN: CCTV12" tvg-logo="" group-title="China",CN: CCTV12
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/2273
+#EXTINF:-1 tvg-ID="" tvg-name="CN: CCTV 5" tvg-logo="" group-title="China",CN: CCTV 5
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/1910
+#EXTINF:-1 tvg-ID="" tvg-name="CN: CCTV11" tvg-logo="" group-title="China",CN: CCTV11
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/2272
+#EXTINF:-1 tvg-ID="" tvg-name="CN: CCTV10" tvg-logo="" group-title="China",CN: CCTV10
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/2271
