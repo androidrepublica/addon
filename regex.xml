@@ -1,4 +1,36 @@
 <item>
+<title>http://s1.tinydl.info/Movies2/</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+   <title>[COLOR gold][makelist.param2][/COLOR]</title>
+   <link>$doregex[makelist2]</link>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+import re
+def GetLSProData(page_data,Cookie_Jar,m):#streamwatcher2013
+  return re.findall('<td><a href="([^"]+)".title="([^"]+)',re.findall('Parent.+?>(?s)(.*?)</tbody',page_data)[0].replace('&#8211;','-').replace('&#8216;','\'').replace('&#8217;','\'').replace('&#8221;','"').replace('&#8230;','...').replace('&#038;','&'))
+]]></expres>
+<page>http://s1.tinydl.info/Movies2/</page>
+</regex>
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+   <title>$pyFunction:('[makelist2.param2]').replace('_',' ')</title>
+   <link>http://s1.tinydl.info/Movies2/[makelist.param1]/[makelist2.param1]</link>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+import re
+def GetLSProData(page_data,Cookie_Jar,m):#streamwatcher2013
+  return re.findall('<td><a.href="([^"]+)".title.+?>([^&<]+)',re.findall('Parent.+?>(?s)(.*?)</tbody',page_data)[0].replace('&#8211;','-').replace('&#8216;','\'').replace('&#8217;','\'').replace('&#8221;','"').replace('&#8230;','...').replace('&#038;','&'))
+]]></expres>
+<page>http://s1.tinydl.info/Movies2/[makelist.param1]</page>
+<referer>http://s1.tinydl.info/Movies2/</referer>
+</regex>
+</item>
+
+<item>
 <title>www.parsatv.com</title>
 <link>$doregex[makelist]</link>
 <regex>
