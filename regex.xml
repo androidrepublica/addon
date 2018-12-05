@@ -1,4 +1,21 @@
 <item>
+<title>HBO</title>
+<link>$doregex[getUrl]</link>
+<regex>
+<name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re,requests
+def GetLSProData(page_data,Cookie_Jar,m):#streamwatcher2013
+ inf=re.findall('id=[\'"](\d+).+?src=[\'"](h[^\'"]+)',page_data)[0];headers={'user-agent':'Mozilla/5.0','referer':'http://www.futbol-envivohd.com/tv/hbo.php'}
+ source=requests.get(inf[1],headers=headers,verify=False).content.decode('ascii','ignore');url=re.findall('src="(h[^\'"]+)',source)[0]+inf[0]
+ source=requests.get(url,headers=headers,verify=False).content.decode('ascii','ignore')
+ return re.findall('Clappr.Player[\w\W]*?[\'"](h[^\'"]+)',source)[0]+'|user-agent=Mozilla/5.0&referer='+url
+]]></expres>
+<page>http://www.futbol-envivohd.com/tv/hbo.php</page>
+</regex>
+</item>
+
+<item>
 <title>http://www.glwiz.com/homepage.aspx</title>
 <link>$doregex[makelist]</link>
 <regex>
