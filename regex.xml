@@ -1,4 +1,41 @@
 
+<item>
+<title>[COLOR lightskyblue]https://freeiptv.io/playlists[/COLOR]</title>
+<link>$doregex[cristal]</link>
+<regex>
+<name>cristal</name>
+<listrepeat><![CDATA[
+<title>[COLOR white][cristal.param2][/COLOR]</title>
+<thumbnail></thumbnail>  
+<fanart></fanart>
+<link>$doregex[canal]</link>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+import re
+def GetLSProData(page_data,Cookie_Jar,m):#picapau
+ return re.findall('(?s)<option value=".*?>\((.*?)\).(.*?)<',re.findall('<select id="select\_country.+?>(?s)(.*?)</select>',page_data)[0])
+]]></expres>
+<page>https://freeiptv.io/playlists/</page>
+</regex>
+<regex>
+<name>canal</name>
+<listrepeat><![CDATA[
+<title>[COLOR white][canal.param1][/COLOR]</title>
+<thumbnail></thumbnail>  
+<fanart></fanart>
+<link>ignore</link>
+<externallink>[canal.param2]?c=[cristal.param1]$$TSDOWNLOADER$$</externallink>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+import re
+def GetLSProData(page_data,Cookie_Jar,m):#picapau
+ return re.findall('(?s)<option value=".*?>\((.*?)\).(.*?)<',re.findall('Select Your Playlist.+?>(?s)(.*?)</select>',page_data)[0])
+]]></expres>
+<page>https://freeiptv.io/playlists/</page>
+</regex>
+<thumbnail></thumbnail>  
+<fanart></fanart>
+</item>
 
 <item>
 <title>HBO</title>
