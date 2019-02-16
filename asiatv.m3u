@@ -1,0 +1,1286 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="TV1 MY" tvg-logo="" group-title="Malaysia",TV1 MY
+http://rtm-live.glueapi.io/smil:rtmch001.smil/chunklist_b1064000_sleng.m3u8?fbclid=IwAR2pQ3EzRJ2pUfAogiUoBq_GXfBINwLnPV7zbDflZHqiexMerygAaQN8z88
+#EXTINF:-1 tvg-id="" tvg-name="TV2 MY" tvg-logo="" group-title="Malaysia",TV2 MY
+http://rtm-live.glueapi.io/smil:rtmch002/chunklist_b1064000_sleng.m3u8?fbclid=IwAR1qzZ9X0WgooeKnaJoC6VP6_I381_kcsbHWgadWYal1NRD1K-CaStCrxDk
+#EXTINF:-1 tvg-id="" tvg-name="TV3 MY" tvg-logo="" group-title="Malaysia",TV3 MY
+http://livecdn.long.tv:8123/live/9B018DFCEDA448F380405340C339AD72/playlist.m3u8?fbclid=IwAR0ugZuvWzAkaqmY9JTvGC8baZxMxOybYeTydxbINeAiesRDKEyV91Dkayk
+#EXTINF:-1 tvg-id="" tvg-name="TV8 MY" tvg-logo="" group-title="Malaysia",TV8 MY
+http://livecdn.long.tv:8123/live/BA6C7841502446CBB5A1A4FCB18AAC99/playlist.m3u8?fbclid=IwAR0WmrvFubLNgQBcVbx7Npl5t5GepQVY5CkEvOgfKVNR_ZhK2z_tKUQ_JNA
+#EXTINF:-1 tvg-id="" tvg-name="TV9 MY" tvg-logo="" group-title="Malaysia",TV9 MY
+http://livecdn.long.tv:8123/live/B1D6CEDF1EF24A28A1201C3B20F6E814/playlist.m3u8?fbclid=IwAR1ncuuCmZmMBzeWWXWK56b_5-zaQEUJZ0itKNkAWX1--_Huv4hFRdocrLg
+#EXTINF:-1 tvg-id="" tvg-name="NTV7 MY" tvg-logo="" group-title="Malaysia",NTV7 MY
+http://livecdn.long.tv:8123/live/9C5B434BB49141119F38AF7FDD4B6D83/playlist.m3u8?fbclid=IwAR2pQ3EzRJ2pUfAogiUoBq_GXfBINwLnPV7zbDflZHqiexMerygAaQN8z88
+#EXTINF:-1 tvg-id="" tvg-name="1News MY" tvg-logo="" group-title="Malaysia",1News MY
+http://rtm-live.glueapi.io/smil:rtmch006/chunklist_b1040000_sleng.m3u8?fbclid=IwAR0QCNS-IfyqZI4Z-lfNnEwdu1uIktg20NEvBteZDtFha3SY_Ho41N8ujU4
+#EXTINF:-1 tvg-id="" tvg-name="Astro Awani MY" tvg-logo="" group-title="Malaysia",Astro Awani MY
+http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master.m3u8?fbclid=IwAR1ncuuCmZmMBzeWWXWK56b_5-zaQEUJZ0itKNkAWX1--_Huv4hFRdocrLg
+#EXTINF:-1 tvg-id="" tvg-name="Hello MY" tvg-logo="" group-title="Malaysia",Hello MY
+http://playbackn20.aotg-video.astro.com.my/CH2/master_HELLO_8_05.m3u8?fbclid=IwAR0wgF5zMFCcRXg069yqDOtBi0kxRRM0EUe1cL2SFh-ugu1C7sG-F_-puT8
+#EXTINF:-1 tvg-id="" tvg-name="OKEY MY" tvg-logo="" group-title="Malaysia",Okey MY
+http://rtm-live.glueapi.io/smil:rtmch003.smil/chunklist_b1064000_sleng.m3u8?fbclid=IwAR1SmS4qPeGpNg4_7JnqnfieDZJM9JwIwbbb3r8HOw2S-RoPn8es-wFz9LE
+#EXTINF:-1 tvg-id="" tvg-name="RTM-Parlimen MY" tvg-logo="" group-title="Malaysia",RTM-Parlimen MY
+http://rtm-live.glueapi.io/smil:rtmch007/chunklist_b1040000_sleng.m3u8?fbclid=IwAR13tUrX-HzUdSt0ov4QzK6J5ulsJWCC7XgjojnhRD2OknW_9pwIO5Ns5_g
+#EXTINF:-1 tvg-id="" tvg-name="IKIM MY" tvg-logo="" group-title="Malaysia",IKIM MY
+http://edge.vediostream.com/abr/tvikim/live/tvikim_480p/chunks.m3u8?fbclid=IwAR2pQ3EzRJ2pUfAogiUoBq_GXfBINwLnPV7zbDflZHqiexMerygAaQN8z88
+
+#EXTINF:-1 tvg-id="" tvg-name="ANI PLUS HD MY" tvg-logo="" group-title="Malaysia",ANI PLUS HD MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/18637.ts
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET MY" tvg-logo="" group-title="Malaysia",ANIMAL PLANET MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/18636.ts
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAX HD KD MY" tvg-logo="" group-title="Malaysia",ANIMAX HD KD MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/18635.ts
+#EXTINF:-1 tvg-id="" tvg-name="ASIAN FOOD CHANNEL MY" tvg-logo="" group-title="Malaysia",ASIAN FOOD CHANNEL MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/18634.ts
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO AEC HD MY" tvg-logo="" group-title="Malaysia",ASTRO AEC HD MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/18633.ts
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO ARENA HD MY" tvg-logo="" group-title="Malaysia",ASTRO ARENA HD MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/18632.ts
+#EXTINF:-1 tvg-id="" tvg-name="Astro Awani MY" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/25/Astro_awani_501_logo.png/revision/latest?cb=20180622070842" group-title="Malaysia",Astro Awani MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1373.ts
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO BELLA MY" tvg-logo="" group-title="Malaysia",ASTRO BELLA MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/18631.ts
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO CERIA MY" tvg-logo="" group-title="Malaysia",ASTRO CERIA MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/18630.ts
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO CRICKET HD MY" tvg-logo="" group-title="Malaysia",ASTRO CRICKET HD MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/18629.ts
+#EXTINF:-1 tvg-id="" tvg-name="Astro Maya HD MY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/58/Astro_maya_hd.png" group-title="Malaysia",Astro Maya HD MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1371.ts
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO OASIS HD MY" tvg-logo="" group-title="Malaysia",ASTRO OASIS HD MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/18628.ts
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO PRIMA HD MY" tvg-logo="" group-title="Malaysia",ASTRO PRIMA HD MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/18627.ts
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO QUAN JIA HD MY" tvg-logo="" group-title="Malaysia",ASTRO QUAN JIA HD MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/18626.ts
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO RIA HD MY" tvg-logo="" group-title="Malaysia",ASTRO RIA HD MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/18625.ts
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO SHUANG XING HD MY" tvg-logo="" group-title="Malaysia",ASTRO SHUANG XING HD MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/18624.ts
+#EXTINF:-1 tvg-id="" tvg-name="Astro SuperSport 1 MY" tvg-logo="" group-title="Malaysia",Astro SuperSport 1 MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1366.ts
+#EXTINF:-1 tvg-id="" tvg-name="Astro SuperSport 2 HD MY" tvg-logo="" group-title="Malaysia",Astro SuperSport 2 HD MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1365.ts
+#EXTINF:-1 tvg-id="" tvg-name="Astro SuperSport 3 HD MY" tvg-logo="" group-title="Malaysia",Astro SuperSport 3 HD MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1364.ts
+#EXTINF:-1 tvg-id="" tvg-name="Astro SuperSport 4 HD MY" tvg-logo="" group-title="Malaysia",Astro SuperSport 4 HD MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1161.ts
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORTS 1 FHD MY" tvg-logo="" group-title="Malaysia",ASTRO SUPERSPORTS 1 FHD MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/18623.ts
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORTS 2 FHD MY" tvg-logo="" group-title="Malaysia",ASTRO SUPERSPORTS 2 FHD MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/18622.ts
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORTS 3 FHD MY" tvg-logo="" group-title="Malaysia",ASTRO SUPERSPORTS 3 FHD MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/18621.ts
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORTS 4 FHD MY" tvg-logo="" group-title="Malaysia",ASTRO SUPERSPORTS 4 FHD MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/18620.ts
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO TARA HD MY" tvg-logo="" group-title="Malaysia",ASTRO TARA HD MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/18619.ts
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO VAANAVIL HD MY" tvg-logo="" group-title="Malaysia",ASTRO VAANAVIL HD MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/18618.ts
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO VINMEEN HD MY" tvg-logo="" group-title="Malaysia",ASTRO VINMEEN HD MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/18617.ts
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO WARNA HD MY" tvg-logo="" group-title="Malaysia",ASTRO WARNA HD MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/18616.ts
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO XI YUE MY" tvg-logo="" group-title="Malaysia",ASTRO XI YUE MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/18615.ts
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO XIAO TAI YANG MY" tvg-logo="" group-title="Malaysia",ASTRO XIAO TAI YANG MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/18614.ts
+#EXTINF:-1 tvg-id="" tvg-name="AXN HD MY" tvg-logo="" group-title="Malaysia",AXN HD MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/18613.ts
+#EXTINF:-1 tvg-id="" tvg-name="BABY FIRST MY" tvg-logo="" group-title="Malaysia",BABY FIRST MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/18612.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBC EARTH HD MY" tvg-logo="" group-title="Malaysia",BBC EARTH HD MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/18610.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBC LIFESTYLE MY" tvg-logo="" group-title="Malaysia",BBC LIFESTYLE MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/18609.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS MY" tvg-logo="" group-title="Malaysia",BEIN SPORTS MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/18608.ts
+#EXTINF:-1 tvg-id="" tvg-name="BLUE ANT EXTREME MY" tvg-logo="" group-title="Malaysia",BLUE ANT EXTREME MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/18607.ts
+#EXTINF:-1 tvg-id="" tvg-name="BOLLY ONE HD MY" tvg-logo="" group-title="Malaysia",BOLLY ONE HD MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/18606.ts
+#EXTINF:-1 tvg-id="" tvg-name="BOOMERANG HD KD MY" tvg-logo="" group-title="Malaysia",BOOMERANG HD KD MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/18605.ts
+#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK MY" tvg-logo="" group-title="Malaysia",CARTOON NETWORK MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/18604.ts
+#EXTINF:-1 tvg-id="" tvg-name="CELESTIAL MOVIES MY" tvg-logo="" group-title="Malaysia",CELESTIAL MOVIES MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/18603.ts
+#EXTINF:-1 tvg-id="" tvg-name="CHANNEL W MY" tvg-logo="" group-title="Malaysia",CHANNEL W MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/18602.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA WORLD HD MY" tvg-logo="" group-title="Malaysia",CINEMA WORLD HD MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/18601.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY ASIA HD TH-COPY" tvg-logo="" group-title="Malaysia",DISCOVERY ASIA HD TH-COPY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/8631.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL MY" tvg-logo="" group-title="Malaysia",DISCOVERY CHANNEL MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/18600.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY CH MY" tvg-logo="" group-title="Malaysia",DISNEY CH MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/18599.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY JR MY" tvg-logo="" group-title="Malaysia",DISNEY JR MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/18598.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY XD MY" tvg-logo="" group-title="Malaysia",DISNEY XD MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/18597.ts
+#EXTINF:-1 tvg-id="" tvg-name="DIVA HD MY" tvg-logo="" group-title="Malaysia",DIVA HD MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/18596.ts
+#EXTINF:-1 tvg-id="" tvg-name="DUNIA SINEMA MY" tvg-logo="" group-title="Malaysia",DUNIA SINEMA MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/18595.ts
+#EXTINF:-1 tvg-id="" tvg-name="ENTERTAINMENT MY" tvg-logo="" group-title="Malaysia",ENTERTAINMENT MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/18594.ts
+#EXTINF:-1 tvg-id="" tvg-name="EVERY GOOD GAME HD MY" tvg-logo="" group-title="Malaysia",EVERY GOOD GAME HD MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/18593.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX FAMILY MOVIES HD MY" tvg-logo="" group-title="Malaysia",FOX FAMILY MOVIES HD MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/18592.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX LIFE HD MY" tvg-logo="" group-title="Malaysia",FOX LIFE HD MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/18591.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fox Movies Action HD MY" tvg-logo="" group-title="Malaysia",Fox Movies Action HD MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1362.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX MOVIES HD MY" tvg-logo="" group-title="Malaysia",FOX MOVIES HD MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/18590.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fox Movies Premium MY" tvg-logo="" group-title="Malaysia",Fox Movies Premium MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1361.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 1 MY" tvg-logo="" group-title="Malaysia",FOX SPORTS 1 MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/18589.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2 MY" tvg-logo="" group-title="Malaysia",FOX SPORTS 2 MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/18588.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 3 MY" tvg-logo="" group-title="Malaysia",FOX SPORTS 3 MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/18587.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX TV HD MY" tvg-logo="" group-title="Malaysia",FOX TV HD MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/18586.ts
+#EXTINF:-1 tvg-id="" tvg-name="FX CINEMA HD MY" tvg-logo="" group-title="Malaysia",FX CINEMA HD MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/18585.ts
+#EXTINF:-1 tvg-id="" tvg-name="GNIX SPORTS HD MY" tvg-logo="" group-title="Malaysia",GNIX SPORTS HD MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/18584.ts
+#EXTINF:-1 tvg-id="" tvg-name="HGTV MY" tvg-logo="" group-title="Malaysia",HGTV MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/18583.ts
+#EXTINF:-1 tvg-id="" tvg-name="HHD MY" tvg-logo="" group-title="Malaysia",HHD MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/18582.ts
+#EXTINF:-1 tvg-id="Historyplus1.uk" tvg-name="Historyplus1.uk" tvg-logo="http://epg4you.com/logos/historyplus1.png" group-title="Malaysia",History +1
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1866.ts
+#EXTINF:-1 tvg-id="History.uk" tvg-name="History.uk" tvg-logo="http://epg4you.com/logos/historyhd.png" group-title="Malaysia",History FHD
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/7599.ts
+#EXTINF:-1 tvg-id="History.uk" tvg-name="History.uk" tvg-logo="http://epg4you.com/logos/historyhd.png" group-title="Malaysia",History FHD VIP
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/10861.ts
+#EXTINF:-1 tvg-id="History.uk" tvg-name="History.uk" tvg-logo="http://epg4you.com/logos/historyhd.png" group-title="Malaysia",History UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1867.ts
+#EXTINF:-1 tvg-id="" tvg-name="HITS HD MY" tvg-logo="" group-title="Malaysia",HITS HD MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/18581.ts
+#EXTINF:-1 tvg-id="" tvg-name="HYPP SENSASI MY" tvg-logo="" group-title="Malaysia",HYPP SENSASI MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/18580.ts
+#EXTINF:-1 tvg-id="" tvg-name="HYPP SPORTS 1 HD MY" tvg-logo="" group-title="Malaysia",HYPP SPORTS 1 HD MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/18579.ts
+#EXTINF:-1 tvg-id="" tvg-name="HYPP SPORTS 2 HD MY" tvg-logo="" group-title="Malaysia",HYPP SPORTS 2 HD MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/18578.ts
+#EXTINF:-1 tvg-id="" tvg-name="HYPP SPORTS 3 HD MY" tvg-logo="" group-title="Malaysia",HYPP SPORTS 3 HD MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/18577.ts
+#EXTINF:-1 tvg-id="" tvg-name="JAYA MAX APAC Plus MY" tvg-logo="" group-title="Malaysia",JAYA MAX APAC Plus MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/18548.ts
+#EXTINF:-1 tvg-id="" tvg-name="K PLUS HD MY" tvg-logo="" group-title="Malaysia",K PLUS HD MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/18576.ts
+#EXTINF:-1 tvg-id="" tvg-name="KIX MY" tvg-logo="" group-title="Malaysia",KIX MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/18575.ts
+#EXTINF:-1 tvg-id="" tvg-name="LIFETIME MY" tvg-logo="" group-title="Malaysia",LIFETIME MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/18574.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV ASIA MY" tvg-logo="" group-title="Malaysia",MTV ASIA MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/18573.ts
+#EXTINF:-1 tvg-id="" tvg-name="MUTV HD MY" tvg-logo="" group-title="Malaysia",MUTV HD MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/18572.ts
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO ASIA HD MY" tvg-logo="" group-title="Malaysia",NAT GEO ASIA HD MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/18571.ts
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO PEOPLE HD MY" tvg-logo="" group-title="Malaysia",NAT GEO PEOPLE HD MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/18570.ts
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD HD MY" tvg-logo="" group-title="Malaysia",NAT GEO WILD HD MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/18569.ts
+#EXTINF:-1 tvg-id="" tvg-name="NICK JR KD MY" tvg-logo="" group-title="Malaysia",NICK JR KD MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/18568.ts
+#EXTINF:-1 tvg-id="" tvg-name="NICK KD MY" tvg-logo="" group-title="Malaysia",NICK KD MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/18567.ts
+#EXTINF:-1 tvg-id="" tvg-name="NOW TV CHINESE MY" tvg-logo="" group-title="Malaysia",NOW TV CHINESE MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/18566.ts
+#EXTINF:-1 tvg-id="" tvg-name="NTV7 MY" tvg-logo="" group-title="Malaysia",NTV7 MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1360.ts
+#EXTINF:-1 tvg-id="" tvg-name="OHIK MY" tvg-logo="" group-title="Malaysia",OHIK MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/18565.ts
+#EXTINF:-1 tvg-id="" tvg-name="OUTDOOR HD MY" tvg-logo="" group-title="Malaysia",OUTDOOR HD MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/18564.ts
+#EXTINF:-1 tvg-id="" tvg-name="PARAMAUNT CHANNEL MY" tvg-logo="" group-title="Malaysia",PARAMAUNT CHANNEL MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/18563.ts
+#EXTINF:-1 tvg-id="" tvg-name="PESONA HD MY" tvg-logo="" group-title="Malaysia",PESONA HD MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/18562.ts
+#EXTINF:-1 tvg-id="" tvg-name="RED HBO HD MY" tvg-logo="" group-title="Malaysia",RED HBO HD MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/18561.ts
+#EXTINF:-1 tvg-id="" tvg-name="SETANTA SPORTS HD MY" tvg-logo="" group-title="Malaysia",SETANTA SPORTS HD MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/18560.ts
+#EXTINF:-1 tvg-id="" tvg-name="SETi CHINESE MY" tvg-logo="" group-title="Malaysia",SETi CHINESE MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/18559.ts
+#EXTINF:-1 tvg-id="" tvg-name="SkyNet Baby TV MY" tvg-logo="" group-title="Malaysia",SkyNet Baby TV MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/9131.ts
+#EXTINF:-1 tvg-id="" tvg-name="SkyNet CGCN Docu MY" tvg-logo="" group-title="Malaysia",SkyNet CGCN Docu MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/9128.ts
+#EXTINF:-1 tvg-id="" tvg-name="SkyNet Dmax MY" tvg-logo="" group-title="Malaysia",SkyNet Dmax MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/9126.ts
+#EXTINF:-1 tvg-id="" tvg-name="SkyNet Fox Action Movies HD MY" tvg-logo="" group-title="Malaysia",SkyNet Fox Action Movies HD MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/9142.ts
+#EXTINF:-1 tvg-id="" tvg-name="SkyNet Fox Action Movies MY" tvg-logo="" group-title="Malaysia",SkyNet Fox Action Movies MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/9143.ts
+#EXTINF:-1 tvg-id="" tvg-name="SkyNet Golf HD MY" tvg-logo="" group-title="Malaysia",SkyNet Golf HD MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/9123.ts
+#EXTINF:-1 tvg-id="" tvg-name="SkyNet Movies HD MY" tvg-logo="" group-title="Malaysia",SkyNet Movies HD MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/9114.ts
+#EXTINF:-1 tvg-id="" tvg-name="SkyNet MTV China MY" tvg-logo="" group-title="Malaysia",SkyNet MTV China MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/9122.ts
+#EXTINF:-1 tvg-id="" tvg-name="SkyNet Music MY" tvg-logo="" group-title="Malaysia",SkyNet Music MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/9121.ts
+#EXTINF:-1 tvg-id="" tvg-name="SkyNet Phoenix Info News MY" tvg-logo="" group-title="Malaysia",SkyNet Phoenix Info News MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/9132.ts
+#EXTINF:-1 tvg-id="" tvg-name="SkyNet Sports 1 HD MY" tvg-logo="http://epg4you.com/logos/planet-wispelutri.png" group-title="Malaysia",SkyNet Sports 1 HD MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1160.ts
+#EXTINF:-1 tvg-id="" tvg-name="SkyNet Sports 1 MY" tvg-logo="http://epg4you.com/logos/planeteplusaventureexperience.png" group-title="Malaysia",SkyNet Sports 1 MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1159.ts
+#EXTINF:-1 tvg-id="" tvg-name="SkyNet Sports 2 MY" tvg-logo="" group-title="Malaysia",SkyNet Sports 2 MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1158.ts
+#EXTINF:-1 tvg-id="" tvg-name="SkyNet Sports 3 MY" tvg-logo="" group-title="Malaysia",SkyNet Sports 3 MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1157.ts
+#EXTINF:-1 tvg-id="" tvg-name="SkyNet Sports 4 MY" tvg-logo="http://epg4you.com/logos/mcm.png" group-title="Malaysia",SkyNet Sports 4 MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1156.ts
+#EXTINF:-1 tvg-id="" tvg-name="SkyNet Sports 5 MY" tvg-logo="http://epg4you.com/logos/omtv.png" group-title="Malaysia",SkyNet Sports 5 MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1155.ts
+#EXTINF:-1 tvg-id="" tvg-name="SkyNet Sports 6 MY" tvg-logo="http://epg4you.com/logos/m6.png" group-title="Malaysia",SkyNet Sports 6 MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1154.ts
+#EXTINF:-1 tvg-id="" tvg-name="SkyNet Sports HD MY" tvg-logo="" group-title="Malaysia",SkyNet Sports HD MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/9113.ts
+#EXTINF:-1 tvg-id="" tvg-name="SkyNet Sports Plus HD MY" tvg-logo="" group-title="Malaysia",SkyNet Sports Plus HD MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/9110.ts
+#EXTINF:-1 tvg-id="" tvg-name="SkyNet Sports Plus MY" tvg-logo="" group-title="Malaysia",SkyNet Sports Plus MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/9112.ts
+#EXTINF:-1 tvg-id="" tvg-name="SkyNet World Drama MY" tvg-logo="" group-title="Malaysia",SkyNet World Drama MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/9137.ts
+#EXTINF:-1 tvg-id="" tvg-name="SkyNet ZEE TV MY" tvg-logo="" group-title="Malaysia",SkyNet ZEE TV MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/9135.ts
+#EXTINF:-1 tvg-id="" tvg-name="SkyNet Zing MY" tvg-logo="" group-title="Malaysia",SkyNet Zing MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/9117.ts
+#EXTINF:-1 tvg-id="" tvg-name="SONY ONE HD MY" tvg-logo="" group-title="Malaysia",SONY ONE HD MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/18558.ts
+#EXTINF:-1 tvg-id="" tvg-name="SONY SAB APAC Plus MY" tvg-logo="" group-title="Malaysia",SONY SAB APAC Plus MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/18545.ts
+#EXTINF:-1 tvg-id="" tvg-name="SONY SETMAX APAC Plus MY" tvg-logo="" group-title="Malaysia",SONY SETMAX APAC Plus MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/18544.ts
+#EXTINF:-1 tvg-id="" tvg-name="SONY TV APAC Plus MY" tvg-logo="" group-title="Malaysia",SONY TV APAC Plus MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/18543.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sport DREAM WORKS HD MY" tvg-logo="" group-title="Malaysia",Sport DREAM WORKS HD MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/18638.ts
+#EXTINF:-1 tvg-id="" tvg-name="SportBABY TV KD MY" tvg-logo="" group-title="Malaysia",SportBABY TV KD MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/18611.ts
+#EXTINF:-1 tvg-id="" tvg-name="STAR CHINESE CHANNEL HD MY" tvg-logo="" group-title="Malaysia",STAR CHINESE CHANNEL HD MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/18557.ts
+#EXTINF:-1 tvg-id="" tvg-name="STAR VIJAY APAC Plus MY" tvg-logo="" group-title="Malaysia",STAR VIJAY APAC Plus MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/18546.ts
+#EXTINF:-1 tvg-id="" tvg-name="TLC MY" tvg-logo="" group-title="Malaysia",TLC MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/18556.ts
+#EXTINF:-1 tvg-id="" tvg-name="TRAVEL CHANNEL HD MY" tvg-logo="" group-title="Malaysia",TRAVEL CHANNEL HD MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/18555.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV ALHIJRA MY" tvg-logo="" group-title="Malaysia",TV ALHIJRA MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/18554.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVN HD MY" tvg-logo="" group-title="Malaysia",TVN HD MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/18552.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVN MOVIES MY" tvg-logo="" group-title="Malaysia",TVN MOVIES MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/18551.ts
+#EXTINF:-1 tvg-id="" tvg-name="WARNER TV HD MY" tvg-logo="" group-title="Malaysia",WARNER TV HD MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/18550.ts
+#EXTINF:-1 tvg-id="" tvg-name="WWE NETWORK HD MY" tvg-logo="" group-title="Malaysia",WWE NETWORK HD MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/18549.ts
+#EXTINF:-1 tvg-id="" tvg-name="ZEE TAMIL APAC Plus MY" tvg-logo="" group-title="Malaysia",ZEE TAMIL APAC Plus MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/18547.ts
+#EXTINF:-1 tvg-id="" tvg-name="AMRITA TV MY" tvg-logo="" group-title="Malaysia",AMRITA TV MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/29527.ts
+#EXTINF:-1 tvg-id="" tvg-name="ASIANET ME MY" tvg-logo="" group-title="Malaysia",ASIANET ME MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/29528.ts
+#EXTINF:-1 tvg-id="" tvg-name="ASIANET MOVIES MY" tvg-logo="" group-title="Malaysia",ASIANET MOVIES MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/29529.ts
+#EXTINF:-1 tvg-id="" tvg-name="ASIANET NEWS MY" tvg-logo="" group-title="Malaysia",ASIANET NEWS MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/29530.ts
+#EXTINF:-1 tvg-id="" tvg-name="ASIANET PLUS PLUS MY" tvg-logo="" group-title="Malaysia",ASIANET PLUS PLUS MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/29531.ts
+#EXTINF:-1 tvg-id="" tvg-name="ASIANET TV PLUS MY" tvg-logo="" group-title="Malaysia",ASIANET TV PLUS MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/29532.ts
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO AWANI HD MY" tvg-logo="" group-title="Malaysia",ASTRO AWANI HD MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/29582.ts
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO MAYA MY" tvg-logo="" group-title="Malaysia",ASTRO MAYA MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/29593.ts
+#EXTINF:-1 tvg-id="" tvg-name="DD MALAYALAM MY" tvg-logo="" group-title="Malaysia",DD MALAYALAM MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/29533.ts
+#EXTINF:-1 tvg-id="" tvg-name="FLOW SPORTS 2 HD MY" tvg-logo="" group-title="Malaysia",FLOW SPORTS 2 HD MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/29584.ts
+#EXTINF:-1 tvg-id="" tvg-name="FLOW SPORTS EPL 1 HD-PPV MY" tvg-logo="" group-title="Malaysia",FLOW SPORTS EPL 1 HD-PPV MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/29585.ts
+#EXTINF:-1 tvg-id="" tvg-name="FLOW SPORTS EPL 2 HD-PPV MY" tvg-logo="" group-title="Malaysia",FLOW SPORTS EPL 2 HD-PPV MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/29586.ts
+#EXTINF:-1 tvg-id="" tvg-name="FLOW SPORTS EPL 3 HD-PPV MY" tvg-logo="" group-title="Malaysia",FLOW SPORTS EPL 3 HD-PPV MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/29587.ts
+#EXTINF:-1 tvg-id="" tvg-name="FLOW SPORTS EPL 4 HD-PPV MY" tvg-logo="" group-title="Malaysia",FLOW SPORTS EPL 4 HD-PPV MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/29588.ts
+#EXTINF:-1 tvg-id="" tvg-name="FLOW SPORTS EPL 5 HD-PPV MY" tvg-logo="" group-title="Malaysia",FLOW SPORTS EPL 5 HD-PPV MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/29589.ts
+#EXTINF:-1 tvg-id="" tvg-name="FLOW SPORTS EPL 6 HD-PPV MY" tvg-logo="" group-title="Malaysia",FLOW SPORTS EPL 6 HD-PPV MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/29590.ts
+#EXTINF:-1 tvg-id="" tvg-name="FLOW SPORTS HD MY" tvg-logo="" group-title="Malaysia",FLOW SPORTS HD MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/29591.ts
+#EXTINF:-1 tvg-id="" tvg-name="FLOW SPORTS P.L HD MY" tvg-logo="" group-title="Malaysia",FLOW SPORTS P.L HD MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/29592.ts
+#EXTINF:-1 tvg-id="" tvg-name="FLOWERS TV MY" tvg-logo="" group-title="Malaysia",FLOWERS TV MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/29534.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX ACTION MOVIES HD MY" tvg-logo="" group-title="Malaysia",FOX ACTION MOVIES HD MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/29583.ts
+#EXTINF:-1 tvg-id="" tvg-name="GARSHOM TV MY" tvg-logo="" group-title="Malaysia",GARSHOM TV MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/29535.ts
+#EXTINF:-1 tvg-id="" tvg-name="GOODNESS TV MY" tvg-logo="" group-title="Malaysia",GOODNESS TV MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/29536.ts
+#EXTINF:-1 tvg-id="" tvg-name="HARVEST TV ARABIA MY" tvg-logo="" group-title="Malaysia",HARVEST TV ARABIA MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/29538.ts
+#EXTINF:-1 tvg-id="" tvg-name="HARVEST TV MY" tvg-logo="" group-title="Malaysia",HARVEST TV MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/29537.ts
+#EXTINF:-1 tvg-id="" tvg-name="HARVEST TV USA MY" tvg-logo="" group-title="Malaysia",HARVEST TV USA MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/29539.ts
+#EXTINF:-1 tvg-id="" tvg-name="JANAM TV MY" tvg-logo="" group-title="Malaysia",JANAM TV MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/29541.ts
+#EXTINF:-1 tvg-id="" tvg-name="KAIRALI PEOPLE MY" tvg-logo="" group-title="Malaysia",KAIRALI PEOPLE MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/29543.ts
+#EXTINF:-1 tvg-id="" tvg-name="KAPPA TV MY" tvg-logo="" group-title="Malaysia",KAPPA TV MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/29546.ts
+#EXTINF:-1 tvg-id="" tvg-name="KAUMUDY TV MY" tvg-logo="" group-title="Malaysia",KAUMUDY TV MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/29547.ts
+#EXTINF:-1 tvg-id="" tvg-name="KERALA VISION MY" tvg-logo="" group-title="Malaysia",KERALA VISION MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/29548.ts
+#EXTINF:-1 tvg-id="" tvg-name="MANGLAM TV MY" tvg-logo="" group-title="Malaysia",MANGLAM TV MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/29550.ts
+#EXTINF:-1 tvg-id="" tvg-name="MANORAMA NEWS MY" tvg-logo="" group-title="Malaysia",MANORAMA NEWS MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/29551.ts
+#EXTINF:-1 tvg-id="" tvg-name="MARIAN TV MY" tvg-logo="" group-title="Malaysia",MARIAN TV MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/29552.ts
+#EXTINF:-1 tvg-id="" tvg-name="MATHRUBHUMI NEWS MY" tvg-logo="" group-title="Malaysia",MATHRUBHUMI NEWS MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/29553.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAZHAVIL MANORAMA HD MY" tvg-logo="" group-title="Malaysia",MAZHAVIL MANORAMA HD MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/29555.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAZHAVIL MANORAMA INT. MY" tvg-logo="" group-title="Malaysia",MAZHAVIL MANORAMA INT. MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/29556.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAZHAVIL MANORAMA MY" tvg-logo="" group-title="Malaysia",MAZHAVIL MANORAMA MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/29554.ts
+#EXTINF:-1 tvg-id="" tvg-name="MEDIA ONE MY" tvg-logo="" group-title="Malaysia",MEDIA ONE MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/29557.ts
+#EXTINF:-1 tvg-id="" tvg-name="NEWS 18 KERALA MY" tvg-logo="" group-title="Malaysia",NEWS 18 KERALA MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/29558.ts
+#EXTINF:-1 tvg-id="" tvg-name="RAJ NEWS MY" tvg-logo="" group-title="Malaysia",RAJ NEWS MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/29560.ts
+#EXTINF:-1 tvg-id="" tvg-name="REPORTER TV MY" tvg-logo="" group-title="Malaysia",REPORTER TV MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/29561.ts
+#EXTINF:-1 tvg-id="" tvg-name="SAFARI TV MY" tvg-logo="" group-title="Malaysia",SAFARI TV MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/29563.ts
+#EXTINF:-1 tvg-id="" tvg-name="SHALOM TV MY" tvg-logo="" group-title="Malaysia",SHALOM TV MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/29564.ts
+#EXTINF:-1 tvg-id="" tvg-name="SURYA COMEDY MY" tvg-logo="" group-title="Malaysia",SURYA COMEDY MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/29565.ts
+#EXTINF:-1 tvg-id="" tvg-name="SURYA HD MY" tvg-logo="" group-title="Malaysia",SURYA HD MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/29566.ts
+#EXTINF:-1 tvg-id="" tvg-name="SURYA MOVIES MY" tvg-logo="" group-title="Malaysia",SURYA MOVIES MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/29567.ts
+#EXTINF:-1 tvg-id="" tvg-name="SURYA MUSIC MY" tvg-logo="" group-title="Malaysia",SURYA MUSIC MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/29568.ts
+#EXTINF:-1 tvg-id="" tvg-name="SURYA TV MY" tvg-logo="" group-title="Malaysia",SURYA TV MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/29569.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV3 HD MY" tvg-logo="" group-title="Malaysia",TV3 HD MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/29594.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV9 HD MY" tvg-logo="" group-title="Malaysia",TV9 HD MY
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/29595.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Channel 5 HD SG" tvg-logo="" group-title="Singapore",Channel 5 HD SG
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/29510.ts
+#EXTINF:-1 tvg-id="" tvg-name="Channel 8 HD SG" tvg-logo="" group-title="Singapore",Channel 8 HD SG
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/29511.ts
+#EXTINF:-1 tvg-id="" tvg-name="Channel News Asia HD SG" tvg-logo="" group-title="Singapore",Channel News Asia HD SG
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/29512.ts
+#EXTINF:-1 tvg-id="" tvg-name="Channel U HD SG" tvg-logo="" group-title="Singapore",Channel U HD SG
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/29513.ts
+#EXTINF:-1 tvg-id="" tvg-name="Chelsea TV HD SG" tvg-logo="" group-title="Singapore",Chelsea TV HD SG
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/29514.ts
+#EXTINF:-1 tvg-id="" tvg-name="Miao Mi KD HD SG" tvg-logo="" group-title="Singapore",Miao Mi KD HD SG
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/29515.ts
+#EXTINF:-1 tvg-id="" tvg-name="MUTV HD SG" tvg-logo="" group-title="Singapore",MUTV HD SG
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/29516.ts
+#EXTINF:-1 tvg-id="" tvg-name="Okto HD SG" tvg-logo="" group-title="Singapore",Okto HD SG
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/29517.ts
+#EXTINF:-1 tvg-id="" tvg-name="Suria TV HD SG" tvg-logo="" group-title="Singapore",Suria TV HD SG
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/29518.ts
+#EXTINF:-1 tvg-id="" tvg-name="Vasantham HD SG" tvg-logo="" group-title="Singapore",Vasantham HD SG
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/29519.ts
+
+#EXTINF:-1 tvg-id="beINSportsNewsar.mena" tvg-name="beINSportsNewsar.mena" tvg-logo="https://i.imgur.com/NQfXnys.png" group-title="1. beIN Sports",beIN Sports  News HD
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/18777.ts
+#EXTINF:-1 tvg-id="beINSportsNewsar.mena" tvg-name="beINSportsNewsar.mena" tvg-logo="https://i.imgur.com/NQfXnys.png" group-title="1. beIN Sports",beIN Sports  News HD
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/998.ts
+#EXTINF:-1 tvg-id="beINSportsGlobal.mena" tvg-name="beINSportsGlobal.mena" tvg-logo="https://i.imgur.com/gP5sSJf.png" group-title="1. beIN Sports",beIN Sports  Global ARB
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/4977.ts
+#EXTINF:-1 tvg-id="beINSportsHD1.mena" tvg-name="beINSportsHD1.mena" tvg-logo="https://i.imgur.com/MMi4Btu.png" group-title="1. beIN Sports",beIN Sports 1 ARB
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/995.ts
+#EXTINF:-1 tvg-id="beINSportsHD1.mena" tvg-name="beINSportsHD1.mena" tvg-logo="https://i.imgur.com/MMi4Btu.png" group-title="1. beIN Sports",beIN Sports 1 FHD ARB
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/8776.ts
+#EXTINF:-1 tvg-id="beINSportsHD1.mena" tvg-name="beINSportsHD1.mena" tvg-logo="https://i.imgur.com/MMi4Btu.png" group-title="1. beIN Sports",beIN Sports 1 HD ARB
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/979.ts
+#EXTINF:-1 tvg-id="beINSportsHD1.mena" tvg-name="beINSportsHD1.mena" tvg-logo="https://i.imgur.com/MMi4Btu.png" group-title="1. beIN Sports",beIN Sports 1 HD HEVC VIP SPORTS
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/18801.ts
+#EXTINF:-1 tvg-id="beINSeriesHD1.mena" tvg-name="beINSeriesHD1.mena" tvg-logo="https://i.imgur.com/MMi4Btu.png" group-title="1. beIN Sports",beIN Sports 1 HD VIP ARB
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/9544.ts
+#EXTINF:-1 tvg-id="beINSportsHD1.mena" tvg-name="beINSportsHD1.mena" tvg-logo="https://i.imgur.com/MMi4Btu.png" group-title="1. beIN Sports",beIN Sports 1 HD VIP ARB
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/6963.ts
+#EXTINF:-1 tvg-id="beINSportsHD1.mena" tvg-name="beINSportsHD1.mena" tvg-logo="https://i.imgur.com/MMi4Btu.png" group-title="1. beIN Sports",beIN Sports 1 HD VIP SPORTS
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/18776.ts
+#EXTINF:-1 tvg-id="beINSportsHD1.mena" tvg-name="beINSportsHD1.mena" tvg-logo="https://i.imgur.com/MMi4Btu.png" group-title="1. beIN Sports",beIN Sports 1 SD VIP ARB
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/9543.ts
+#EXTINF:-1 tvg-id="beINSportsHD2.mena" tvg-name="beINSportsHD2.mena" tvg-logo="https://i.imgur.com/T5Wcof1.png" group-title="1. beIN Sports",beIN Sports 2 ARB
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/994.ts
+#EXTINF:-1 tvg-id="beINSportsHD2.mena" tvg-name="beINSportsHD2.mena" tvg-logo="https://i.imgur.com/T5Wcof1.png" group-title="1. beIN Sports",beIN Sports 2 FHD ARB
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/8775.ts
+#EXTINF:-1 tvg-id="beINSportsHD2.mena" tvg-name="beINSportsHD2.mena" tvg-logo="https://i.imgur.com/T5Wcof1.png" group-title="1. beIN Sports",beIN Sports 2 HD ARB
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/978.ts
+#EXTINF:-1 tvg-id="beINSportsHD2.mena" tvg-name="beINSportsHD2.mena" tvg-logo="https://i.imgur.com/T5Wcof1.png" group-title="1. beIN Sports",beIN Sports 2 HD HEVC VIP SPORTS
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/18800.ts
+#EXTINF:-1 tvg-id="beINSportsHD2.mena" tvg-name="beINSportsHD2.mena" tvg-logo="https://i.imgur.com/T5Wcof1.png" group-title="1. beIN Sports",beIN Sports 2 HD VIP ARB
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/6962.ts
+#EXTINF:-1 tvg-id="beINSportsHD2.mena" tvg-name="beINSportsHD2.mena" tvg-logo="https://i.imgur.com/T5Wcof1.png" group-title="1. beIN Sports",beIN Sports 2 HD VIP ARB
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/9542.ts
+#EXTINF:-1 tvg-id="beINSportsHD2.mena" tvg-name="beINSportsHD2.mena" tvg-logo="https://i.imgur.com/T5Wcof1.png" group-title="1. beIN Sports",beIN Sports 2 HD VIP SPORTS
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/18775.ts
+#EXTINF:-1 tvg-id="beINSportsHD2.mena" tvg-name="beINSportsHD2.mena" tvg-logo="https://i.imgur.com/T5Wcof1.png" group-title="1. beIN Sports",beIN Sports 2 SD VIP ARB
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/9541.ts
+#EXTINF:-1 tvg-id="beINSportsHD3.mena" tvg-name="beINSportsHD3.mena" tvg-logo="https://i.imgur.com/z7NUwBg.png" group-title="1. beIN Sports",beIN Sports 3 ARB
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/993.ts
+#EXTINF:-1 tvg-id="beINSportsHD3.mena" tvg-name="beINSportsHD3.mena" tvg-logo="https://i.imgur.com/z7NUwBg.png" group-title="1. beIN Sports",beIN Sports 3 FHD ARB
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/8774.ts
+#EXTINF:-1 tvg-id="beINSportsHD3.mena" tvg-name="beINSportsHD3.mena" tvg-logo="https://i.imgur.com/z7NUwBg.png" group-title="1. beIN Sports",beIN Sports 3 HD ARB
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/977.ts
+#EXTINF:-1 tvg-id="beINSportsHD3.mena" tvg-name="beINSportsHD3.mena" tvg-logo="https://i.imgur.com/z7NUwBg.png" group-title="1. beIN Sports",beIN Sports 3 HD HEVC VIP SPORTS
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/18796.ts
+#EXTINF:-1 tvg-id="beINSportsHD3.mena" tvg-name="beINSportsHD3.mena" tvg-logo="https://i.imgur.com/z7NUwBg.png" group-title="1. beIN Sports",beIN Sports 3 HD VIP ARB
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/6961.ts
+#EXTINF:-1 tvg-id="beINSportsHD3.mena" tvg-name="beINSportsHD3.mena" tvg-logo="https://i.imgur.com/z7NUwBg.png" group-title="1. beIN Sports",beIN Sports 3 HD VIP ARB
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/9540.ts
+#EXTINF:-1 tvg-id="beINSportsHD3.mena" tvg-name="beINSportsHD3.mena" tvg-logo="https://i.imgur.com/z7NUwBg.png" group-title="1. beIN Sports",beIN Sports 3 HD VIP SPORTS
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/18774.ts
+#EXTINF:-1 tvg-id="beINSportsHD3.mena" tvg-name="beINSportsHD3.mena" tvg-logo="https://i.imgur.com/z7NUwBg.png" group-title="1. beIN Sports",beIN Sports 3 HD VIP SPORTS
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/18797.ts
+#EXTINF:-1 tvg-id="beINSportsHD3.mena" tvg-name="beINSportsHD3.mena" tvg-logo="https://i.imgur.com/z7NUwBg.png" group-title="1. beIN Sports",beIN Sports 3 SD VIP ARB
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/9539.ts
+#EXTINF:-1 tvg-id="beINSportsHD4.mena" tvg-name="beINSportsHD4.mena" tvg-logo="https://i.imgur.com/AqeI9rE.png" group-title="1. beIN Sports",beIN Sports 4 ARB
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/992.ts
+#EXTINF:-1 tvg-id="beINSportsHD4.mena" tvg-name="beINSportsHD4.mena" tvg-logo="https://i.imgur.com/AqeI9rE.png" group-title="1. beIN Sports",beIN Sports 4 FHD ARB
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/8773.ts
+#EXTINF:-1 tvg-id="beINSportsHD4.mena" tvg-name="beINSportsHD4.mena" tvg-logo="https://i.imgur.com/AqeI9rE.png" group-title="1. beIN Sports",beIN Sports 4 HD ARB
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/976.ts
+#EXTINF:-1 tvg-id="beINSportsHD4.mena" tvg-name="beINSportsHD4.mena" tvg-logo="https://i.imgur.com/AqeI9rE.png" group-title="1. beIN Sports",beIN Sports 4 HD HEVC VIP SPORTS
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/18792.ts
+#EXTINF:-1 tvg-id="beINSportsHD4.mena" tvg-name="beINSportsHD4.mena" tvg-logo="https://i.imgur.com/AqeI9rE.png" group-title="1. beIN Sports",beIN Sports 4 HD VIP ARB
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/6960.ts
+#EXTINF:-1 tvg-id="beINSportsHD4.mena" tvg-name="beINSportsHD4.mena" tvg-logo="https://i.imgur.com/AqeI9rE.png" group-title="1. beIN Sports",beIN Sports 4 HD VIP ARB
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/9538.ts
+#EXTINF:-1 tvg-id="beINSportsHD4.mena" tvg-name="beINSportsHD4.mena" tvg-logo="https://i.imgur.com/AqeI9rE.png" group-title="1. beIN Sports",beIN Sports 4 HD VIP SPORTS
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/18793.ts
+#EXTINF:-1 tvg-id="beINSportsHD4.mena" tvg-name="beINSportsHD4.mena" tvg-logo="https://i.imgur.com/AqeI9rE.png" group-title="1. beIN Sports",beIN Sports 4 HD VIP SPORTS
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/18773.ts
+#EXTINF:-1 tvg-id="beINSportsHD4.mena" tvg-name="beINSportsHD4.mena" tvg-logo="https://i.imgur.com/AqeI9rE.png" group-title="1. beIN Sports",beIN Sports 4 SD VIP ARB
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/9537.ts
+#EXTINF:-1 tvg-id="beINSportsHD5.mena" tvg-name="beINSportsHD5.mena" tvg-logo="https://i.imgur.com/jV6qnVA.png" group-title="1. beIN Sports",beIN Sports 5 ARB
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/991.ts
+#EXTINF:-1 tvg-id="beINSportsHD5.mena" tvg-name="beINSportsHD5.mena" tvg-logo="https://i.imgur.com/jV6qnVA.png" group-title="1. beIN Sports",beIN Sports 5 FHD ARB
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/8772.ts
+#EXTINF:-1 tvg-id="beINSportsHD5.mena" tvg-name="beINSportsHD5.mena" tvg-logo="https://i.imgur.com/jV6qnVA.png" group-title="1. beIN Sports",beIN Sports 5 HD ARB
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/975.ts
+#EXTINF:-1 tvg-id="beINSportsHD5.mena" tvg-name="beINSportsHD5.mena" tvg-logo="https://i.imgur.com/jV6qnVA.png" group-title="1. beIN Sports",beIN Sports 5 HD HEVC VIP SPORTS
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/18789.ts
+#EXTINF:-1 tvg-id="beINSportsHD5.mena" tvg-name="beINSportsHD5.mena" tvg-logo="https://i.imgur.com/jV6qnVA.png" group-title="1. beIN Sports",beIN Sports 5 HD VIP ARB
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/6959.ts
+#EXTINF:-1 tvg-id="beINSportsHD5.mena" tvg-name="beINSportsHD5.mena" tvg-logo="https://i.imgur.com/jV6qnVA.png" group-title="1. beIN Sports",beIN Sports 5 HD VIP ARB
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/9536.ts
+#EXTINF:-1 tvg-id="beINSportsHD5.mena" tvg-name="beINSportsHD5.mena" tvg-logo="https://i.imgur.com/jV6qnVA.png" group-title="1. beIN Sports",beIN Sports 5 HD VIP SPORTS
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/18790.ts
+#EXTINF:-1 tvg-id="beINSportsHD5.mena" tvg-name="beINSportsHD5.mena" tvg-logo="https://i.imgur.com/jV6qnVA.png" group-title="1. beIN Sports",beIN Sports 5 HD VIP SPORTS
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/18772.ts
+#EXTINF:-1 tvg-id="beINSportsHD5.mena" tvg-name="beINSportsHD5.mena" tvg-logo="https://i.imgur.com/jV6qnVA.png" group-title="1. beIN Sports",beIN Sports 5 SD VIP ARB
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/9535.ts
+#EXTINF:-1 tvg-id="beINSportsHD6.mena" tvg-name="beINSportsHD6.mena" tvg-logo="https://i.imgur.com/EOXTKZp.png" group-title="1. beIN Sports",beIN Sports 6 ARB
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/990.ts
+#EXTINF:-1 tvg-id="beINSportsHD6.mena" tvg-name="beINSportsHD6.mena" tvg-logo="https://i.imgur.com/EOXTKZp.png" group-title="1. beIN Sports",beIN Sports 6 FHD ARB
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/8771.ts
+#EXTINF:-1 tvg-id="beINSportsHD6.mena" tvg-name="beINSportsHD6.mena" tvg-logo="https://i.imgur.com/EOXTKZp.png" group-title="1. beIN Sports",beIN Sports 6 HD ARB
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/974.ts
+#EXTINF:-1 tvg-id="beINSportsHD6.mena" tvg-name="beINSportsHD6.mena" tvg-logo="https://i.imgur.com/EOXTKZp.png" group-title="1. beIN Sports",beIN Sports 6 HD HEVC VIP SPORTS
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/18787.ts
+#EXTINF:-1 tvg-id="beINSportsHD6.mena" tvg-name="beINSportsHD6.mena" tvg-logo="https://i.imgur.com/EOXTKZp.png" group-title="1. beIN Sports",beIN Sports 6 HD VIP ARB
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/6958.ts
+#EXTINF:-1 tvg-id="beINSportsHD6.mena" tvg-name="beINSportsHD6.mena" tvg-logo="https://i.imgur.com/EOXTKZp.png" group-title="1. beIN Sports",beIN Sports 6 HD VIP ARB
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/9534.ts
+#EXTINF:-1 tvg-id="beINSportsHD6.mena" tvg-name="beINSportsHD6.mena" tvg-logo="https://i.imgur.com/EOXTKZp.png" group-title="1. beIN Sports",beIN Sports 6 HD VIP SPORTS
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/18788.ts
+#EXTINF:-1 tvg-id="beINSportsHD6.mena" tvg-name="beINSportsHD6.mena" tvg-logo="https://i.imgur.com/EOXTKZp.png" group-title="1. beIN Sports",beIN Sports 6 HD VIP SPORTS
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/18771.ts
+#EXTINF:-1 tvg-id="beINSportsHD6.mena" tvg-name="beINSportsHD6.mena" tvg-logo="https://i.imgur.com/EOXTKZp.png" group-title="1. beIN Sports",beIN Sports 6 SD VIP ARB
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/9533.ts
+#EXTINF:-1 tvg-id="beINSportsHD7.mena" tvg-name="beINSportsHD7.mena" tvg-logo="https://i.imgur.com/QALjVHH.png" group-title="1. beIN Sports",beIN Sports 7 ARB
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/989.ts
+#EXTINF:-1 tvg-id="beINSportsHD7.mena" tvg-name="beINSportsHD7.mena" tvg-logo="https://i.imgur.com/QALjVHH.png" group-title="1. beIN Sports",beIN Sports 7 FHD ARB
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/8770.ts
+#EXTINF:-1 tvg-id="beINSportsHD7.mena" tvg-name="beINSportsHD7.mena" tvg-logo="https://i.imgur.com/QALjVHH.png" group-title="1. beIN Sports",beIN Sports 7 HD ARB
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/973.ts
+#EXTINF:-1 tvg-id="beINSportsHD7.mena" tvg-name="beINSportsHD7.mena" tvg-logo="https://i.imgur.com/QALjVHH.png" group-title="1. beIN Sports",beIN Sports 7 HD HEVC VIP SPORTS
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/18785.ts
+#EXTINF:-1 tvg-id="beINSportsHD7.mena" tvg-name="beINSportsHD7.mena" tvg-logo="https://i.imgur.com/QALjVHH.png" group-title="1. beIN Sports",beIN Sports 7 HD VIP ARB
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/6957.ts
+#EXTINF:-1 tvg-id="beINSportsHD7.mena" tvg-name="beINSportsHD7.mena" tvg-logo="https://i.imgur.com/QALjVHH.png" group-title="1. beIN Sports",beIN Sports 7 HD VIP ARB
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/9532.ts
+#EXTINF:-1 tvg-id="beINSportsHD7.mena" tvg-name="beINSportsHD7.mena" tvg-logo="https://i.imgur.com/QALjVHH.png" group-title="1. beIN Sports",beIN Sports 7 HD VIP SPORTS
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/18786.ts
+#EXTINF:-1 tvg-id="beINSportsHD7.mena" tvg-name="beINSportsHD7.mena" tvg-logo="https://i.imgur.com/QALjVHH.png" group-title="1. beIN Sports",beIN Sports 7 HD VIP SPORTS
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/18770.ts
+#EXTINF:-1 tvg-id="beINSportsHD7.mena" tvg-name="beINSportsHD7.mena" tvg-logo="https://i.imgur.com/QALjVHH.png" group-title="1. beIN Sports",beIN Sports 7 SD VIP ARB
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/9531.ts
+#EXTINF:-1 tvg-id="beINSportsHD8.mena" tvg-name="beINSportsHD8.mena" tvg-logo="https://i.imgur.com/JnsCCwM.png" group-title="1. beIN Sports",beIN Sports 8 ARB
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/988.ts
+#EXTINF:-1 tvg-id="beINSportsHD8.mena" tvg-name="beINSportsHD8.mena" tvg-logo="https://i.imgur.com/JnsCCwM.png" group-title="1. beIN Sports",beIN Sports 8 FHD ARB
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/8769.ts
+#EXTINF:-1 tvg-id="beINSportsHD8.mena" tvg-name="beINSportsHD8.mena" tvg-logo="https://i.imgur.com/JnsCCwM.png" group-title="1. beIN Sports",beIN Sports 8 HD ARB
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/972.ts
+#EXTINF:-1 tvg-id="beINSportsHD8.mena" tvg-name="beINSportsHD8.mena" tvg-logo="https://i.imgur.com/JnsCCwM.png" group-title="1. beIN Sports",beIN Sports 8 HD HEVC VIP SPORTS
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/18783.ts
+#EXTINF:-1 tvg-id="beINSportsHD8.mena" tvg-name="beINSportsHD8.mena" tvg-logo="https://i.imgur.com/JnsCCwM.png" group-title="1. beIN Sports",beIN Sports 8 HD VIP ARB
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/6956.ts
+#EXTINF:-1 tvg-id="beINSportsHD8.mena" tvg-name="beINSportsHD8.mena" tvg-logo="https://i.imgur.com/JnsCCwM.png" group-title="1. beIN Sports",beIN Sports 8 HD VIP ARB
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/9530.ts
+#EXTINF:-1 tvg-id="beINSportsHD8.mena" tvg-name="beINSportsHD8.mena" tvg-logo="https://i.imgur.com/JnsCCwM.png" group-title="1. beIN Sports",beIN Sports 8 HD VIP SPORTS
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/18784.ts
+#EXTINF:-1 tvg-id="beINSportsHD8.mena" tvg-name="beINSportsHD8.mena" tvg-logo="https://i.imgur.com/JnsCCwM.png" group-title="1. beIN Sports",beIN Sports 8 HD VIP SPORTS
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/18769.ts
+#EXTINF:-1 tvg-id="beINSportsHD8.mena" tvg-name="beINSportsHD8.mena" tvg-logo="https://i.imgur.com/JnsCCwM.png" group-title="1. beIN Sports",beIN Sports 8 SD VIP ARB
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/9529.ts
+#EXTINF:-1 tvg-id="beINSportsHD9.mena" tvg-name="beINSportsHD9.mena" tvg-logo="https://i.imgur.com/NRZPfUb.png" group-title="1. beIN Sports",beIN Sports 9 ARB
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/987.ts
+#EXTINF:-1 tvg-id="beINSportsHD9.mena" tvg-name="beINSportsHD9.mena" tvg-logo="https://i.imgur.com/NRZPfUb.png" group-title="1. beIN Sports",beIN Sports 9 FHD ARB
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/8768.ts
+#EXTINF:-1 tvg-id="beINSportsHD9.mena" tvg-name="beINSportsHD9.mena" tvg-logo="https://i.imgur.com/NRZPfUb.png" group-title="1. beIN Sports",beIN Sports 9 HD ARB
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/971.ts
+#EXTINF:-1 tvg-id="beINSportsHD9.mena" tvg-name="beINSportsHD9.mena" tvg-logo="https://i.imgur.com/NRZPfUb.png" group-title="1. beIN Sports",beIN Sports 9 HD HEVC VIP SPORTS
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/18781.ts
+#EXTINF:-1 tvg-id="beINSportsHD9.mena" tvg-name="beINSportsHD9.mena" tvg-logo="https://i.imgur.com/NRZPfUb.png" group-title="1. beIN Sports",beIN Sports 9 HD VIP ARB
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/6955.ts
+#EXTINF:-1 tvg-id="beINSportsHD9.mena" tvg-name="beINSportsHD9.mena" tvg-logo="https://i.imgur.com/NRZPfUb.png" group-title="1. beIN Sports",beIN Sports 9 HD VIP ARB
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/9528.ts
+#EXTINF:-1 tvg-id="beINSportsHD9.mena" tvg-name="beINSportsHD9.mena" tvg-logo="https://i.imgur.com/NRZPfUb.png" group-title="1. beIN Sports",beIN Sports 9 HD VIP SPORTS
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/18782.ts
+#EXTINF:-1 tvg-id="beINSportsHD9.mena" tvg-name="beINSportsHD9.mena" tvg-logo="https://i.imgur.com/NRZPfUb.png" group-title="1. beIN Sports",beIN Sports 9 HD VIP SPORTS
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/18768.ts
+#EXTINF:-1 tvg-id="beINSportsHD9.mena" tvg-name="beINSportsHD9.mena" tvg-logo="https://i.imgur.com/NRZPfUb.png" group-title="1. beIN Sports",beIN Sports 9 SD VIP ARB
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/9527.ts
+#EXTINF:-1 tvg-id="beINSportsHD10.mena" tvg-name="beINSportsHD10.mena" tvg-logo="https://i.imgur.com/hRloNYo.png" group-title="1. beIN Sports",beIN Sports10 ARB
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/986.ts
+#EXTINF:-1 tvg-id="beINSportsHD10.mena" tvg-name="beINSportsHD10.mena" tvg-logo="https://i.imgur.com/hRloNYo.png" group-title="1. beIN Sports",beIN Sports10 FHD ARB
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/8767.ts
+#EXTINF:-1 tvg-id="beINSportsHD10.mena" tvg-name="beINSportsHD10.mena" tvg-logo="https://i.imgur.com/hRloNYo.png" group-title="1. beIN Sports",beIN Sports10 HD ARB
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/970.ts
+#EXTINF:-1 tvg-id="beINSportsHD10.mena" tvg-name="beINSportsHD10.mena" tvg-logo="https://i.imgur.com/hRloNYo.png" group-title="1. beIN Sports",beIN Sports10 HD HEVC VIP SPORTS
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/18780.ts
+#EXTINF:-1 tvg-id="beINSportsHD10.mena" tvg-name="beINSportsHD10.mena" tvg-logo="https://i.imgur.com/hRloNYo.png" group-title="1. beIN Sports",beIN Sports10 HD VIP ARB
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/6954.ts
+#EXTINF:-1 tvg-id="beINSportsHD10.mena" tvg-name="beINSportsHD10.mena" tvg-logo="https://i.imgur.com/hRloNYo.png" group-title="1. beIN Sports",beIN Sports10 HD VIP ARB
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/9526.ts
+#EXTINF:-1 tvg-id="beINSportsHD10.mena" tvg-name="beINSportsHD10.mena" tvg-logo="https://i.imgur.com/hRloNYo.png" group-title="1. beIN Sports",beIN Sports10 HD VIP SPORTS
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/18767.ts
+#EXTINF:-1 tvg-id="beINSportsHD10.mena" tvg-name="beINSportsHD10.mena" tvg-logo="https://i.imgur.com/hRloNYo.png" group-title="1. beIN Sports",beIN Sports10 SD VIP ARB
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/9525.ts
+#EXTINF:-1 tvg-id="beINSportsHD11.mena" tvg-name="beINSportsHD11.mena" tvg-logo="https://i.imgur.com/wMorgum.png" group-title="1. beIN Sports",beIN Sports11 ARB
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/985.ts
+#EXTINF:-1 tvg-id="beINSportsHD11.mena" tvg-name="beINSportsHD11.mena" tvg-logo="https://i.imgur.com/wMorgum.png" group-title="1. beIN Sports",beIN Sports11 HD ARB
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/969.ts
+#EXTINF:-1 tvg-id="beINSportsHD11.mena" tvg-name="beINSportsHD11.mena" tvg-logo="https://i.imgur.com/wMorgum.png" group-title="1. beIN Sports",beIN Sports11 HD VIP ARB
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/9524.ts
+#EXTINF:-1 tvg-id="beINSportsHD11.mena" tvg-name="beINSportsHD11.mena" tvg-logo="https://i.imgur.com/wMorgum.png" group-title="1. beIN Sports",beIN Sports11 HD VIP SPORTS
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/18766.ts
+#EXTINF:-1 tvg-id="beINSportsHD12.mena" tvg-name="beINSportsHD12.mena" tvg-logo="https://i.imgur.com/0bS5H8w.png" group-title="1. beIN Sports",beIN Sports12 ARB
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/984.ts
+#EXTINF:-1 tvg-id="beINSportsHD12.mena" tvg-name="beINSportsHD12.mena" tvg-logo="https://i.imgur.com/0bS5H8w.png" group-title="1. beIN Sports",beIN Sports12 HD ARB
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/968.ts
+#EXTINF:-1 tvg-id="beINSportsHD12.mena" tvg-name="beINSportsHD12.mena" tvg-logo="https://i.imgur.com/0bS5H8w.png" group-title="1. beIN Sports",beIN Sports12 HD VIP ARB
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/9523.ts
+#EXTINF:-1 tvg-id="beINSportsHD12.mena" tvg-name="beINSportsHD12.mena" tvg-logo="https://i.imgur.com/0bS5H8w.png" group-title="1. beIN Sports",beIN Sports12 HD VIP SPORTS
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/18765.ts
+#EXTINF:-1 tvg-id="beINSportsHD13.mena" tvg-name="beINSportsHD13.mena" tvg-logo="https://i.imgur.com/miuSo4A.png" group-title="1. beIN Sports",beIN Sports13 HD VIP ARB
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/9522.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ABS CBN NEWS PH" tvg-logo="" group-title="Philippines",ABS CBN NEWS PH
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/24205.ts
+#EXTINF:-1 tvg-id="" tvg-name="ABS CBN PH" tvg-logo="" group-title="Philippines",ABS CBN PH
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/24206.ts
+#EXTINF:-1 tvg-id="" tvg-name="ANC PH" tvg-logo="" group-title="Philippines",ANC PH
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/24204.ts
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET PH" tvg-logo="" group-title="Philippines",ANIMAL PLANET PH
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/24203.ts
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAX PH" tvg-logo="" group-title="Philippines",ANIMAX PH
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/24202.ts
+#EXTINF:-1 tvg-id="" tvg-name="ANIPLUS PH" tvg-logo="" group-title="Philippines",ANIPLUS PH
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/24201.ts
+#EXTINF:-1 tvg-id="" tvg-name="ASIA NEWS PH" tvg-logo="" group-title="Philippines",ASIA NEWS PH
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/24200.ts
+#EXTINF:-1 tvg-id="" tvg-name="ASIAN FOOD PH" tvg-logo="" group-title="Philippines",ASIAN FOOD PH
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/24166.ts
+#EXTINF:-1 tvg-id="" tvg-name="AXN PH" tvg-logo="" group-title="Philippines",AXN PH
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/24199.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1 HD PH" tvg-logo="" group-title="Philippines",BEIN SPORTS 1 HD PH
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/24198.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2 HD PH" tvg-logo="" group-title="Philippines",BEIN SPORTS 2 HD PH
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/24197.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3 HD PH" tvg-logo="" group-title="Philippines",BEIN SPORTS 3 HD PH
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/24196.ts
+#EXTINF:-1 tvg-id="" tvg-name="BLUE ANT ENTER PH" tvg-logo="" group-title="Philippines",BLUE ANT ENTER PH
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/24195.ts
+#EXTINF:-1 tvg-id="" tvg-name="BLUE ANT EXT PH" tvg-logo="" group-title="Philippines",BLUE ANT EXT PH
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/24194.ts
+#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK PH" tvg-logo="" group-title="Philippines",CARTOON NETWORK PH
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/24193.ts
+#EXTINF:-1 tvg-id="" tvg-name="CLASSIC MOVIES PH" tvg-logo="" group-title="Philippines",CLASSIC MOVIES PH
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/24192.ts
+#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL PH" tvg-logo="" group-title="Philippines",COMEDY CENTRAL PH
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/24191.ts
+#EXTINF:-1 tvg-id="" tvg-name="CRIME INVESTIGATION PH" tvg-logo="" group-title="Philippines",CRIME INVESTIGATION PH
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/24190.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY ASIA WORLD PH" tvg-logo="" group-title="Philippines",DISCOVERY ASIA WORLD PH
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/24189.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY CH PH" tvg-logo="" group-title="Philippines",DISNEY CH PH
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/24188.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY JR PH" tvg-logo="" group-title="Philippines",DISNEY JR PH
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/24187.ts
+#EXTINF:-1 tvg-id="" tvg-name="DZMM TELERADYO PH" tvg-logo="" group-title="Philippines",DZMM TELERADYO PH
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/24186.ts
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT PH" tvg-logo="" group-title="Philippines",EUROSPORT PH
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/24185.ts
+#EXTINF:-1 tvg-id="" tvg-name="FIY PH" tvg-logo="" group-title="Philippines",FIY PH
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/24184.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOOD NETWORK PH" tvg-logo="" group-title="Philippines",FOOD NETWORK PH
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/24183.ts
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY 1 PH" tvg-logo="" group-title="Philippines",HISTORY 1 PH
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/24182.ts
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY 2 PH" tvg-logo="" group-title="Philippines",HISTORY 2 PH
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/24181.ts
+#EXTINF:-1 tvg-id="" tvg-name="HITS PH" tvg-logo="" group-title="Philippines",HITS PH
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/24180.ts
+#EXTINF:-1 tvg-id="" tvg-name="LIFETIME CHANNEL PH" tvg-logo="" group-title="Philippines",LIFETIME CHANNEL PH
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/24179.ts
+#EXTINF:-1 tvg-id="" tvg-name="LIVING ASIA PH" tvg-logo="" group-title="Philippines",LIVING ASIA PH
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/24178.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV ASIA PH" tvg-logo="" group-title="Philippines",MTV ASIA PH
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/24177.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV LIVE PH" tvg-logo="" group-title="Philippines",MTV LIVE PH
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/24176.ts
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO PH" tvg-logo="" group-title="Philippines",NAT GEO PH
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/24175.ts
+#EXTINF:-1 tvg-id="" tvg-name="NICK JR PH" tvg-logo="" group-title="Philippines",NICK JR PH
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/24174.ts
+#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON PH" tvg-logo="" group-title="Philippines",NICKELODEON PH
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/24173.ts
+#EXTINF:-1 tvg-id="" tvg-name="SONY PH" tvg-logo="" group-title="Philippines",SONY PH
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/24172.ts
+#EXTINF:-1 tvg-id="" tvg-name="TELENOVELA PH" tvg-logo="" group-title="Philippines",TELENOVELA PH
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/24171.ts
+#EXTINF:-1 tvg-id="" tvg-name="THRILL PH" tvg-logo="" group-title="Philippines",THRILL PH
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/24170.ts
+#EXTINF:-1 tvg-id="" tvg-name="TLC PH" tvg-logo="" group-title="Philippines",TLC PH
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/24169.ts
+#EXTINF:-1 tvg-id="" tvg-name="TRAVEL PH" tvg-logo="" group-title="Philippines",TRAVEL PH
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/24168.ts
+#EXTINF:-1 tvg-id="" tvg-name="WARNER TV PH" tvg-logo="" group-title="Philippines",WARNER TV PH
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/24167.ts
+
+#EXTINF:-1 tvg-id="4Music.uk" tvg-name="4Music.uk" tvg-logo="http://epg4you.com/logos/4music.png" group-title="UK Entertainment",4Music UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1936.ts
+#EXTINF:-1 tvg-id="4Music.uk" tvg-name="4Music.uk" tvg-logo="http://epg4you.com/logos/4music.png" group-title="UK Entertainment",4Music VIP UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/10775.ts
+#EXTINF:-1 tvg-id="4seven.uk" tvg-name="4seven.uk" tvg-logo="http://epg4you.com/logos/4seven.png" group-title="UK Entertainment",4Seven HD VIP UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/10882.ts
+#EXTINF:-1 tvg-id="4seven.uk" tvg-name="4seven.uk" tvg-logo="http://epg4you.com/logos/4seven.png" group-title="UK Entertainment",4Seven UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1937.ts
+#EXTINF:-1 tvg-id="4seven.uk" tvg-name="4seven.uk" tvg-logo="http://epg4you.com/logos/4seven.png" group-title="UK Entertainment",4Seven VIP UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/10641.ts
+#EXTINF:-1 tvg-id="Spike.uk" tvg-name="Spike.uk" tvg-logo="http://epg4you.com/logos/spike.png" group-title="UK Entertainment",5 Spike VIP UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/10774.ts
+#EXTINF:-1 tvg-id="5star.uk" tvg-name="5star.uk" tvg-logo="http://epg4you.com/logos/5star.png" group-title="UK Entertainment",5 Star VIP UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/10687.ts
+#EXTINF:-1 tvg-id="FiveUSA.uk" tvg-name="FiveUSA.uk" tvg-logo="http://epg4you.com/logos/5usa.png" group-title="UK Entertainment",5 USA VIP UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/10773.ts
+#EXTINF:-1 tvg-id="5star.uk" tvg-name="5star.uk" tvg-logo="http://epg4you.com/logos/5star.png" group-title="UK Entertainment",5Star UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1963.ts
+#EXTINF:-1 tvg-id="FiveUSA.uk" tvg-name="FiveUSA.uk" tvg-logo="http://epg4you.com/logos/5usa.png" group-title="UK Entertainment",5USA UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1964.ts
+#EXTINF:-1 tvg-id="Alibiplus1.uk" tvg-name="Alibiplus1.uk" tvg-logo="http://epg4you.com/logos/alibiplus1.png" group-title="UK Entertainment",Alibi +1 VIP UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/10771.ts
+#EXTINF:-1 tvg-id="Alibi.uk" tvg-name="Alibi.uk" tvg-logo="http://epg4you.com/logos/alibihd.png" group-title="UK Entertainment",Alibi FHD VIP UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/10881.ts
+#EXTINF:-1 tvg-id="Alibi.uk" tvg-name="Alibi.uk" tvg-logo="http://epg4you.com/logos/alibihd.png" group-title="UK Entertainment",Alibi UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1916.ts
+#EXTINF:-1 tvg-id="Alibi.uk" tvg-name="Alibi.uk" tvg-logo="http://epg4you.com/logos/alibihd.png" group-title="UK Entertainment",Alibi VIP UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/10753.ts
+#EXTINF:-1 tvg-id="AMC.uk" tvg-name="AMC.uk" tvg-logo="http://epg4you.com/logos/amchd.png" group-title="UK Entertainment",AMC from BT HD VIP UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/11143.ts
+#EXTINF:-1 tvg-id="AMC.uk" tvg-name="AMC.uk" tvg-logo="http://epg4you.com/logos/amchd.png" group-title="UK Entertainment",AMC From BT UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1892.ts
+#EXTINF:-1 tvg-id="AMC.uk" tvg-name="AMC.uk" tvg-logo="http://epg4you.com/logos/amchd.png" group-title="UK Entertainment",AMC HD VIP UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/10772.ts
+#EXTINF:-1 tvg-id="AnimalPlanetplus1.uk" tvg-name="AnimalPlanetplus1.uk" tvg-logo="http://epg4you.com/logos/animalplanethdplus1.png" group-title="UK Entertainment",Animal Planet +1 UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1878.ts
+#EXTINF:-1 tvg-id="AnimalPlanet.uk" tvg-name="AnimalPlanet.uk" tvg-logo="http://epg4you.com/logos/animalplanet.png" group-title="UK Entertainment",Animal Planet FHD VIP UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/10880.ts
+#EXTINF:-1 tvg-id="AnimalPlanet.uk" tvg-name="AnimalPlanet.uk" tvg-logo="http://epg4you.com/logos/animalplanet.png" group-title="UK Entertainment",Animal Planet UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1879.ts
+#EXTINF:-1 tvg-id="AnimalPlanetHD.uk" tvg-name="AnimalPlanetHD.uk" tvg-logo="http://epg4you.com/logos/animalplanethd.png" group-title="UK Entertainment",Animal Planet VIP UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/10770.ts
+#EXTINF:-1 tvg-id="AtTheRaces.uk" tvg-name="AtTheRaces.uk" tvg-logo="http://epg4you.com/logos/attheraces.png" group-title="UK Entertainment",AT THE RACES UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1801.ts
+#EXTINF:-1 tvg-id="BBCAlba.uk" tvg-name="BBCAlba.uk" tvg-logo="http://epg4you.com/logos/bbcalba.png" group-title="UK Entertainment",BBC Alba UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/5739.ts
+#EXTINF:-1 tvg-id="BBCAlba.uk" tvg-name="BBCAlba.uk" tvg-logo="http://epg4you.com/logos/bbcalba.png" group-title="UK Entertainment",BBC Alba VIP UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/10735.ts
+#EXTINF:-1 tvg-id="BBC4.uk" tvg-name="BBC4.uk" tvg-logo="http://epg4you.com/logos/bbcfour.png" group-title="UK Entertainment",BBC Four HD UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1990.ts
+#EXTINF:-1 tvg-id="BBC4.uk" tvg-name="BBC4.uk" tvg-logo="http://epg4you.com/logos/bbcfour.png" group-title="UK Entertainment",BBC Four HD VIP UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/10818.ts
+#EXTINF:-1 tvg-id="BBC4.uk" tvg-name="BBC4.uk" tvg-logo="http://epg4you.com/logos/bbcfour.png" group-title="UK Entertainment",BBC Four UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1989.ts
+#EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBCNews.uk" tvg-logo="http://epg4you.com/logos/bbcnews.png" group-title="UK Entertainment",BBC News Channel HD VIP UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/10817.ts
+#EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBCNews.uk" tvg-logo="http://epg4you.com/logos/bbcnews.png" group-title="UK Entertainment",BBC News FHD VIP UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/10879.ts
+#EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBCNews.uk" tvg-logo="http://epg4you.com/logos/bbcnews.png" group-title="UK Entertainment",BBC News HD UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1777.ts
+#EXTINF:-1 tvg-id="BBC1.uk" tvg-name="BBC1.uk" tvg-logo="http://epg4you.com/logos/bbcone.png" group-title="UK Entertainment",BBC One Cambridge VIP UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/10768.ts
+#EXTINF:-1 tvg-id="BBC1.uk" tvg-name="BBC1.uk" tvg-logo="http://epg4you.com/logos/bbcone.png" group-title="UK Entertainment",BBC One Channel Islands UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1776.ts
+#EXTINF:-1 tvg-id="BBC1.uk" tvg-name="BBC1.uk" tvg-logo="http://epg4you.com/logos/bbcone.png" group-title="UK Entertainment",BBC One East Midlands VIP UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/10756.ts
+#EXTINF:-1 tvg-id="BBC1.uk" tvg-name="BBC1.uk" tvg-logo="http://epg4you.com/logos/bbcone.png" group-title="UK Entertainment",BBC One East VIP UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/10725.ts
+#EXTINF:-1 tvg-id="BBC1.uk" tvg-name="BBC1.uk" tvg-logo="http://epg4you.com/logos/bbcone.png" group-title="UK Entertainment",BBC One East Yorkshire VIP UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/10767.ts
+#EXTINF:-1 tvg-id="BBC1.uk" tvg-name="BBC1.uk" tvg-logo="http://epg4you.com/logos/bbcone.png" group-title="UK Entertainment",BBC One FHD UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1999.ts
+#EXTINF:-1 tvg-id="BBC1.uk" tvg-name="BBC1.uk" tvg-logo="http://epg4you.com/logos/bbcone.png" group-title="UK Entertainment",BBC One HD UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1998.ts
+#EXTINF:-1 tvg-id="BBC1.uk" tvg-name="BBC1.uk" tvg-logo="http://epg4you.com/logos/bbcone.png" group-title="UK Entertainment",BBC One HD VIP UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/10769.ts
+#EXTINF:-1 tvg-id="BBC1.uk" tvg-name="BBC1.uk" tvg-logo="http://epg4you.com/logos/bbcone.png" group-title="UK Entertainment",BBC One London VIP UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/10715.ts
+#EXTINF:-1 tvg-id="BBC1.uk" tvg-name="BBC1.uk" tvg-logo="http://epg4you.com/logos/bbcone.png" group-title="UK Entertainment",BBC One North East VIP UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/10746.ts
+#EXTINF:-1 tvg-id="BBC1.uk" tvg-name="BBC1.uk" tvg-logo="http://epg4you.com/logos/bbcone.png" group-title="UK Entertainment",BBC One North West VIP UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/10766.ts
+#EXTINF:-1 tvg-id="BBC1.uk" tvg-name="BBC1.uk" tvg-logo="http://epg4you.com/logos/bbcone.png" group-title="UK Entertainment",BBC One Northern Ireland FHD UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/2001.ts
+#EXTINF:-1 tvg-id="BBC1.uk" tvg-name="BBC1.uk" tvg-logo="http://epg4you.com/logos/bbcone.png" group-title="UK Entertainment",BBC One Northern Ireland UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/2000.ts
+#EXTINF:-1 tvg-id="BBC1NIreland.uk" tvg-name="BBC1NIreland.uk" tvg-logo="http://epg4you.com/logos/bbcone.png" group-title="UK Entertainment",BBC One Nothern Ireland VIP UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/10765.ts
+#EXTINF:-1 tvg-id="BBC1.uk" tvg-name="BBC1.uk" tvg-logo="http://epg4you.com/logos/bbcone.png" group-title="UK Entertainment",BBC One Oxford UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1775.ts
+#EXTINF:-1 tvg-id="BBC1.uk" tvg-name="BBC1.uk" tvg-logo="http://epg4you.com/logos/bbcone.png" group-title="UK Entertainment",BBC One Oxford VIP UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/10701.ts
+#EXTINF:-1 tvg-id="BBC1Scotland.uk" tvg-name="BBC1Scotland.uk" tvg-logo="http://epg4you.com/logos/bbcone.png" group-title="UK Entertainment",BBC One Scotland FHD UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/5732.ts
+#EXTINF:-1 tvg-id="BBC1Scotland.uk" tvg-name="BBC1Scotland.uk" tvg-logo="http://epg4you.com/logos/bbcone.png" group-title="UK Entertainment",BBC One Scotland HD VIP UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/10816.ts
+#EXTINF:-1 tvg-id="BBC1.uk" tvg-name="BBC1.uk" tvg-logo="http://epg4you.com/logos/bbcone.png" group-title="UK Entertainment",BBC One Scotland UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1786.ts
+#EXTINF:-1 tvg-id="BBC1.uk" tvg-name="BBC1.uk" tvg-logo="http://epg4you.com/logos/bbcone.png" group-title="UK Entertainment",BBC One South East VIP UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/10740.ts
+#EXTINF:-1 tvg-id="BBC1.uk" tvg-name="BBC1.uk" tvg-logo="http://epg4you.com/logos/bbcone.png" group-title="UK Entertainment",BBC One South VIP UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/10757.ts
+#EXTINF:-1 tvg-id="BBC1.uk" tvg-name="BBC1.uk" tvg-logo="http://epg4you.com/logos/bbcone.png" group-title="UK Entertainment",BBC One South West VIP UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/10761.ts
+#EXTINF:-1 tvg-id="BBC1.uk" tvg-name="BBC1.uk" tvg-logo="http://epg4you.com/logos/bbcone.png" group-title="UK Entertainment",BBC One UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1997.ts
+#EXTINF:-1 tvg-id="BBC1Wales.uk" tvg-name="BBC1Wales.uk" tvg-logo="http://epg4you.com/logos/bbcone.png" group-title="UK Entertainment",BBC One Wales HD VIP UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/10764.ts
+#EXTINF:-1 tvg-id="BBC1.uk" tvg-name="BBC1.uk" tvg-logo="http://epg4you.com/logos/bbcone.png" group-title="UK Entertainment",BBC One Wales UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/2002.ts
+#EXTINF:-1 tvg-id="BBC1.uk" tvg-name="BBC1.uk" tvg-logo="http://epg4you.com/logos/bbcone.png" group-title="UK Entertainment",BBC One West Midlands VIP UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/10762.ts
+#EXTINF:-1 tvg-id="BBC1.uk" tvg-name="BBC1.uk" tvg-logo="http://epg4you.com/logos/bbcone.png" group-title="UK Entertainment",BBC One West VIP UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/10760.ts
+#EXTINF:-1 tvg-id="BBC1.uk" tvg-name="BBC1.uk" tvg-logo="http://epg4you.com/logos/bbcone.png" group-title="UK Entertainment",BBC One Yorks UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1774.ts
+#EXTINF:-1 tvg-id="BBC1.uk" tvg-name="BBC1.uk" tvg-logo="http://epg4you.com/logos/bbcone.png" group-title="UK Entertainment",BBC One Yorks VIP UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/10759.ts
+#EXTINF:-1 tvg-id="BBCParliament.uk" tvg-name="BBCParliament.uk" tvg-logo="http://epg4you.com/logos/bbcparliament.png" group-title="UK Entertainment",BBC Parliament UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/2003.ts
+#EXTINF:-1 tvg-id="BBCParliament.uk" tvg-name="BBCParliament.uk" tvg-logo="http://epg4you.com/logos/bbcparliament.png" group-title="UK Entertainment",BBC Parliament VIP UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/10763.ts
+#EXTINF:-1 tvg-id="BBC2.uk" tvg-name="BBC2.uk" tvg-logo="http://epg4you.com/logos/bbctwo.png" group-title="UK Entertainment",BBC Two England HD VIP UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/10815.ts
+#EXTINF:-1 tvg-id="BBC2.uk" tvg-name="BBC2.uk" tvg-logo="http://epg4you.com/logos/bbctwo.png" group-title="UK Entertainment",BBC Two FHD UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1996.ts
+#EXTINF:-1 tvg-id="BBC2.uk" tvg-name="BBC2.uk" tvg-logo="http://epg4you.com/logos/bbctwo.png" group-title="UK Entertainment",BBC Two HD UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1995.ts
+#EXTINF:-1 tvg-id="BBC2.uk" tvg-name="BBC2.uk" tvg-logo="http://epg4you.com/logos/bbctwo.png" group-title="UK Entertainment",BBC Two HD VIP UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/10814.ts
+#EXTINF:-1 tvg-id="BBC2NIreland.uk" tvg-name="BBC2NIreland.uk" tvg-logo="http://epg4you.com/logos/bbctwo.png" group-title="UK Entertainment",BBC Two Nothern Ireland VIP UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/10758.ts
+#EXTINF:-1 tvg-id="BBC2.uk" tvg-name="BBC2.uk" tvg-logo="http://epg4you.com/logos/bbctwo.png" group-title="UK Entertainment",BBC Two Scotland UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/2004.ts
+#EXTINF:-1 tvg-id="BBC2Scotland.uk" tvg-name="BBC2Scotland.uk" tvg-logo="http://epg4you.com/logos/bbctwo.png" group-title="UK Entertainment",BBC Two Scotland VIP UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/10754.ts
+#EXTINF:-1 tvg-id="BBC2.uk" tvg-name="BBC2.uk" tvg-logo="http://epg4you.com/logos/bbctwo.png" group-title="UK Entertainment",BBC Two UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1994.ts
+#EXTINF:-1 tvg-id="BBC2Wales.uk" tvg-name="BBC2Wales.uk" tvg-logo="http://epg4you.com/logos/bbctwo.png" group-title="UK Entertainment",BBC Two Wales VIP UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/10755.ts
+#EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBCNews.uk" tvg-logo="http://epg4you.com/logos/bbcnews.png" group-title="UK Entertainment",BBC World News UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/2006.ts
+#EXTINF:-1 tvg-id="Blaze.uk" tvg-name="Blaze.uk" tvg-logo="http://epg4you.com/logos/blaze.png" group-title="UK Entertainment",Blaze UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1787.ts
+#EXTINF:-1 tvg-id="Blaze.uk" tvg-name="Blaze.uk" tvg-logo="http://epg4you.com/logos/blaze.png" group-title="UK Entertainment",Blaze VIP UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/10739.ts
+#EXTINF:-1 tvg-id="Bloomberg.uk" tvg-name="Bloomberg.uk" tvg-logo="http://epg4you.com/logos/bloomberg.png" group-title="UK Entertainment",Bloomberg TV UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1770.ts
+#EXTINF:-1 tvg-id="BoxHits.uk" tvg-name="BoxHits.uk" tvg-logo="http://epg4you.com/logos/boxhits.png" group-title="UK Entertainment",Box Hits UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1768.ts
+#EXTINF:-1 tvg-id="CapitalTV.uk" tvg-name="CapitalTV.uk" tvg-logo="http://195.154.221.171/picons/capitaltvuk.png" group-title="UK Entertainment",CAPITAL TV UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1778.ts
+#EXTINF:-1 tvg-id="CBSAction.uk" tvg-name="CBSAction.uk" tvg-logo="http://epg4you.com/logos/cbsaction.png" group-title="UK Entertainment",CBS Action UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1909.ts
+#EXTINF:-1 tvg-id="CBSAction.uk" tvg-name="CBSAction.uk" tvg-logo="http://epg4you.com/logos/cbsaction.png" group-title="UK Entertainment",CBS Action VIP UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/10698.ts
+#EXTINF:-1 tvg-id="CBSDrama.uk" tvg-name="CBSDrama.uk" tvg-logo="http://epg4you.com/logos/cbsdrama.png" group-title="UK Entertainment",CBS Drama UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1908.ts
+#EXTINF:-1 tvg-id="CBSDrama.uk" tvg-name="CBSDrama.uk" tvg-logo="http://epg4you.com/logos/cbsdrama.png" group-title="UK Entertainment",CBS Drama VIP UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/10738.ts
+#EXTINF:-1 tvg-id="CBSReality.uk" tvg-name="CBSReality.uk" tvg-logo="http://epg4you.com/logos/cbsreality.png" group-title="UK Entertainment",CBS Reality UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1910.ts
+#EXTINF:-1 tvg-id="CBSReality.uk" tvg-name="CBSReality.uk" tvg-logo="http://epg4you.com/logos/cbsreality.png" group-title="UK Entertainment",CBS Reality VIP UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/10737.ts
+#EXTINF:-1 tvg-id="Challengeplus1.uk" tvg-name="Challengeplus1.uk" tvg-logo="http://epg4you.com/logos/challengeplus1.png" group-title="UK Entertainment",Challenge +1 UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1944.ts
+#EXTINF:-1 tvg-id="Challenge.uk" tvg-name="Challenge.uk" tvg-logo="http://epg4you.com/logos/challenge.png" group-title="UK Entertainment",Challenge UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1782.ts
+#EXTINF:-1 tvg-id="Challenge.uk" tvg-name="Challenge.uk" tvg-logo="http://epg4you.com/logos/challenge.png" group-title="UK Entertainment",Challenge VIP UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/10662.ts
+#EXTINF:-1 tvg-id="Channel4plus1.uk" tvg-name="Channel4plus1.uk" tvg-logo="http://epg4you.com/logos/channel4plus1.png" group-title="UK Entertainment",Channel 4 +1 VIP UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/10733.ts
+#EXTINF:-1 tvg-id="Channel4.uk" tvg-name="Channel4.uk" tvg-logo="http://epg4you.com/logos/channel4.png" group-title="UK Entertainment",Channel 4 FHD UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1971.ts
+#EXTINF:-1 tvg-id="Channel4.uk" tvg-name="Channel4.uk" tvg-logo="http://epg4you.com/logos/channel4.png" group-title="UK Entertainment",Channel 4 FHD VIP UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/10874.ts
+#EXTINF:-1 tvg-id="Channel4.uk" tvg-name="Channel4.uk" tvg-logo="http://epg4you.com/logos/channel4.png" group-title="UK Entertainment",Channel 4 HD UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1970.ts
+#EXTINF:-1 tvg-id="Channel4.uk" tvg-name="Channel4.uk" tvg-logo="http://epg4you.com/logos/channel4.png" group-title="UK Entertainment",Channel 4 HD VIP UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/10807.ts
+#EXTINF:-1 tvg-id="Channel4.uk" tvg-name="Channel4.uk" tvg-logo="http://epg4you.com/logos/channel4.png" group-title="UK Entertainment",Channel 4 UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1972.ts
+#EXTINF:-1 tvg-id="Channel4.uk" tvg-name="Channel4.uk" tvg-logo="http://epg4you.com/logos/channel4.png" group-title="UK Entertainment",Channel 4 VIP UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/10726.ts
+#EXTINF:-1 tvg-id="Channel5plus1.uk" tvg-name="Channel5plus1.uk" tvg-logo="http://epg4you.com/logos/channel5plus1.png" group-title="UK Entertainment",Channel 5 +1 VIP UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/10732.ts
+#EXTINF:-1 tvg-id="Channel5.uk" tvg-name="Channel5.uk" tvg-logo="http://epg4you.com/logos/channel5.png" group-title="UK Entertainment",Channel 5 FHD UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1969.ts
+#EXTINF:-1 tvg-id="Channel5.uk" tvg-name="Channel5.uk" tvg-logo="http://epg4you.com/logos/channel5.png" group-title="UK Entertainment",Channel 5 HD UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1967.ts
+#EXTINF:-1 tvg-id="Channel5.uk" tvg-name="Channel5.uk" tvg-logo="http://epg4you.com/logos/channel5.png" group-title="UK Entertainment",Channel 5 HD VIP UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/10806.ts
+#EXTINF:-1 tvg-id="Channel5.uk" tvg-name="Channel5.uk" tvg-logo="http://epg4you.com/logos/channel5.png" group-title="UK Entertainment",Channel 5 UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1968.ts
+#EXTINF:-1 tvg-id="ChannelAKA.uk" tvg-name="ChannelAKA.uk" tvg-logo="http://epg4you.com/logos/channelaka.png" group-title="UK Entertainment",Channel AKA UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1945.ts
+#EXTINF:-1 tvg-id="ChannelAKA.uk" tvg-name="ChannelAKA.uk" tvg-logo="http://epg4you.com/logos/channelaka.png" group-title="UK Entertainment",Channel AKA VIP UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/10727.ts
+#EXTINF:-1 tvg-id="ChartShow.uk" tvg-name="ChartShow.uk" tvg-logo="http://epg4you.com/logos/chartshowtv.png" group-title="UK Entertainment",Chart Show Hits UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1766.ts
+#EXTINF:-1 tvg-id="ChartShowTV.uk" tvg-name="ChartShowTV.uk" tvg-logo="http://epg4you.com/logos/chartshowtv.png" group-title="UK Entertainment",Chart Show TV UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1765.ts
+#EXTINF:-1 tvg-id="CNN.uk" tvg-name="CNN.uk" tvg-logo="http://epg4you.com/logos/cnn.png" group-title="UK Entertainment",CNN FHD UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1780.ts
+#EXTINF:-1 tvg-id="CNN.uk" tvg-name="CNN.uk" tvg-logo="http://epg4you.com/logos/cnn.png" group-title="UK Entertainment",CNN UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1764.ts
+#EXTINF:-1 tvg-id="ComedyCentral.uk" tvg-name="ComedyCentral.uk" tvg-logo="http://epg4you.com/logos/comedycentral.png" group-title="UK Entertainment",Comedy Central +1 VIP UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/10734.ts
+#EXTINF:-1 tvg-id="ComedyCentralplus1.uk" tvg-name="ComedyCentralplus1.uk" tvg-logo="http://epg4you.com/logos/comedycentralhdplus1.png" group-title="UK Entertainment",Comedy Central Extra +1 UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1894.ts
+#EXTINF:-1 tvg-id="ComedyCentralExtra.uk" tvg-name="ComedyCentralExtra.uk" tvg-logo="http://epg4you.com/logos/comedycentralextra.png" group-title="UK Entertainment",Comedy Central Extra UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1895.ts
+#EXTINF:-1 tvg-id="ComedyCentral.uk" tvg-name="ComedyCentral.uk" tvg-logo="http://epg4you.com/logos/comedycentral.png" group-title="UK Entertainment",Comedy Central FHD VIP UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/10873.ts
+#EXTINF:-1 tvg-id="ComedyCentral.uk" tvg-name="ComedyCentral.uk" tvg-logo="http://epg4you.com/logos/comedycentral.png" group-title="UK Entertainment",Comedy Central UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1896.ts
+#EXTINF:-1 tvg-id="ComedyCentral.uk" tvg-name="ComedyCentral.uk" tvg-logo="http://epg4you.com/logos/comedycentral.png" group-title="UK Entertainment",Comedy Central VIP UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/10730.ts
+#EXTINF:-1 tvg-id="ComedyCentralExtraPlus1.uk" tvg-name="ComedyCentralExtraPlus1.uk" tvg-logo="http://epg4you.com/logos/comedycentralextraplus1.png" group-title="UK Entertainment",Comedy Xtra +1 VIP UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/10729.ts
+#EXTINF:-1 tvg-id="ComedyCentralExtra.uk" tvg-name="ComedyCentralExtra.uk" tvg-logo="http://epg4you.com/logos/comedycentralextra.png" group-title="UK Entertainment",Comedy Xtra VIP UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/10728.ts
+#EXTINF:-1 tvg-id="" tvg-name="Coral TV VIP UK" tvg-logo="http://www.gamingintelligence.com/images/Logo_lg/Coral-lg.jpg" group-title="UK Entertainment",Coral TV VIP UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/11141.ts
+#EXTINF:-1 tvg-id="CrimeAndInvestigationNetwork.uk" tvg-name="CrimeAndInvestigationNetwork.uk" tvg-logo="http://epg4you.com/logos/crimeandinvestigationhd.png" group-title="UK Entertainment",Crime & Investigation FHD UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/7604.ts
+#EXTINF:-1 tvg-id="CrimeAndInvestigationNetworkplus1.uk" tvg-name="CrimeAndInvestigationNetworkplus1.uk" tvg-logo="http://epg4you.com/logos/crimeandinvestigationplus1.png" group-title="UK Entertainment",Crime+Investigation +1 UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1880.ts
+#EXTINF:-1 tvg-id="CrimeAndInvestigationNetwork.uk" tvg-name="CrimeAndInvestigationNetwork.uk" tvg-logo="http://epg4you.com/logos/crimeandinvestigationhd.png" group-title="UK Entertainment",Crime+Investigation FHD UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1881.ts
+#EXTINF:-1 tvg-id="Dave.uk" tvg-name="Dave.uk" tvg-logo="http://epg4you.com/logos/dave.png" group-title="UK Entertainment",Dave FHD VIP UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/10872.ts
+#EXTINF:-1 tvg-id="DaveJaVu.uk" tvg-name="DaveJaVu.uk" tvg-logo="http://epg4you.com/logos/davejavu.png" group-title="UK Entertainment",Dave ja vu UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1788.ts
+#EXTINF:-1 tvg-id="DaveJaVu.uk" tvg-name="DaveJaVu.uk" tvg-logo="http://epg4you.com/logos/davejavu.png" group-title="UK Entertainment",Dave Ja Vu VIP UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/10720.ts
+#EXTINF:-1 tvg-id="Dave.uk" tvg-name="Dave.uk" tvg-logo="http://epg4you.com/logos/dave.png" group-title="UK Entertainment",Dave UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1911.ts
+#EXTINF:-1 tvg-id="Dave.uk" tvg-name="Dave.uk" tvg-logo="http://epg4you.com/logos/dave.png" group-title="UK Entertainment",Dave VIP UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/10731.ts
+#EXTINF:-1 tvg-id="Discoveryplus1.uk" tvg-name="Discoveryplus1.uk" tvg-logo="http://epg4you.com/logos/discoveryplus1.png" group-title="UK Entertainment",Discovery +1 VIP UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/10724.ts
+#EXTINF:-1 tvg-id="Discoveryplus1.uk" tvg-name="Discoveryplus1.uk" tvg-logo="http://epg4you.com/logos/discoveryplus1.png" group-title="UK Entertainment",Discovery Channel +1 UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1887.ts
+#EXTINF:-1 tvg-id="DiscoveryHD.uk" tvg-name="DiscoveryHD.uk" tvg-logo="http://epg4you.com/logos/discoverychannelhd.png" group-title="UK Entertainment",Discovery Channel UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1886.ts
+#EXTINF:-1 tvg-id="DiscoveryHD.uk" tvg-name="DiscoveryHD.uk" tvg-logo="http://epg4you.com/logos/discoverychannelhd.png" group-title="UK Entertainment",Discovery FHD VIP UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/10871.ts
+#EXTINF:-1 tvg-id="DiscoveryHD.uk" tvg-name="DiscoveryHD.uk" tvg-logo="http://epg4you.com/logos/discoverychannelhd.png" group-title="UK Entertainment",Discovery VIP UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/10723.ts
+#EXTINF:-1 tvg-id="DiscoveryHistoryPlus1.uk" tvg-name="DiscoveryHistoryPlus1.uk" tvg-logo="http://epg4you.com/logos/discoveryhistoryplus1.png" group-title="UK Entertainment",Discovery History +1 UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1872.ts
+#EXTINF:-1 tvg-id="DiscoveryHistory.uk" tvg-name="DiscoveryHistory.uk" tvg-logo="http://epg4you.com/logos/discoveryhistory.png" group-title="UK Entertainment",Discovery History UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1873.ts
+#EXTINF:-1 tvg-id="DiscoveryHistory.uk" tvg-name="DiscoveryHistory.uk" tvg-logo="http://epg4you.com/logos/discoveryhistory.png" group-title="UK Entertainment",Discovery History VIP UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/10620.ts
+#EXTINF:-1 tvg-id="DiscoveryHomeandHealthPlus1.uk" tvg-name="DiscoveryHomeandHealthPlus1.uk" tvg-logo="http://epg4you.com/logos/discoveryhomeandhealthplus1.png" group-title="UK Entertainment",Discovery Home & Health +1 UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1868.ts
+#EXTINF:-1 tvg-id="DiscoveryHomeandHealth.uk" tvg-name="DiscoveryHomeandHealth.uk" tvg-logo="http://epg4you.com/logos/discoveryhomeandhealth.png" group-title="UK Entertainment",Discovery Home & Health UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1826.ts
+#EXTINF:-1 tvg-id="DiscoverySciencePlus1.uk" tvg-name="DiscoverySciencePlus1.uk" tvg-logo="http://epg4you.com/logos/discoveryscienceplus1.png" group-title="UK Entertainment",Discovery Science +1 UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1874.ts
+#EXTINF:-1 tvg-id="DiscoveryScience.uk" tvg-name="DiscoveryScience.uk" tvg-logo="http://epg4you.com/logos/discoveryscience.png" group-title="UK Entertainment",Discovery Science UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1875.ts
+#EXTINF:-1 tvg-id="DiscoveryScience.uk" tvg-name="DiscoveryScience.uk" tvg-logo="http://epg4you.com/logos/discoveryscience.png" group-title="UK Entertainment",Discovery Science VIP UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/10656.ts
+#EXTINF:-1 tvg-id="DiscoveryShed.uk" tvg-name="DiscoveryShed.uk" tvg-logo="http://epg4you.com/logos/discoveryshed.png" group-title="UK Entertainment",Discovery Shed UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1885.ts
+#EXTINF:-1 tvg-id="DiscoveryTurbo.uk" tvg-name="DiscoveryTurbo.uk" tvg-logo="http://epg4you.com/logos/discoveryturbo.png" group-title="UK Entertainment",Discovery Turbo UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1884.ts
+#EXTINF:-1 tvg-id="DiscoveryTurbo.uk" tvg-name="DiscoveryTurbo.uk" tvg-logo="http://epg4you.com/logos/discoveryturbo.png" group-title="UK Entertainment",Discovery Turbo VIP UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/10721.ts
+#EXTINF:-1 tvg-id="DiscoveryDMAXPlus1.uk" tvg-name="DiscoveryDMAXPlus1.uk" tvg-logo="http://epg4you.com/logos/dmaxplus1.png" group-title="UK Entertainment",DMAX +1 UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1876.ts
+#EXTINF:-1 tvg-id="DiscoveryDMAX.uk" tvg-name="DiscoveryDMAX.uk" tvg-logo="http://epg4you.com/logos/dmax.png" group-title="UK Entertainment",DMAX UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1877.ts
+#EXTINF:-1 tvg-id="Drama.uk" tvg-name="Drama.uk" tvg-logo="http://epg4you.com/logos/drama-clivebesle.png" group-title="UK Entertainment",Drama UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1863.ts
+#EXTINF:-1 tvg-id="Drama.uk" tvg-name="Drama.uk" tvg-logo="http://epg4you.com/logos/drama-clivebesle.png" group-title="UK Entertainment",Drama VIP UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/10648.ts
+#EXTINF:-1 tvg-id="EPlus1.uk" tvg-name="EPlus1.uk" tvg-logo="http://epg4you.com/logos/eentertainmentplus1.png" group-title="UK Entertainment",E! +1 UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1907.ts
+#EXTINF:-1 tvg-id="E.uk" tvg-name="E.uk" tvg-logo="http://epg4you.com/logos/eentertainmenthd.png" group-title="UK Entertainment",E! UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1934.ts
+#EXTINF:-1 tvg-id="E4plus1.uk" tvg-name="E4plus1.uk" tvg-logo="http://epg4you.com/logos/e4plus1.png" group-title="UK Entertainment",E4  1 VIP UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/10716.ts
+#EXTINF:-1 tvg-id="E4plus1.uk" tvg-name="E4plus1.uk" tvg-logo="http://epg4you.com/logos/e4plus1.png" group-title="UK Entertainment",E4 +1 UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1965.ts
+#EXTINF:-1 tvg-id="E4.uk" tvg-name="E4.uk" tvg-logo="http://epg4you.com/logos/e4.png" group-title="UK Entertainment",E4 FHD VIP UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/10870.ts
+#EXTINF:-1 tvg-id="E4.uk" tvg-name="E4.uk" tvg-logo="http://epg4you.com/logos/e4.png" group-title="UK Entertainment",E4 UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1966.ts
+#EXTINF:-1 tvg-id="E4.uk" tvg-name="E4.uk" tvg-logo="http://epg4you.com/logos/e4.png" group-title="UK Entertainment",E4 VIP UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/10722.ts
+#EXTINF:-1 tvg-id="EdenPlus1.uk" tvg-name="EdenPlus1.uk" tvg-logo="http://epg4you.com/logos/edenplus1.png" group-title="UK Entertainment",Eden +1 UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1946.ts
+#EXTINF:-1 tvg-id="EdenPlus1.uk" tvg-name="EdenPlus1.uk" tvg-logo="http://epg4you.com/logos/edenplus1.png" group-title="UK Entertainment",Eden +1 VIP UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/10718.ts
+#EXTINF:-1 tvg-id="Eden.uk" tvg-name="Eden.uk" tvg-logo="http://195.154.221.171/picons/edenuk.png" group-title="UK Entertainment",Eden FHD VIP UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/10869.ts
+#EXTINF:-1 tvg-id="Eden.uk" tvg-name="Eden.uk" tvg-logo="http://195.154.221.171/picons/edenuk.png" group-title="UK Entertainment",Eden UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1935.ts
+#EXTINF:-1 tvg-id="Eden.uk" tvg-name="Eden.uk" tvg-logo="http://195.154.221.171/picons/edenuk.png" group-title="UK Entertainment",Eden VIP UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/10719.ts
+#EXTINF:-1 tvg-id="Film4.uk" tvg-name="Film4.uk" tvg-logo="http://epg4you.com/logos/filmfourhd.png" group-title="UK Entertainment",Film 4 FHD VIP UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/10866.ts
+#EXTINF:-1 tvg-id="Film4plus1.uk" tvg-name="Film4plus1.uk" tvg-logo="http://epg4you.com/logos/filmfourplus1.png" group-title="UK Entertainment",Film4 +1 VIP UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/10713.ts
+#EXTINF:-1 tvg-id="Film4.uk" tvg-name="Film4.uk" tvg-logo="http://epg4you.com/logos/filmfourhd.png" group-title="UK Entertainment",Film4 UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1830.ts
+#EXTINF:-1 tvg-id="FoodNetworkPlus1.uk" tvg-name="FoodNetworkPlus1.uk" tvg-logo="http://epg4you.com/logos/foodnetworkplus1.png" group-title="UK Entertainment",Food Network +1 UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1941.ts
+#EXTINF:-1 tvg-id="FoodNetwork.uk" tvg-name="FoodNetwork.uk" tvg-logo="http://epg4you.com/logos/foodnetwork.png" group-title="UK Entertainment",Food Network UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1942.ts
+#EXTINF:-1 tvg-id="FoodNetwork.uk" tvg-name="FoodNetwork.uk" tvg-logo="http://epg4you.com/logos/foodnetwork.png" group-title="UK Entertainment",Food Network VIP UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/10714.ts
+#EXTINF:-1 tvg-id="FOX.uk" tvg-name="FOX.uk" tvg-logo="http://epg4you.com/logos/fox.png" group-title="UK Entertainment",Fox FHD VIP UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/10865.ts
+#EXTINF:-1 tvg-id="FOXNews.us" tvg-name="FOXNews.us" tvg-logo="http://epg4you.com/logos/foxnews.png" group-title="UK Entertainment",FOX News UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1760.ts
+#EXTINF:-1 tvg-id="FOX.uk" tvg-name="FOX.uk" tvg-logo="http://epg4you.com/logos/fox.png" group-title="UK Entertainment",FOX UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1913.ts
+#EXTINF:-1 tvg-id="FOX.uk" tvg-name="FOX.uk" tvg-logo="http://epg4you.com/logos/fox.png" group-title="UK Entertainment",FOX+ UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1914.ts
+#EXTINF:-1 tvg-id="GOLD.uk" tvg-name="GOLD.uk" tvg-logo="http://epg4you.com/logos/gold.png" group-title="UK Entertainment",Gold (Backup) VIP UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/10706.ts
+#EXTINF:-1 tvg-id="GOLDPlus1.uk" tvg-name="GOLDPlus1.uk" tvg-logo="http://epg4you.com/logos/goldplus1.png" group-title="UK Entertainment",GOLD +1 UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1947.ts
+#EXTINF:-1 tvg-id="GOLDPlus1.uk" tvg-name="GOLDPlus1.uk" tvg-logo="http://epg4you.com/logos/goldplus1.png" group-title="UK Entertainment",Gold +1 VIP UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/10705.ts
+#EXTINF:-1 tvg-id="GOLD.uk" tvg-name="GOLD.uk" tvg-logo="http://epg4you.com/logos/gold.png" group-title="UK Entertainment",GOLD UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1915.ts
+#EXTINF:-1 tvg-id="STARGold.uk" tvg-name="STARGold.uk" tvg-logo="http://epg4you.com/logos/stargold.png" group-title="UK Entertainment",Gold VIP UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/10702.ts
+#EXTINF:-1 tvg-id="GoodFoodplus1.uk" tvg-name="GoodFoodplus1.uk" tvg-logo="http://epg4you.com/logos/goodfoodplus1.png" group-title="UK Entertainment",Good Food +1 VIP UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/10623.ts
+#EXTINF:-1 tvg-id="GoodFood.uk" tvg-name="GoodFood.uk" tvg-logo="http://epg4you.com/logos/goodfood.png" group-title="UK Entertainment",Good Food FHD VIP UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/10864.ts
+#EXTINF:-1 tvg-id="GoodFood.uk" tvg-name="GoodFood.uk" tvg-logo="http://epg4you.com/logos/goodfood.png" group-title="UK Entertainment",Good Food UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1912.ts
+#EXTINF:-1 tvg-id="GoodFood.uk" tvg-name="GoodFood.uk" tvg-logo="http://epg4you.com/logos/goodfood.png" group-title="UK Entertainment",Good Food VIP UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/10621.ts
+#EXTINF:-1 tvg-id="History2.uk" tvg-name="History2.uk" tvg-logo="http://epg4you.com/logos/history2.png" group-title="UK Entertainment",H2 FHD VIP UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/10863.ts
+#EXTINF:-1 tvg-id="History2.uk" tvg-name="History2.uk" tvg-logo="http://epg4you.com/logos/history2.png" group-title="UK Entertainment",H2 FHD VIP UK (Backup)
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/10862.ts
+#EXTINF:-1 tvg-id="History2.uk" tvg-name="History2.uk" tvg-logo="http://epg4you.com/logos/history2.png" group-title="UK Entertainment",H2 UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1871.ts
+#EXTINF:-1 tvg-id="andTV.uk" tvg-name="andTV.uk" tvg-logo="http://epg4you.com/logos/andtv.png" group-title="UK Entertainment",HD & TV HD VIP UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/10805.ts
+#EXTINF:-1 tvg-id="CITV.uk" tvg-name="CITV.uk" tvg-logo="http://epg4you.com/logos/childrenitv.png" group-title="UK Entertainment",Hillsong Channel UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1757.ts
+#EXTINF:-1 tvg-id="BoxUpfront.uk" tvg-name="BoxUpfront.uk" tvg-logo="http://epg4you.com/logos/boxupfront.png" group-title="UK Entertainment",Hip Hop & R & B Music TV UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1767.ts
+#EXTINF:-1 tvg-id="Historyplus1.uk" tvg-name="Historyplus1.uk" tvg-logo="http://epg4you.com/logos/historyplus1.png" group-title="UK Entertainment",History +1 UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1866.ts
+#EXTINF:-1 tvg-id="History.uk" tvg-name="History.uk" tvg-logo="http://epg4you.com/logos/historyhd.png" group-title="UK Entertainment",History FHD UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/7599.ts
+#EXTINF:-1 tvg-id="History.uk" tvg-name="History.uk" tvg-logo="http://epg4you.com/logos/historyhd.png" group-title="UK Entertainment",History FHD VIP UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/10861.ts
+#EXTINF:-1 tvg-id="History.uk" tvg-name="History.uk" tvg-logo="http://epg4you.com/logos/historyhd.png" group-title="UK Entertainment",History UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1867.ts
+#EXTINF:-1 tvg-id="DiscoveryHomeandHealthPlus1.uk" tvg-name="DiscoveryHomeandHealthPlus1.uk" tvg-logo="http://epg4you.com/logos/discoveryhomeandhealthplus1.png" group-title="UK Entertainment",Home  1 VIP UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/10710.ts
+#EXTINF:-1 tvg-id="DiscoveryHomeandHealth.uk" tvg-name="DiscoveryHomeandHealth.uk" tvg-logo="http://epg4you.com/logos/discoveryhomeandhealth.png" group-title="UK Entertainment",Home & Health VIP UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/10712.ts
+#EXTINF:-1 tvg-id="Homeplus1.uk" tvg-name="Homeplus1.uk" tvg-logo="http://epg4you.com/logos/homeplus1.png" group-title="UK Entertainment",Home +1 UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1869.ts
+#EXTINF:-1 tvg-id="Home.uk" tvg-name="Home.uk" tvg-logo="http://epg4you.com/logos/home.png" group-title="UK Entertainment",Home UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1870.ts
+#EXTINF:-1 tvg-id="Home.uk" tvg-name="Home.uk" tvg-logo="http://epg4you.com/logos/home.png" group-title="UK Entertainment",Home VIP UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/10703.ts
+#EXTINF:-1 tvg-id="HorrorChannelPlus1.uk" tvg-name="HorrorChannelPlus1.uk" tvg-logo="http://epg4you.com/logos/horrorchannelplus1.png" group-title="UK Entertainment",Horror Channel +1 UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1926.ts
+#EXTINF:-1 tvg-id="HorrorChannelPlus1.uk" tvg-name="HorrorChannelPlus1.uk" tvg-logo="http://epg4you.com/logos/horrorchannelplus1.png" group-title="UK Entertainment",Horror Channel +1 VIP UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/10707.ts
+#EXTINF:-1 tvg-id="HorrorChannel.uk" tvg-name="HorrorChannel.uk" tvg-logo="http://epg4you.com/logos/horrorchannel.png" group-title="UK Entertainment",Horror Channel UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1825.ts
+#EXTINF:-1 tvg-id="HorrorChannel.uk" tvg-name="HorrorChannel.uk" tvg-logo="http://epg4you.com/logos/horrorchannel.png" group-title="UK Entertainment",Horror Channel VIP UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/10709.ts
+#EXTINF:-1 tvg-id="Investigation.uk" tvg-name="Investigation.uk" tvg-logo="http://epg4you.com/logos/investigationdiscovery.png" group-title="UK Entertainment",ID VIP UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/10711.ts
+#EXTINF:-1 tvg-id="Investigationplus1.uk" tvg-name="Investigationplus1.uk" tvg-logo="http://epg4you.com/logos/investigationdiscoveryplus1.png" group-title="UK Entertainment",Investigation Discovery +1 UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1882.ts
+#EXTINF:-1 tvg-id="Investigation.uk" tvg-name="Investigation.uk" tvg-logo="http://epg4you.com/logos/investigationdiscovery.png" group-title="UK Entertainment",Investigation Discovery UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1883.ts
+#EXTINF:-1 tvg-id="ITVPlus1.uk" tvg-name="ITVPlus1.uk" tvg-logo="http://epg4you.com/logos/itvplus1.png" group-title="UK Entertainment",ITV +1 UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1984.ts
+#EXTINF:-1 tvg-id="ITV.uk" tvg-name="ITV.uk" tvg-logo="http://epg4you.com/logos/itv.png" group-title="UK Entertainment",ITV 1 UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1985.ts
+#EXTINF:-1 tvg-id="ITV.uk" tvg-name="ITV.uk" tvg-logo="http://epg4you.com/logos/itv.png" group-title="UK Entertainment",ITV 1 VIP UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/10708.ts
+#EXTINF:-1 tvg-id="ITV2plus1.uk" tvg-name="ITV2plus1.uk" tvg-logo="http://epg4you.com/logos/itv2plus1.png" group-title="UK Entertainment",ITV 2 +1 VIP UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/10699.ts
+#EXTINF:-1 tvg-id="ITV2.uk" tvg-name="ITV2.uk" tvg-logo="http://epg4you.com/logos/itv2hd.png" group-title="UK Entertainment",ITV 2 VIP UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/10704.ts
+#EXTINF:-1 tvg-id="" tvg-name="ITV 3 VIP UK" tvg-logo="" group-title="UK Entertainment",ITV 3 VIP UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/10700.ts
+#EXTINF:-1 tvg-id="ITV3.uk" tvg-name="ITV3.uk" tvg-logo="http://epg4you.com/logos/itv3hd.png" group-title="UK Entertainment",ITV 3 Backup VIP UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/10688.ts
+#EXTINF:-1 tvg-id="ITV4.uk" tvg-name="ITV4.uk" tvg-logo="http://epg4you.com/logos/itv4.png" group-title="UK Entertainment",ITV 4 VIP UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/10696.ts
+#EXTINF:-1 tvg-id="ITVBePlus1.uk" tvg-name="ITVBePlus1.uk" tvg-logo="http://epg4you.com/logos/itvbeplus1.png" group-title="UK Entertainment",ITV Be +1 VIP UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/10697.ts
+#EXTINF:-1 tvg-id="ITVBe.uk" tvg-name="ITVBe.uk" tvg-logo="http://epg4you.com/logos/itvbe.png" group-title="UK Entertainment",ITV Be FHD VIP UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/10860.ts
+#EXTINF:-1 tvg-id="ITVBe.uk" tvg-name="ITVBe.uk" tvg-logo="http://epg4you.com/logos/itvbe.png" group-title="UK Entertainment",ITV Be VIP UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/10695.ts
+#EXTINF:-1 tvg-id="ITVBe.uk" tvg-name="ITVBe.uk" tvg-logo="http://epg4you.com/logos/itvbe.png" group-title="UK Entertainment",ITV Box Office FHD UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/7600.ts
+#EXTINF:-1 tvg-id="ITVBe.uk" tvg-name="ITVBe.uk" tvg-logo="http://epg4you.com/logos/itvbe.png" group-title="UK Entertainment",ITV Box Office UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/6196.ts
+#EXTINF:-1 tvg-id="ITVEncorePlus1.uk" tvg-name="ITVEncorePlus1.uk" tvg-logo="http://195.154.221.171/picons/itvencoreplus1uk.png" group-title="UK Entertainment",ITV Encore +1 UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1973.ts
+#EXTINF:-1 tvg-id="ITVEncore.uk" tvg-name="ITVEncore.uk" tvg-logo="http://195.154.221.171/picons/itvencoreuk.png" group-title="UK Entertainment",ITV Encore UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1927.ts
+#EXTINF:-1 tvg-id="ITVEncore.uk" tvg-name="ITVEncore.uk" tvg-logo="http://195.154.221.171/picons/itvencoreuk.png" group-title="UK Entertainment",ITV Encore VIP UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/10693.ts
+#EXTINF:-1 tvg-id="ITV.uk" tvg-name="ITV.uk" tvg-logo="http://epg4you.com/logos/itv.png" group-title="UK Entertainment",ITV FHD UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1986.ts
+#EXTINF:-1 tvg-id="ITV.uk" tvg-name="ITV.uk" tvg-logo="http://epg4you.com/logos/itv.png" group-title="UK Entertainment",ITV HD VIP UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/10804.ts
+#EXTINF:-1 tvg-id="ITV.uk" tvg-name="ITV.uk" tvg-logo="http://epg4you.com/logos/itv.png" group-title="UK Entertainment",ITV Yorkshire West VIP UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/10694.ts
+#EXTINF:-1 tvg-id="ITV2plus1.uk" tvg-name="ITV2plus1.uk" tvg-logo="http://epg4you.com/logos/itv2plus1.png" group-title="UK Entertainment",ITV2 +1 UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1981.ts
+#EXTINF:-1 tvg-id="ITV2.uk" tvg-name="ITV2.uk" tvg-logo="http://epg4you.com/logos/itv2hd.png" group-title="UK Entertainment",ITV2 FHD UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/5738.ts
+#EXTINF:-1 tvg-id="ITV2.uk" tvg-name="ITV2.uk" tvg-logo="http://epg4you.com/logos/itv2hd.png" group-title="UK Entertainment",ITV2 HD UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1983.ts
+#EXTINF:-1 tvg-id="ITV2.uk" tvg-name="ITV2.uk" tvg-logo="http://epg4you.com/logos/itv2hd.png" group-title="UK Entertainment",ITV2 UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1982.ts
+#EXTINF:-1 tvg-id="ITV3plus1.uk" tvg-name="ITV3plus1.uk" tvg-logo="http://epg4you.com/logos/itv3plus1.png" group-title="UK Entertainment",ITV3 +1 UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1978.ts
+#EXTINF:-1 tvg-id="ITV3.uk" tvg-name="ITV3.uk" tvg-logo="http://epg4you.com/logos/itv3hd.png" group-title="UK Entertainment",ITV3 FHD UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1980.ts
+#EXTINF:-1 tvg-id="ITV3.uk" tvg-name="ITV3.uk" tvg-logo="http://epg4you.com/logos/itv3hd.png" group-title="UK Entertainment",ITV3 UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1979.ts
+#EXTINF:-1 tvg-id="ITV4plus1.uk" tvg-name="ITV4plus1.uk" tvg-logo="http://epg4you.com/logos/itv4plus1.png" group-title="UK Entertainment",ITV4 +1 UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1975.ts
+#EXTINF:-1 tvg-id="ITV4.uk" tvg-name="ITV4.uk" tvg-logo="http://epg4you.com/logos/itv4.png" group-title="UK Entertainment",ITV4 FHD UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1977.ts
+#EXTINF:-1 tvg-id="ITV4plus1.uk" tvg-name="ITV4plus1.uk" tvg-logo="http://epg4you.com/logos/itv4plus1.png" group-title="UK Entertainment",ITV4 UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1976.ts
+#EXTINF:-1 tvg-id="ITVBePlus1.uk" tvg-name="ITVBePlus1.uk" tvg-logo="http://epg4you.com/logos/itvbeplus1.png" group-title="UK Entertainment",ITVBe +1 UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1974.ts
+#EXTINF:-1 tvg-id="Kerrang.uk" tvg-name="Kerrang.uk" tvg-logo="http://epg4you.com/logos/kerrang.png" group-title="UK Entertainment",Kerrang! TV UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1928.ts
+#EXTINF:-1 tvg-id="KissTV.uk" tvg-name="KissTV.uk" tvg-logo="http://epg4you.com/logos/kiss.png" group-title="UK Entertainment",KISS UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1929.ts
+#EXTINF:-1 tvg-id="Kix.uk" tvg-name="Kix.uk" tvg-logo="http://epg4you.com/logos/kix.png" group-title="UK Entertainment",KIX +1 UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1755.ts
+#EXTINF:-1 tvg-id="Kix.uk" tvg-name="Kix.uk" tvg-logo="http://epg4you.com/logos/kix.png" group-title="UK Entertainment",KIX UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1756.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ladbrokes TV VIP UK" tvg-logo="" group-title="UK Entertainment",Ladbrokes TV VIP UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/11140.ts
+#EXTINF:-1 tvg-id="revelation.uk" tvg-name="revelation.uk" tvg-logo="http://epg4you.com/logos/revelationtv.png" group-title="UK Entertainment",Latino Pop Music TV UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1784.ts
+#EXTINF:-1 tvg-id="Lifetime.uk" tvg-name="Lifetime.uk" tvg-logo="http://epg4you.com/logos/lifetime.png" group-title="UK Entertainment",Lifetime FHD VIP UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/10858.ts
+#EXTINF:-1 tvg-id="Luxtv.ru" tvg-name="Luxtv.ru" tvg-logo="http://195.154.221.171/picons/luxetvhd.png" group-title="UK Entertainment",LUXE TV FHD VIP UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/10909.ts
+#EXTINF:-1 tvg-id="MATVNational.uk" tvg-name="MATVNational.uk" tvg-logo="http://epg4you.com/logos/matvnational.png" group-title="UK Entertainment",Made In Bristol UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1949.ts
+#EXTINF:-1 tvg-id="More4.uk" tvg-name="More4.uk" tvg-logo="http://epg4you.com/logos/more4.png" group-title="UK Entertainment",More 4 FHD VIP UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/10857.ts
+#EXTINF:-1 tvg-id="More4.uk" tvg-name="More4.uk" tvg-logo="http://epg4you.com/logos/more4.png" group-title="UK Entertainment",More 4 VIP UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/10676.ts
+#EXTINF:-1 tvg-id="More4.uk" tvg-name="More4.uk" tvg-logo="http://epg4you.com/logos/more4.png" group-title="UK Entertainment",More4 UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1930.ts
+#EXTINF:-1 tvg-id="MotorsTV.uk" tvg-name="MotorsTV.uk" tvg-logo="http://epg4you.com/logos/motorstv.png" group-title="UK Entertainment",Motors TV HD UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1891.ts
+#EXTINF:-1 tvg-id="MoviesTwentyFour.uk" tvg-name="MoviesTwentyFour.uk" tvg-logo="http://epg4you.com/logos/movies24.png" group-title="UK Entertainment",Movies 24 UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1829.ts
+#EXTINF:-1 tvg-id="Movies4MenPlus1.uk" tvg-name="Movies4MenPlus1.uk" tvg-logo="http://epg4you.com/logos/movies4menplus1.png" group-title="UK Entertainment",Movies 4 Men +1 VIP UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/10684.ts
+#EXTINF:-1 tvg-id="Movies4Men.uk" tvg-name="Movies4Men.uk" tvg-logo="http://epg4you.com/logos/movies4men.png" group-title="UK Entertainment",Movies 4 Men VIP UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/10678.ts
+#EXTINF:-1 tvg-id="Movies4MenPlus1.uk" tvg-name="Movies4MenPlus1.uk" tvg-logo="http://epg4you.com/logos/movies4menplus1.png" group-title="UK Entertainment",Movies4Men +1 UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1828.ts
+#EXTINF:-1 tvg-id="Movies4Men.uk" tvg-name="Movies4Men.uk" tvg-logo="http://epg4you.com/logos/movies4men.png" group-title="UK Entertainment",Movies4Men UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1827.ts
+#EXTINF:-1 tvg-id="MTV.uk" tvg-name="MTV.uk" tvg-logo="http://epg4you.com/logos/mtv.png" group-title="UK Entertainment",MTV +1 UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1834.ts
+#EXTINF:-1 tvg-id="MTVPlus1.uk" tvg-name="MTVPlus1.uk" tvg-logo="http://epg4you.com/logos/mtvplus1.png" group-title="UK Entertainment",MTV 1 VIP UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/10690.ts
+#EXTINF:-1 tvg-id="MTVBase.uk" tvg-name="MTVBase.uk" tvg-logo="http://epg4you.com/logos/mtvbase.png" group-title="UK Entertainment",MTV Base UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1836.ts
+#EXTINF:-1 tvg-id="MTVBase.uk" tvg-name="MTVBase.uk" tvg-logo="http://epg4you.com/logos/mtvbase.png" group-title="UK Entertainment",MTV Base VIP UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/10689.ts
+#EXTINF:-1 tvg-id="MTVClassic.uk" tvg-name="MTVClassic.uk" tvg-logo="http://epg4you.com/logos/mtvclassic.png" group-title="UK Entertainment",MTV Classic UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1837.ts
+#EXTINF:-1 tvg-id="MTVClassic.uk" tvg-name="MTVClassic.uk" tvg-logo="http://epg4you.com/logos/mtvclassic.png" group-title="UK Entertainment",MTV Classic VIP UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/10675.ts
+#EXTINF:-1 tvg-id="MTVDance.uk" tvg-name="MTVDance.uk" tvg-logo="http://epg4you.com/logos/mtvdance.png" group-title="UK Entertainment",MTV Dance UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1838.ts
+#EXTINF:-1 tvg-id="MTVDance.uk" tvg-name="MTVDance.uk" tvg-logo="http://epg4you.com/logos/mtvdance.png" group-title="UK Entertainment",MTV Dance VIP UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/10686.ts
+#EXTINF:-1 tvg-id="MTV.uk" tvg-name="MTV.uk" tvg-logo="http://epg4you.com/logos/mtv.png" group-title="UK Entertainment",MTV FHD VIP UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/10856.ts
+#EXTINF:-1 tvg-id="MTVHits.uk" tvg-name="MTVHits.uk" tvg-logo="http://epg4you.com/logos/mtvhits.png" group-title="UK Entertainment",MTV Hits UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1839.ts
+#EXTINF:-1 tvg-id="MTVHits.uk" tvg-name="MTVHits.uk" tvg-logo="http://epg4you.com/logos/mtvhits.png" group-title="UK Entertainment",MTV Hits VIP UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/10685.ts
+#EXTINF:-1 tvg-id="MTVHits.uk" tvg-name="MTVHits.uk" tvg-logo="http://epg4you.com/logos/mtvhits.png" group-title="UK Entertainment",MTV Live FHD VIP UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/10855.ts
+#EXTINF:-1 tvg-id="MTVMusic.uk" tvg-name="MTVMusic.uk" tvg-logo="http://epg4you.com/logos/mtvmusic.png" group-title="UK Entertainment",MTV Music +1 VIP UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/10682.ts
+#EXTINF:-1 tvg-id="MTVMusic.uk" tvg-name="MTVMusic.uk" tvg-logo="http://epg4you.com/logos/mtvmusic.png" group-title="UK Entertainment",MTV Music UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1840.ts
+#EXTINF:-1 tvg-id="MTVMusic.uk" tvg-name="MTVMusic.uk" tvg-logo="http://epg4you.com/logos/mtvmusic.png" group-title="UK Entertainment",MTV Music VIP UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/10683.ts
+#EXTINF:-1 tvg-id="MTVRocks.uk" tvg-name="MTVRocks.uk" tvg-logo="http://epg4you.com/logos/mtvrocks.png" group-title="UK Entertainment",MTV Rocks VIP UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/10681.ts
+#EXTINF:-1 tvg-id="MTV.uk" tvg-name="MTV.uk" tvg-logo="http://epg4you.com/logos/mtv.png" group-title="UK Entertainment",MTV UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1835.ts
+#EXTINF:-1 tvg-id="MTV.uk" tvg-name="MTV.uk" tvg-logo="http://epg4you.com/logos/mtv.png" group-title="UK Entertainment",MTV VIP UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/10692.ts
+#EXTINF:-1 tvg-id="My5.uk" tvg-name="My5.uk" tvg-logo="http://epg4you.com/logos/my5.png" group-title="UK Entertainment",My5 UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1789.ts
+#EXTINF:-1 tvg-id="My5.uk" tvg-name="My5.uk" tvg-logo="http://epg4you.com/logos/my5.png" group-title="UK Entertainment",My5 VIP UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/10679.ts
+#EXTINF:-1 tvg-id="NatGeoWild.uk" tvg-name="NatGeoWild.uk" tvg-logo="http://epg4you.com/logos/natgeowildhd.png" group-title="UK Entertainment",Nat Geo Wild FHD VIP UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/10853.ts
+#EXTINF:-1 tvg-id="NatGeoWild.uk" tvg-name="NatGeoWild.uk" tvg-logo="http://epg4you.com/logos/natgeowildhd.png" group-title="UK Entertainment",Nat Geo Wild UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1889.ts
+#EXTINF:-1 tvg-id="NationalGeographic.uk" tvg-name="NationalGeographic.uk" tvg-logo="http://epg4you.com/logos/nationalgeographic.png" group-title="UK Entertainment",National Geographic FHD UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1888.ts
+#EXTINF:-1 tvg-id="NationalGeographic.uk" tvg-name="NationalGeographic.uk" tvg-logo="http://epg4you.com/logos/nationalgeographic.png" group-title="UK Entertainment",National Geographic FHD VIP UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/10852.ts
+#EXTINF:-1 tvg-id="" tvg-name="New Boyles Sports VIP UK" tvg-logo="" group-title="UK Entertainment",New Boyles Sports VIP UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/11139.ts
+#EXTINF:-1 tvg-id="PBS.uk" tvg-name="PBS.uk" tvg-logo="http://epg4you.com/logos/pbs.png" group-title="UK Entertainment",PBS America UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1791.ts
+#EXTINF:-1 tvg-id="PeaceTV.uk" tvg-name="PeaceTV.uk" tvg-logo="http://epg4you.com/logos/peacetvenglish.png" group-title="UK Entertainment",Peace TV Urdu VIP UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/10634.ts
+#EXTINF:-1 tvg-id="PickTVPlus1.uk" tvg-name="PickTVPlus1.uk" tvg-logo="http://epg4you.com/logos/pickplus1.png" group-title="UK Entertainment",Pick +1 UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1951.ts
+#EXTINF:-1 tvg-id="PickTV.uk" tvg-name="PickTV.uk" tvg-logo="http://epg4you.com/logos/pick.png" group-title="UK Entertainment",Pick UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1853.ts
+#EXTINF:-1 tvg-id="PickTV.uk" tvg-name="PickTV.uk" tvg-logo="http://epg4you.com/logos/pick.png" group-title="UK Entertainment",Pick VIP UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/10671.ts
+#EXTINF:-1 tvg-id="QuestPlus1.uk" tvg-name="QuestPlus1.uk" tvg-logo="http://epg4you.com/logos/questplus1.png" group-title="UK Entertainment",Quest  1 VIP UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/10670.ts
+#EXTINF:-1 tvg-id="QuestRedPlus1.uk" tvg-name="QuestRedPlus1.uk" tvg-logo="http://epg4you.com/logos/questredplus1.png" group-title="UK Entertainment",QUEST RED +1 UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1749.ts
+#EXTINF:-1 tvg-id="QuestRed.uk" tvg-name="QuestRed.uk" tvg-logo="http://epg4you.com/logos/questred.png" group-title="UK Entertainment",QUEST RED UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1750.ts
+#EXTINF:-1 tvg-id="QuestRed.uk" tvg-name="QuestRed.uk" tvg-logo="http://epg4you.com/logos/questred.png" group-title="UK Entertainment",Quest Red VIP UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/10657.ts
+#EXTINF:-1 tvg-id="Quest.uk" tvg-name="Quest.uk" tvg-logo="http://epg4you.com/logos/quest.png" group-title="UK Entertainment",QUEST UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1890.ts
+#EXTINF:-1 tvg-id="Quest.uk" tvg-name="Quest.uk" tvg-logo="http://epg4you.com/logos/quest.png" group-title="UK Entertainment",Quest VIP UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/10672.ts
+#EXTINF:-1 tvg-id="QVCBeauty.uk" tvg-name="QVCBeauty.uk" tvg-logo="http://epg4you.com/logos/qvcbeauty.png" group-title="UK Entertainment",QVC Beauty HD VIP UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/10664.ts
+#EXTINF:-1 tvg-id="QVC.uk" tvg-name="QVC.uk" tvg-logo="http://epg4you.com/logos/qvc-vephauucha.png" group-title="UK Entertainment",QVC HD VIP UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/10673.ts
+#EXTINF:-1 tvg-id="MTVClassic.uk" tvg-name="MTVClassic.uk" tvg-logo="http://epg4you.com/logos/mtvclassic.png" group-title="UK Entertainment",Rap 2K Music TV UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1754.ts
+#EXTINF:-1 tvg-id="RealLivesPlus1.uk" tvg-name="RealLivesPlus1.uk" tvg-logo="http://epg4you.com/logos/reallivesplus1.png" group-title="UK Entertainment",Real Lives +1 UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1952.ts
+#EXTINF:-1 tvg-id="RealLives.uk" tvg-name="RealLives.uk" tvg-logo="http://epg4you.com/logos/reallives.png" group-title="UK Entertainment",Real Lives UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1939.ts
+#EXTINF:-1 tvg-id="Really.uk" tvg-name="Really.uk" tvg-logo="http://epg4you.com/logos/really.png" group-title="UK Entertainment",Really UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1940.ts
+#EXTINF:-1 tvg-id="Really.uk" tvg-name="Really.uk" tvg-logo="http://epg4you.com/logos/really.png" group-title="UK Entertainment",Really VIP UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/10659.ts
+#EXTINF:-1 tvg-id="Rishtey.uk" tvg-name="Rishtey.uk" tvg-logo="http://epg4you.com/logos/rishtey.png" group-title="UK Entertainment",Rishtey VIP UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/10661.ts
+#EXTINF:-1 tvg-id="RT.uk" tvg-name="RT.uk" tvg-logo="http://epg4you.com/logos/rtdocumentary.png" group-title="UK Entertainment",RT HD UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1779.ts
+#EXTINF:-1 tvg-id="RTEJr.ie" tvg-name="RTEJr.ie" tvg-logo="http://epg4you.com/logos/rtejr.png" group-title="UK Entertainment",RTÉ Jr UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1854.ts
+#EXTINF:-1 tvg-id="RTENewsNow.ie" tvg-name="RTENewsNow.ie" tvg-logo="http://epg4you.com/logos/rtenewsnow.png" group-title="UK Entertainment",RTÉ News Now UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1748.ts
+#EXTINF:-1 tvg-id="RTEOne.ie" tvg-name="RTEOne.ie" tvg-logo="http://epg4you.com/logos/rteonehd.png" group-title="UK Entertainment",RTÉ One HD UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1933.ts
+#EXTINF:-1 tvg-id="RTEOne.ie" tvg-name="RTEOne.ie" tvg-logo="http://epg4you.com/logos/rteonehd.png" group-title="UK Entertainment",RTÉ One UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1856.ts
+#EXTINF:-1 tvg-id="RTETwo.ie" tvg-name="RTETwo.ie" tvg-logo="http://epg4you.com/logos/rte2hd.png" group-title="UK Entertainment",RTÉ Two HD UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1932.ts
+#EXTINF:-1 tvg-id="RTETwo.ie" tvg-name="RTETwo.ie" tvg-logo="http://epg4you.com/logos/rte2hd.png" group-title="UK Entertainment",RTÉ Two UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1855.ts
+#EXTINF:-1 tvg-id="S4C.uk" tvg-name="S4C.uk" tvg-logo="http://epg4you.com/logos/s4c.png" group-title="UK Entertainment",S4C HD VIP UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/10658.ts
+#EXTINF:-1 tvg-id="S4C.uk" tvg-name="S4C.uk" tvg-logo="http://epg4you.com/logos/s4c.png" group-title="UK Entertainment",S4C UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1931.ts
+#EXTINF:-1 tvg-id="Scuzz.uk" tvg-name="Scuzz.uk" tvg-logo="http://epg4you.com/logos/scuzz.png" group-title="UK Entertainment",Scuzz UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/1747.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sheffield Steelers TV VIP UK" tvg-logo="" group-title="UK Entertainment",Sheffield Steelers TV VIP UK
+http://portal.geniptv.com:8080/live/philgrantham/5peQJahx6M/11138.ts
