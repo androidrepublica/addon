@@ -1,0 +1,174 @@
+
+
+#EXTM3U
+
+
+#EXTINF:-1,--------------------------RADIO MALAYSIA----------------------------
+
+#EXTINF:-1,[RADIOMY] THR GEGAR
+http://astro3.rastream.com/gegar?type=.flv&_=0.25499305268749595
+
+#EXTINF:-1,[RADIOMY] SINAR FM
+http://astro2.rastream.com/sinar?type=.flv&_=0.36323276814073324
+
+#EXTINF:-1,[RADIOMY] ERA FM
+http://astro2.rastream.com/era?type=.flv&_=0.6250803847797215
+
+#EXTINF:-1,[RADIOMY] ERA FM SABAH
+http://astro2.rastream.com/amp-era-kk?type=.flv
+
+#EXTINF:-1,[RADIOMY] ERA FM SARAWAK
+http://astro2.rastream.com/amp-era-kch?type=.flv
+
+#EXTINF:-1,[RADIOMY] HITZ FM
+http://astro1.rastream.com/hitz?type=.flv&_=0.6058576568029821
+
+#EXTINF:-1,[RADIOMY] HOT FM
+http://2033.live.streamtheworld.com/HOTFMAAC?streamtheworld_user=1&uuid=15D33000%2D0000%2D0001%2D6F5A%2D1120C6B01986&nobuf=1430320853303
+
+#EXTINF:-1,[RADIOMY] HOT FM T'GANU
+http://2173.live.streamtheworld.com/HOTFMTGANUAAC
+
+#EXTINF:-1,[RADIOMY] HOT FM KELATE
+http://2633.live.streamtheworld.com/HOTFMKELATEAAC
+
+#EXTINF:-1,[RADIOMY] SURIA FM
+http://starrfm.rastream.com/starrfm-suria?type=.flv&_=0.40780491195619106
+
+#EXTINF:-1,[RADIOMY] MIX FM
+http://astro2.rastream.com/mix?type=.flv&_=0.8714617709629238
+
+#EXTINF:-1,[RADIOMY] FLY FM
+http://4073.live.streamtheworld.com/FLYFMAAC?streamtheworld_user=1&uuid=15D33000%2D0000%2D0001%2D6F5A%2D1120C6B01986&nobuf=1430321011953
+
+#EXTINF:-1,[RADIOMY] MY FM
+http://astro1.rastream.com/myfm?type=.flv&_=0.1656162654981017
+
+#EXTINF:-1,[RADIOMY] LITE FM
+http://astro1.rastream.com/lite?type=.flv&_=0.7850716887041926
+
+#EXTINF:-1,[RADIOMY] MELODY FM
+http://astro3.rastream.com/melody?type=.flv&_=0.8069579061120749
+
+#EXTINF:-1,[RADIOMY] XFM
+http://audri.rastream.com/amp-xfm_audri?type=.flv&_=0.7630031453445554
+
+#EXTINF:-1,[RADIOMY] THR RAAGA
+http://astro3.rastream.com/raaga?type=.flv&_=0.2362835700623691
+
+#EXTINF:-1,[RADIOMY] RED FM
+http://starrfm.rastream.com/starrfm-redfm?type=.flv&_=0.20786468172445893
+
+#EXTINF:-1,[RADIOMY] MANIS FM
+http://radio.manis.fm:8000/;stream.nsv
+
+#EXTINF:-1,[RADIOMY] ONE FM
+http://2483.live.streamtheworld.com/ONEFMAAC?streamtheworld_user=1&uuid=15D33000%2D0000%2D0001%2D6F5A%2D1120C6B01986&nobuf=1430321847356
+
+#EXTINF:-1,[RADIOMY] ARENA
+http://astro1.rastream.com/amp-arena?type=.flv
+
+#EXTINF:-1,[RADIOMY] IKIM FM
+http://50.7.96.210:8285/;stream.mp3
+
+#EXTINF:-1,[RADIOMY] PI MAI FM
+http://5243.live.streamtheworld.com/PIMAIFMAAC?type=.flv
+
+#EXTINF:-1,[RADIOMY] FRENZY FM
+http://72.20.10.60:8000/;stream.mp3
+
+#EXTINF:-1,[RADIOMY] BEST 104
+http://69.197.60.122:8000/;stream.mp3
+
+#EXTINF:-1,[RADIOMY] KARYA FM
+http://radio.karyafm.my:8000/;stream.mp3
+
+#EXTINF:-1,[RADIOMY] CATS FM
+http://199.189.111.28:8244/;stream.mp3
+
+#EXTINF:-1,[RADIOMY] CHERIA FM
+http://37.187.79.153:5428/;stream.mp3
+
+#EXTINF:-1,[RADIOMY] AMBOI FM
+http://72.20.10.60:8000/;stream.mp3
+
+#EXTINF:-1,[RADIOMY] MAKMUR FM
+http://s2.voscast.com:8448/;stream.mp3
+
+#EXTINF:-1,[RADIOMY] SABAH VFM
+http://s8.voscast.com:7472/;stream.mp3
+
+#EXTINF:-1,[RADIOMY] KEDAH FM
+http://60.51.214.210:8000/;stream.mp3
+
+#EXTINF:-1,[RADIOMY] MUTIARA FM
+http://60.54.189.90:8085/;stream.mp3
+
+#EXTINF:-1,[RADIOMY] PERLIS FM
+http://198.154.106.102:8453/;stream.mp3
+
+#EXTINF:-1,[RADIOMY] SELANGOR FM
+http://streamer1.cf.aws.stream.my/audio/mp4:rtm-ch019.stream/chunklist.m3u8
+
+#EXTINF:-1,[RADIOMY] KELANTAN FM
+http://72.20.10.34:8000/;stream.mp3
+
+#EXTINF:-1,[RADIOMY] SABAH FM
+http://s8.voscast.com:7484/;stream.mp3
+
+#EXTINF:-1,[RADIOMY] LABUAN FM
+http://streamer1.cf.aws.stream.my/audio/mp4:rtm-ch025.stream/chunklist.m3u8
+
+#EXTINF:-1,[RADIOMY] SARAWAK FM
+http://124.82.221.149:8000/;stream.mp3
+
+#EXTINF:-1,[RADIOMY] TERENGGANU FM
+http://218.208.228.62:8000/;stream.mp3
+
+#EXTINF:-1,[RADIOMY] CILI FM
+http://72.20.10.36:8000/;stream.mp3
+
+#EXTINF:-1,[RADIO] BFM 89.9 FM
+http://9303.live.streamtheworld.com/BFMMEDIAAAC?type=.flv
+
+#EXTINF:-1,[RADIO] CAPITAL FM 88.9
+http://starrfm.rastream.com/starrfm-capital?type=.flv&_=0.42006113519892097
+
+#EXTINF:-1,[RADIO] GEMPAR FM
+http://usa2.fastcast4u.com:3084/;stream.mp3
+
+#EXTINF:-1,[RADIO] ON9 FM 
+http://50.7.14.139:8988/;stream.mp3
+
+#EXTINF:-1,[RADIO] AFORADIO
+http://192.163.211.103:8000/aforadio.mp3?1430323000373.mp3
+
+#EXTINF:-1,[RADIOASTRO] CLASSIC ROCK
+http://astro4.rastream.com/rock?type=.flv
+
+#EXTINF:-1,[RADIOASTRO] INDIA BEAT
+http://astro4.rastream.com/india?type=.flv
+
+#EXTINF:-1,[RADIOASTRO] OSAI FM
+http://astro4.rastream.com/osai?type=.flv
+
+#EXTINF:-1,[RADIOASTRO] JAZZ
+http://astro4.rastream.com/jazz?type=.flv
+
+#EXTINF:-1,[RADIOASTROSG] GOLD
+http://astro4.rastream.com/gold?type=.flv
+
+#EXTINF:-1,[RADIOASTRO] OPUS
+http://astro4.rastream.com/opus?type=.flv
+
+#EXTINF:-1,[RADIOSG] 988 FM
+http://starrfm.rastream.com/starrfm-988?type=.flv
+
+#EXTINF:-1,--------------------------RADIO SINGAPORE---------------------------- 
+
+#EXTINF:-1,[RADIOSG] RIA 89.7 FM
+http://mediacorp.rastream.com/897fm?type=.flv
+
+#EXTINF:-1,[RADIOSG] WARNA 94.2 FM
+http://mediacorp.rastream.com/942fm?type=.flv
+
