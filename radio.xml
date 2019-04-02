@@ -5,167 +5,167 @@
 #EXTINF:-1 tvg-id="" tvg-name="THR GEGAR" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/863_300.png" group-title="MALAYSIA",THR GEGAR
 http://astro3.rastream.com/gegar?type=.flv&_=0.25499305268749595
 
-#EXTINF:-1, tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/857_300.png" group-title="MALAYSIA",SINAR FM
+#EXTINF:-1 tvg-id="" tvg-name="SINAR FM" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/857_300.png" group-title="MALAYSIA",SINAR FM
 http://astro2.rastream.com/sinar?type=.flv&_=0.36323276814073324
 
-#EXTINF:-1, tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/856_300.png" group-title="MALAYSIA",ERA FM
+#EXTINF:-1 tvg-id="" tvg-name="ERA FM" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/856_300.png" group-title="MALAYSIA",ERA FM
 http://astro2.rastream.com/era?type=.flv&_=0.6250803847797215
 
-#EXTINF:-1, tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/856_300.png" group-title="MALAYSIA",ERA FM SABAH
+#EXTINF:-1 tvg-id="" tvg-name="ERA FM SABAH" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/856_300.png" group-title="MALAYSIA",ERA FM SABAH
 http://astro2.rastream.com/amp-era-kk?type=.flv
 
-#EXTINF:-1, tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/856_300.png" group-title="MALAYSIA",ERA FM SARAWAK
+#EXTINF:-1 tvg-id="" tvg-name="ERA FM SARAWAK" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/856_300.png" group-title="MALAYSIA",ERA FM SARAWAK
 http://astro2.rastream.com/amp-era-kch?type=.flv
 
-#EXTINF:-1, tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/852_100.png" group-title="MALAYSIA",HITZ FM
+#EXTINF:-1 tvg-id="" tvg-name="HITZ FM" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/852_100.png" group-title="MALAYSIA",HITZ FM
 http://astro1.rastream.com/hitz?type=.flv&_=0.6058576568029821
 
-#EXTINF:-1, tvg-logo="https://assets.hotfm.com.my/2019/03/logo_hotfm_150x84_white.png" group-title="MALAYSIA",HOT FM
+#EXTINF:-1 tvg-id="" tvg-name="HOT FM" tvg-logo="https://assets.hotfm.com.my/2019/03/logo_hotfm_150x84_white.png" group-title="MALAYSIA",HOT FM
 http://2033.live.streamtheworld.com/HOTFMAAC?streamtheworld_user=1&uuid=15D33000%2D0000%2D0001%2D6F5A%2D1120C6B01986&nobuf=1430320853303
 
-#EXTINF:-1, tvg-logo="https://assets.hotfm.com.my/2019/03/logo_hotfm_150x84_white.png" group-title="MALAYSIA",HOT FM T'GANU
+#EXTINF:-1 tvg-id="" tvg-name="HOT FM T'GANU" tvg-logo="https://assets.hotfm.com.my/2019/03/logo_hotfm_150x84_white.png" group-title="MALAYSIA",HOT FM T'GANU
 http://2173.live.streamtheworld.com/HOTFMTGANUAAC
 
-#EXTINF:-1, tvg-logo="https://assets.hotfm.com.my/2019/03/logo_hotfm_150x84_white.png" group-title="MALAYSIA",HOT FM KELATE
+#EXTINF:-1 tvg-id="" tvg-name="HOT FM KELATE" tvg-logo="https://assets.hotfm.com.my/2019/03/logo_hotfm_150x84_white.png" group-title="MALAYSIA",HOT FM KELATE
 http://2633.live.streamtheworld.com/HOTFMKELATEAAC
 
-#EXTINF:-1, tvg-logo="https://static.suria.my/static/images/suria-logo.png" group-title="MALAYSIA",SURIA FM
+#EXTINF:-1 tvg-id="" tvg-name="SURIA FM" tvg-logo="https://static.suria.my/static/images/suria-logo.png" group-title="MALAYSIA",SURIA FM
 http://starrfm.rastream.com/starrfm-suria?type=.flv&_=0.40780491195619106
 
-#EXTINF:-1, tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/855_100.png" group-title="MALAYSIA",MIX FM
+#EXTINF:-1 tvg-id="" tvg-name="MIX FM" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/855_100.png" group-title="MALAYSIA",MIX FM
 http://astro2.rastream.com/mix?type=.flv&_=0.8714617709629238
 
-#EXTINF:-1, tvg-logo="https://assets.flyfm.com.my/2019/01/logo_flyfm_96x60.png" group-title="MALAYSIA",FLY FM
+#EXTINF:-1 tvg-id="" tvg-name="FLY FM" tvg-logo="https://assets.flyfm.com.my/2019/01/logo_flyfm_96x60.png" group-title="MALAYSIA",FLY FM
 http://4073.live.streamtheworld.com/FLYFMAAC?streamtheworld_user=1&uuid=15D33000%2D0000%2D0001%2D6F5A%2D1120C6B01986&nobuf=1430321011953
 
-#EXTINF:-1, tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/853_100.png" group-title="MALAYSIA",MY FM
+#EXTINF:-1 tvg-id="" tvg-name="MY FM" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/853_100.png" group-title="MALAYSIA",MY FM
 http://astro1.rastream.com/myfm?type=.flv&_=0.1656162654981017
 
-#EXTINF:-1, tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/854_100.png" group-title="MALAYSIA",LITE FM
+#EXTINF:-1 tvg-id="" tvg-name="LITE FM" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/854_100.png" group-title="MALAYSIA",LITE FM
 http://astro1.rastream.com/lite?type=.flv&_=0.7850716887041926
 
-#EXTINF:-1, tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/858_100.png" group-title="MALAYSIA",MELODY FM
+#EXTINF:-1 tvg-id="" tvg-name="MELODY FM" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/858_100.png" group-title="MALAYSIA",MELODY FM
 http://astro3.rastream.com/melody?type=.flv&_=0.8069579061120749
 
-#EXTINF:-1, tvg-logo="https://www.liveonlineradio.net/wp-content/uploads/2011/06/X-FM.jpg" group-title="MALAYSIA",XFM
+#EXTINF:-1 tvg-id="" tvg-name="XFM" tvg-logo="https://www.liveonlineradio.net/wp-content/uploads/2011/06/X-FM.jpg" group-title="MALAYSIA",XFM
 http://audri.rastream.com/amp-xfm_audri?type=.flv&_=0.7630031453445554
 
-#EXTINF:-1, tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/859_100.png" group-title="MALAYSIA",THR RAAGA
+#EXTINF:-1 tvg-id="" tvg-name="THR RAAGA" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/859_100.png" group-title="MALAYSIA",THR RAAGA
 http://astro3.rastream.com/raaga?type=.flv&_=0.2362835700623691
 
-#EXTINF:-1, tvg-logo="https://www.liveonlineradio.net/wp-content/uploads/2011/06/Red-FM-Malaysia-1.jpg" group-title="MALAYSIA",RED FM
+#EXTINF:-1 tvg-id="" tvg-name="RED FM" tvg-logo="https://www.liveonlineradio.net/wp-content/uploads/2011/06/Red-FM-Malaysia-1.jpg" group-title="MALAYSIA",RED FM
 http://starrfm.rastream.com/starrfm-redfm?type=.flv&_=0.20786468172445893
 
-#EXTINF:-1, tvg-logo="https://static.radio.net/images/broadcasts/0f/ce/21931/c175.png" group-title="MALAYSIA",MANIS FM
+#EXTINF:-1 tvg-id="" tvg-name="MANIS FM" tvg-logo="https://static.radio.net/images/broadcasts/0f/ce/21931/c175.png" group-title="MALAYSIA",MANIS FM
 http://radio.manis.fm:8000/;stream.nsv
 
-#EXTINF:-1, tvg-logo="https://assets.onefm.com.my/2019/01/logo_onefm_512x512.png" group-title="MALAYSIA",ONE FM
+#EXTINF:-1 tvg-id="" tvg-name="ONE FM" tvg-logo="https://assets.onefm.com.my/2019/01/logo_onefm_512x512.png" group-title="MALAYSIA",ONE FM
 http://2483.live.streamtheworld.com/ONEFMAAC?streamtheworld_user=1&uuid=15D33000%2D0000%2D0001%2D6F5A%2D1120C6B01986&nobuf=1430321847356
 
-#EXTINF:-1, tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/801_100.png" group-title="MALAYSIA",ARENA
+#EXTINF:-1 tvg-id="" tvg-name="ARENA" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/801_100.png" group-title="MALAYSIA",ARENA
 http://astro1.rastream.com/amp-arena?type=.flv
 
-#EXTINF:-1, tvg-logo="http://assets.radioactive.sg/org-ikimfm%2F8bdb1b9b-7bce-4a11-a34e-15d3a98d9752.png" group-title="MALAYSIA",IKIM FM
+#EXTINF:-1 tvg-id="" tvg-name="IKIM FM" tvg-logo="http://assets.radioactive.sg/org-ikimfm%2F8bdb1b9b-7bce-4a11-a34e-15d3a98d9752.png" group-title="MALAYSIA",IKIM FM
 http://50.7.96.210:8285/;stream.mp3
 
-#EXTINF:-1, tvg-logo="http://www.onlineliveradio.net/wp-content/uploads/2015/01/pimaifm.png" group-title="MALAYSIA",PI MAI FM
+#EXTINF:-1 tvg-id="" tvg-name="PI MAI FM" tvg-logo="http://www.onlineliveradio.net/wp-content/uploads/2015/01/pimaifm.png" group-title="MALAYSIA",PI MAI FM
 http://5243.live.streamtheworld.com/PIMAIFMAAC?type=.flv
 
-#EXTINF:-1, tvg-logo="https://www.liveonlineradio.net/wp-content/uploads/2011/06/frenzy-fm.jpg" group-title="MALAYSIA",FRENZY FM
+#EXTINF:-1 tvg-id="" tvg-name="FRENZY FM" tvg-logo="https://www.liveonlineradio.net/wp-content/uploads/2011/06/frenzy-fm.jpg" group-title="MALAYSIA",FRENZY FM
 http://72.20.10.60:8000/;stream.mp3
 
-#EXTINF:-1, tvg-logo="https://www.liveonlineradio.net/wp-content/uploads/2011/06/Best-104-FM1.jpg" group-title="MALAYSIA",BEST 104
+#EXTINF:-1 tvg-id="" tvg-name="BEST 104" tvg-logo="https://www.liveonlineradio.net/wp-content/uploads/2011/06/Best-104-FM1.jpg" group-title="MALAYSIA",BEST 104
 http://69.197.60.122:8000/;stream.mp3
 
-#EXTINF:-1, tvg-logo="https://www.liveonlineradio.net/wp-content/uploads/2011/11/karya-fm.jpg" group-title="MALAYSIA",KARYA FM
+#EXTINF:-1 tvg-id="" tvg-name="KARYA FM" tvg-logo="https://www.liveonlineradio.net/wp-content/uploads/2011/11/karya-fm.jpg" group-title="MALAYSIA",KARYA FM
 http://radio.karyafm.my:8000/;stream.mp3
 
-#EXTINF:-1, tvg-logo="https://www.liveonlineradio.net/wp-content/uploads/2013/10/Cats-FM.jpg" group-title="MALAYSIA",CATS FM
+#EXTINF:-1 tvg-id="" tvg-name="CATS FM" tvg-logo="https://www.liveonlineradio.net/wp-content/uploads/2013/10/Cats-FM.jpg" group-title="MALAYSIA",CATS FM
 http://199.189.111.28:8244/;stream.mp3
 
-#EXTINF:-1, tvg-logo="https://www.liveonlineradio.net/wp-content/uploads/2016/12/Cheria-FM.jpg" group-title="MALAYSIA",CHERIA FM
+#EXTINF:-1 tvg-id="" tvg-name="CHERIA FM" tvg-logo="https://www.liveonlineradio.net/wp-content/uploads/2016/12/Cheria-FM.jpg" group-title="MALAYSIA",CHERIA FM
 http://37.187.79.153:5428/;stream.mp3
 
-#EXTINF:-1, tvg-logo="https://www.liveonlineradio.net/wp-content/uploads/2013/10/Amboi-FM.jpg" group-title="MALAYSIA",AMBOI FM
+#EXTINF:-1 tvg-id="" tvg-name="AMBOI FM" tvg-logo="https://www.liveonlineradio.net/wp-content/uploads/2013/10/Amboi-FM.jpg" group-title="MALAYSIA",AMBOI FM
 http://72.20.10.60:8000/;stream.mp3
 
-#EXTINF:-1, tvg-logo="https://cdn.webrad.io/images/logos/radioonline-my/makmur-fm.png" group-title="MALAYSIA",MAKMUR FM
+#EXTINF:-1 tvg-id="" tvg-name="MAKMUR FM" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-my/makmur-fm.png" group-title="MALAYSIA",MAKMUR FM
 http://s2.voscast.com:8448/;stream.mp3
 
-#EXTINF:-1, tvg-logo="http://www.listenradios.com/wp-content/uploads/2011/11/Sabah-VFM-1-1.jpg" group-title="MALAYSIA",SABAH VFM
+#EXTINF:-1 tvg-id="" tvg-name="SABAH VFM" tvg-logo="http://www.listenradios.com/wp-content/uploads/2011/11/Sabah-VFM-1-1.jpg" group-title="MALAYSIA",SABAH VFM
 http://s8.voscast.com:7472/;stream.mp3
 
-#EXTINF:-1, tvg-logo="https://www.liveonlineradio.net/wp-content/uploads/2011/06/kedah-fm.jpg" group-title="MALAYSIA",KEDAH FM
+#EXTINF:-1 tvg-id="" tvg-name="KEDAH FM" tvg-logo="https://www.liveonlineradio.net/wp-content/uploads/2011/06/kedah-fm.jpg" group-title="MALAYSIA",KEDAH FM
 http://60.51.214.210:8000/;stream.mp3
 
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Mutiara_FM_Logo.png" group-title="MALAYSIA",MUTIARA FM
+#EXTINF:-1 tvg-id="" tvg-name="MUTIARA FM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Mutiara_FM_Logo.png" group-title="MALAYSIA",MUTIARA FM
 http://60.54.189.90:8085/;stream.mp3
 
-#EXTINF:-1, tvg-logo="https://top-radio.org/wp-content/uploads/logo-fb/perlis-fm.jpg" group-title="MALAYSIA",PERLIS FM
+#EXTINF:-1 tvg-id="" tvg-name="PERLIS FM" tvg-logo="https://top-radio.org/wp-content/uploads/logo-fb/perlis-fm.jpg" group-title="MALAYSIA",PERLIS FM
 http://198.154.106.102:8453/;stream.mp3
 
-#EXTINF:-1, tvg-logo="https://top-radio.org/wp-content/uploads/logo/rtm-selangor-fm.jpg" group-title="MALAYSIA",SELANGOR FM
+#EXTINF:-1 tvg-id="" tvg-name="SELANGOR FM" tvg-logo="https://top-radio.org/wp-content/uploads/logo/rtm-selangor-fm.jpg" group-title="MALAYSIA",SELANGOR FM
 http://streamer1.cf.aws.stream.my/audio/mp4:rtm-ch019.stream/chunklist.m3u8
 
-#EXTINF:-1, tvg-logo="https://cdn.webrad.io/images/logos/radioonline-my/kelantan.png" group-title="MALAYSIA",KELANTAN FM
+#EXTINF:-1 tvg-id="" tvg-name="KELANTAN FM" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-my/kelantan.png" group-title="MALAYSIA",KELANTAN FM
 http://72.20.10.34:8000/;stream.mp3
 
-#EXTINF:-1, tvg-logo="https://www.liveonlineradio.net/wp-content/uploads/2011/06/Sabah-FM-1.jpg" group-title="MALAYSIA",SABAH FM
+#EXTINF:-1 tvg-id="" tvg-name="SABAH FM" tvg-logo="https://www.liveonlineradio.net/wp-content/uploads/2011/06/Sabah-FM-1.jpg" group-title="MALAYSIA",SABAH FM
 http://s8.voscast.com:7484/;stream.mp3
 
-#EXTINF:-1, tvg-logo="https://www.liveonlineradio.net/wp-content/uploads/2011/06/Labuan-Fm.jpg" group-title="MALAYSIA",LABUAN FM
+#EXTINF:-1 tvg-id="" tvg-name="LABUAN FM" tvg-logo="https://www.liveonlineradio.net/wp-content/uploads/2011/06/Labuan-Fm.jpg" group-title="MALAYSIA",LABUAN FM
 http://streamer1.cf.aws.stream.my/audio/mp4:rtm-ch025.stream/chunklist.m3u8
 
-#EXTINF:-1, tvg-logo="https://www.liveonlineradio.net/wp-content/uploads/2011/06/sarawak.gif" group-title="MALAYSIA",SARAWAK FM
+#EXTINF:-1 tvg-id="" tvg-name="SARAWAK FM" tvg-logo="https://www.liveonlineradio.net/wp-content/uploads/2011/06/sarawak.gif" group-title="MALAYSIA",SARAWAK FM
 http://124.82.221.149:8000/;stream.mp3
 
-#EXTINF:-1, tvg-logo="https://cdn.webrad.io/images/logos/radioonline-my/terengganu.png" group-title="MALAYSIA",TERENGGANU FM
+#EXTINF:-1 tvg-id="" tvg-name="TERENGGANU FM" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-my/terengganu.png" group-title="MALAYSIA",TERENGGANU FM
 http://218.208.228.62:8000/;stream.mp3
 
-#EXTINF:-1, tvg-logo="https://www.liveonlineradio.net/wp-content/uploads/2014/12/Cili-Fm.jpg" group-title="MALAYSIA",CILI FM
+#EXTINF:-1 tvg-id="" tvg-name="CILI FM" tvg-logo="https://www.liveonlineradio.net/wp-content/uploads/2014/12/Cili-Fm.jpg" group-title="MALAYSIA",CILI FM
 http://72.20.10.36:8000/;stream.mp3
 
-#EXTINF:-1, tvg-logo="https://www.liveonlineradio.net/wp-content/uploads/2013/10/BFM-Radio1.jpg" group-title="MALAYSIA",BFM 89.9 FM
+#EXTINF:-1 tvg-id="" tvg-name="BFM 89.9 FM" tvg-logo="https://www.liveonlineradio.net/wp-content/uploads/2013/10/BFM-Radio1.jpg" group-title="MALAYSIA",BFM 89.9 FM
 http://9303.live.streamtheworld.com/BFMMEDIAAAC?type=.flv
 
-#EXTINF:-1, tvg-logo="https://www.liveonlineradio.net/wp-content/uploads/2013/10/Capital-FM-Malaysia.jpg" group-title="MALAYSIA",CAPITAL FM 88.9
+#EXTINF:-1 tvg-id="" tvg-name="CAPITAL FM 88.9" tvg-logo="https://www.liveonlineradio.net/wp-content/uploads/2013/10/Capital-FM-Malaysia.jpg" group-title="MALAYSIA",CAPITAL FM 88.9
 http://starrfm.rastream.com/starrfm-capital?type=.flv&_=0.42006113519892097
 
-#EXTINF:-1, tvg-logo="https://www.liveonlineradio.net/wp-content/uploads/2013/10/Gempar-Fm.jpg" group-title="MALAYSIA",GEMPAR FM
+#EXTINF:-1 tvg-id="" tvg-name="GEMPAR FM" tvg-logo="https://www.liveonlineradio.net/wp-content/uploads/2013/10/Gempar-Fm.jpg" group-title="MALAYSIA",GEMPAR FM
 http://usa2.fastcast4u.com:3084/;stream.mp3
 
-#EXTINF:-1, tvg-logo="https://cdn.webrad.io/images/countries/malaysia-logo_1200x630.png" group-title="MALAYSIA",ON9 FM 
+#EXTINF:-1 tvg-id="" tvg-name="ON9 FM" tvg-logo="https://cdn.webrad.io/images/countries/malaysia-logo_1200x630.png" group-title="MALAYSIA",ON9 FM 
 http://50.7.14.139:8988/;stream.mp3
 
-#EXTINF:-1, tvg-logo="https://www.aforadio.com/img/aforadio-logo.png" group-title="MALAYSIA",AFORADIO
+#EXTINF:-1 tvg-id="" tvg-name="AFORADIO" tvg-logo="https://www.aforadio.com/img/aforadio-logo.png" group-title="MALAYSIA",AFORADIO
 http://192.163.211.103:8000/aforadio.mp3?1430323000373.mp3
 
-#EXTINF:-1, tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/860_100.png" group-title="MALAYSIA",CLASSIC ROCK
+#EXTINF:-1 tvg-id="" tvg-name="CLASSIC ROCK" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/860_100.png" group-title="MALAYSIA",CLASSIC ROCK
 http://astro4.rastream.com/rock?type=.flv
 
-#EXTINF:-1, tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/864_100.png" group-title="MALAYSIA",INDIA BEAT
+#EXTINF:-1 tvg-id="" tvg-name="INDIA BEAT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/864_100.png" group-title="MALAYSIA",INDIA BEAT
 http://astro4.rastream.com/india?type=.flv
 
-#EXTINF:-1, tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/866_100.png" group-title="MALAYSIA",OSAI FM
+#EXTINF:-1 tvg-id="" tvg-name="OSAI FM" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/866_100.png" group-title="MALAYSIA",OSAI FM
 http://astro4.rastream.com/osai?type=.flv
 
-#EXTINF:-1, tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/865_100.png" group-title="MALAYSIA",JAZZ
+#EXTINF:-1 tvg-id="" tvg-name="JAZZ" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/865_100.png" group-title="MALAYSIA",JAZZ
 http://astro4.rastream.com/jazz?type=.flv
 
-#EXTINF:-1, tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/861_100.png" group-title="MALAYSIA",GOLD
+#EXTINF:-1 tvg-id="" tvg-name="GOLD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/861_100.png" group-title="MALAYSIA",GOLD
 http://astro4.rastream.com/gold?type=.flv
 
-#EXTINF:-1, tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/862_100.png" group-title="MALAYSIA",OPUS
+#EXTINF:-1 tvg-id="" tvg-name="OPUS" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/862_100.png" group-title="MALAYSIA",OPUS
 http://astro4.rastream.com/opus?type=.flv
 
-#EXTINF:-1, tvg-logo="https://www.liveonlineradio.net/wp-content/uploads/2011/06/988-fm-100x47.jpg" group-title="MALAYSIA",988 FM
+#EXTINF:-1 tvg-id="" tvg-name="988 FM" tvg-logo="https://www.liveonlineradio.net/wp-content/uploads/2011/06/988-fm-100x47.jpg" group-title="MALAYSIA",988 FM
 http://starrfm.rastream.com/starrfm-988?type=.flv
 
 #EXTINF:-1,--------------------------RADIO SINGAPORE---------------------------- 
 
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/81/Ria_897fm_logo.jpg" group-title="MALAYSIA",RIA 89.7 FM
+#EXTINF:-1 tvg-id="" tvg-name="RIA 89.7 FM" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/81/Ria_897fm_logo.jpg" group-title="MALAYSIA",RIA 89.7 FM
 http://mediacorp.rastream.com/897fm?type=.flv
 
-#EXTINF:-1, tvg-logo="https://cdn.webrad.io/images/logos/radiosingapore-org/warna.png" group-title="MALAYSIA",WARNA 94.2 FM
+#EXTINF:-1 tvg-id="" tvg-name="WARNA 94.2 FM" tvg-logo="https://cdn.webrad.io/images/logos/radiosingapore-org/warna.png" group-title="MALAYSIA",WARNA 94.2 FM
 http://mediacorp.rastream.com/942fm?type=.flv
 
