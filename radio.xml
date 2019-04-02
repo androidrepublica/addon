@@ -8,7 +8,7 @@ http://astro3.rastream.com/gegar?type=.flv&_=0.25499305268749595
 #EXTINF:-1 tvg-id="" tvg-name="SINAR FM" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/857_300.png" group-title="MALAYSIA",SINAR FM
 http://astro2.rastream.com/sinar?type=.flv&_=0.36323276814073324
 
-#EXTINF:-1 tvg-id="" tvg-name="Klasik Nasional FM" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/yhJJMEVCrU.jpg" group-title="MALAYSIA",Klasik Nasional FM
+#EXTINF:-1 tvg-id="" tvg-name="KLASIK NASIONAL FM" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/yhJJMEVCrU.jpg" group-title="MALAYSIA",KLASIK NASIONAL FM
 https://dkmgz1nucppmx.cloudfront.net/rtm-ch016/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ERA FM" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/856_300.png" group-title="MALAYSIA",ERA FM
@@ -22,6 +22,9 @@ http://astro2.rastream.com/amp-era-kch?type=.flv
 
 #EXTINF:-1 tvg-id="" tvg-name="MY UMMAH FM" tvg-logo="https://img6.androidappsapk.co/300/d/e/b/my.tujuh.myummahfm.png" group-title="MALAYSIA",MY UMMAH FM
 http://cloud.tujuh.my:8073/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="RTM Ai FM" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/bZ9AMJPZyw.png" group-title="MALAYSIA",RTM Ai FM
+https://dkmgz1nucppmx.cloudfront.net/rtm-ch020/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="HITZ FM" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/852_100.png" group-title="MALAYSIA",HITZ FM
 http://astro1.rastream.com/hitz?type=.flv&_=0.6058576568029821
@@ -66,7 +69,7 @@ http://starrfm.rastream.com/starrfm-redfm?type=.flv&_=0.20786468172445893
 http://radio.manis.fm:8000/;stream.nsv
 
 #EXTINF:-1 tvg-id="" tvg-name="ONE FM" tvg-logo="https://assets.onefm.com.my/2019/01/logo_onefm_512x512.png" group-title="MALAYSIA",ONE FM
-http://2483.live.streamtheworld.com/ONEFMAAC?streamtheworld_user=1&uuid=15D33000%2D0000%2D0001%2D6F5A%2D1120C6B01986&nobuf=1430321847356
+http://mediaprima.rastream.com/mediaprima-onefm
 
 #EXTINF:-1 tvg-id="" tvg-name="ARENA" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/801_100.png" group-title="MALAYSIA",ARENA
 http://astro1.rastream.com/amp-arena?type=.flv
@@ -114,7 +117,7 @@ http://198.154.106.102:8453/;stream.mp3
 http://streamer1.cf.aws.stream.my/audio/mp4:rtm-ch019.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="KELANTAN FM" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-my/kelantan.png" group-title="MALAYSIA",KELANTAN FM
-http://72.20.10.34:8000/;stream.mp3
+https://dkmgz1nucppmx.cloudfront.net/rtm-ch032/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SABAH FM" tvg-logo="https://www.liveonlineradio.net/wp-content/uploads/2011/06/Sabah-FM-1.jpg" group-title="MALAYSIA",SABAH FM
 http://s8.voscast.com:7484/;stream.mp3
@@ -172,6 +175,9 @@ http://radio.bapakku.fm:8000
 
 #EXTINF:-1 tvg-id="" tvg-name="UTHM Radio" tvg-logo="http://global.uthm.edu.my/assets/images/uthmradio-1400x1048-64.jpg" group-title="MALAYSIA",UTHM Radio
 http://radio.uthm.edu.my:8000/live.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="Nurul Quran" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/49bxuraxkpwe.jpg" group-title="MALAYSIA",Nurul Quran
+http://cloud.tujuh.my:8073/stream
 
 #EXTINF:-1 tvg-id="" tvg-name="Kool FM" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/MAhFL9xTjR.png" group-title="MALAYSIA",Kool FM
 http://mediaprima.rastream.com//mediaprima-koolfm
