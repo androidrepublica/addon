@@ -2,10 +2,7 @@
 
 #EXTM3U
 
-
-#EXTINF:-1,--------------------------RADIO MALAYSIA----------------------------
-
-#EXTINF:0, tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/863_300.png" group-title="MALAYSIA",THR GEGAR
+#EXTINF:-1 tvg-id="" tvg-name="THR GEGAR" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/863_300.png" group-title="MALAYSIA",THR GEGAR
 http://astro3.rastream.com/gegar?type=.flv&_=0.25499305268749595
 
 #EXTINF:-1, tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/857_300.png" group-title="MALAYSIA",SINAR FM
