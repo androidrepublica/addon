@@ -74,101 +74,101 @@ http://50.7.96.210:8285/;stream.mp3
 #EXTINF:-1, tvg-logo="http://www.onlineliveradio.net/wp-content/uploads/2015/01/pimaifm.png" group-title="MALAYSIA",PI MAI FM
 http://5243.live.streamtheworld.com/PIMAIFMAAC?type=.flv
 
-#EXTINF:-1,[RADIOMY] FRENZY FM
+#EXTINF:-1, tvg-logo="https://www.liveonlineradio.net/wp-content/uploads/2011/06/frenzy-fm.jpg" group-title="MALAYSIA",FRENZY FM
 http://72.20.10.60:8000/;stream.mp3
 
-#EXTINF:-1,[RADIOMY] BEST 104
+#EXTINF:-1, tvg-logo="https://www.liveonlineradio.net/wp-content/uploads/2011/06/Best-104-FM1.jpg" group-title="MALAYSIA",BEST 104
 http://69.197.60.122:8000/;stream.mp3
 
-#EXTINF:-1,[RADIOMY] KARYA FM
+#EXTINF:-1, tvg-logo="https://www.liveonlineradio.net/wp-content/uploads/2011/11/karya-fm.jpg" group-title="MALAYSIA",KARYA FM
 http://radio.karyafm.my:8000/;stream.mp3
 
-#EXTINF:-1,[RADIOMY] CATS FM
+#EXTINF:-1, tvg-logo="https://www.liveonlineradio.net/wp-content/uploads/2013/10/Cats-FM.jpg" group-title="MALAYSIA",CATS FM
 http://199.189.111.28:8244/;stream.mp3
 
-#EXTINF:-1,[RADIOMY] CHERIA FM
+#EXTINF:-1, tvg-logo="https://www.liveonlineradio.net/wp-content/uploads/2016/12/Cheria-FM.jpg" group-title="MALAYSIA",CHERIA FM
 http://37.187.79.153:5428/;stream.mp3
 
-#EXTINF:-1,[RADIOMY] AMBOI FM
+#EXTINF:-1, tvg-logo="https://www.liveonlineradio.net/wp-content/uploads/2013/10/Amboi-FM.jpg" group-title="MALAYSIA",AMBOI FM
 http://72.20.10.60:8000/;stream.mp3
 
-#EXTINF:-1,[RADIOMY] MAKMUR FM
+#EXTINF:-1, tvg-logo="https://cdn.webrad.io/images/logos/radioonline-my/makmur-fm.png" group-title="MALAYSIA",MAKMUR FM
 http://s2.voscast.com:8448/;stream.mp3
 
-#EXTINF:-1,[RADIOMY] SABAH VFM
+#EXTINF:-1, tvg-logo="http://www.listenradios.com/wp-content/uploads/2011/11/Sabah-VFM-1-1.jpg" group-title="MALAYSIA",SABAH VFM
 http://s8.voscast.com:7472/;stream.mp3
 
-#EXTINF:-1,[RADIOMY] KEDAH FM
+#EXTINF:-1, tvg-logo="https://www.liveonlineradio.net/wp-content/uploads/2011/06/kedah-fm.jpg" group-title="MALAYSIA",KEDAH FM
 http://60.51.214.210:8000/;stream.mp3
 
-#EXTINF:-1,[RADIOMY] MUTIARA FM
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Mutiara_FM_Logo.png" group-title="MALAYSIA",MUTIARA FM
 http://60.54.189.90:8085/;stream.mp3
 
-#EXTINF:-1,[RADIOMY] PERLIS FM
+#EXTINF:-1, tvg-logo="https://top-radio.org/wp-content/uploads/logo-fb/perlis-fm.jpg" group-title="MALAYSIA",PERLIS FM
 http://198.154.106.102:8453/;stream.mp3
 
-#EXTINF:-1,[RADIOMY] SELANGOR FM
+#EXTINF:-1, tvg-logo="https://top-radio.org/wp-content/uploads/logo/rtm-selangor-fm.jpg" group-title="MALAYSIA",SELANGOR FM
 http://streamer1.cf.aws.stream.my/audio/mp4:rtm-ch019.stream/chunklist.m3u8
 
-#EXTINF:-1,[RADIOMY] KELANTAN FM
+#EXTINF:-1, tvg-logo="https://cdn.webrad.io/images/logos/radioonline-my/kelantan.png" group-title="MALAYSIA",KELANTAN FM
 http://72.20.10.34:8000/;stream.mp3
 
-#EXTINF:-1,[RADIOMY] SABAH FM
+#EXTINF:-1, tvg-logo="https://www.liveonlineradio.net/wp-content/uploads/2011/06/Sabah-FM-1.jpg" group-title="MALAYSIA",SABAH FM
 http://s8.voscast.com:7484/;stream.mp3
 
-#EXTINF:-1,[RADIOMY] LABUAN FM
+#EXTINF:-1, tvg-logo="https://www.liveonlineradio.net/wp-content/uploads/2011/06/Labuan-Fm.jpg" group-title="MALAYSIA",LABUAN FM
 http://streamer1.cf.aws.stream.my/audio/mp4:rtm-ch025.stream/chunklist.m3u8
 
-#EXTINF:-1,[RADIOMY] SARAWAK FM
+#EXTINF:-1, tvg-logo="https://www.liveonlineradio.net/wp-content/uploads/2011/06/sarawak.gif" group-title="MALAYSIA",SARAWAK FM
 http://124.82.221.149:8000/;stream.mp3
 
-#EXTINF:-1,[RADIOMY] TERENGGANU FM
+#EXTINF:-1, tvg-logo="https://cdn.webrad.io/images/logos/radioonline-my/terengganu.png" group-title="MALAYSIA",TERENGGANU FM
 http://218.208.228.62:8000/;stream.mp3
 
-#EXTINF:-1,[RADIOMY] CILI FM
+#EXTINF:-1, tvg-logo="https://www.liveonlineradio.net/wp-content/uploads/2014/12/Cili-Fm.jpg" group-title="MALAYSIA",CILI FM
 http://72.20.10.36:8000/;stream.mp3
 
-#EXTINF:-1,[RADIO] BFM 89.9 FM
+#EXTINF:-1, tvg-logo="https://www.liveonlineradio.net/wp-content/uploads/2013/10/BFM-Radio1.jpg" group-title="MALAYSIA",BFM 89.9 FM
 http://9303.live.streamtheworld.com/BFMMEDIAAAC?type=.flv
 
-#EXTINF:-1,[RADIO] CAPITAL FM 88.9
+#EXTINF:-1, tvg-logo="https://www.liveonlineradio.net/wp-content/uploads/2013/10/Capital-FM-Malaysia.jpg" group-title="MALAYSIA",CAPITAL FM 88.9
 http://starrfm.rastream.com/starrfm-capital?type=.flv&_=0.42006113519892097
 
-#EXTINF:-1,[RADIO] GEMPAR FM
+#EXTINF:-1, tvg-logo="https://www.liveonlineradio.net/wp-content/uploads/2013/10/Gempar-Fm.jpg" group-title="MALAYSIA",GEMPAR FM
 http://usa2.fastcast4u.com:3084/;stream.mp3
 
-#EXTINF:-1,[RADIO] ON9 FM 
+#EXTINF:-1, tvg-logo="https://cdn.webrad.io/images/countries/malaysia-logo_1200x630.png" group-title="MALAYSIA",ON9 FM 
 http://50.7.14.139:8988/;stream.mp3
 
-#EXTINF:-1,[RADIO] AFORADIO
+#EXTINF:-1, tvg-logo="https://www.aforadio.com/img/aforadio-logo.png" group-title="MALAYSIA",AFORADIO
 http://192.163.211.103:8000/aforadio.mp3?1430323000373.mp3
 
-#EXTINF:-1,[RADIOASTRO] CLASSIC ROCK
+#EXTINF:-1, tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/860_100.png" group-title="MALAYSIA",CLASSIC ROCK
 http://astro4.rastream.com/rock?type=.flv
 
-#EXTINF:-1,[RADIOASTRO] INDIA BEAT
+#EXTINF:-1, tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/864_100.png" group-title="MALAYSIA",INDIA BEAT
 http://astro4.rastream.com/india?type=.flv
 
-#EXTINF:-1,[RADIOASTRO] OSAI FM
+#EXTINF:-1, tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/866_100.png" group-title="MALAYSIA",OSAI FM
 http://astro4.rastream.com/osai?type=.flv
 
-#EXTINF:-1,[RADIOASTRO] JAZZ
+#EXTINF:-1, tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/865_100.png" group-title="MALAYSIA",JAZZ
 http://astro4.rastream.com/jazz?type=.flv
 
-#EXTINF:-1,[RADIOASTROSG] GOLD
+#EXTINF:-1, tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/861_100.png" group-title="MALAYSIA",GOLD
 http://astro4.rastream.com/gold?type=.flv
 
-#EXTINF:-1,[RADIOASTRO] OPUS
+#EXTINF:-1, tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/862_100.png" group-title="MALAYSIA",OPUS
 http://astro4.rastream.com/opus?type=.flv
 
-#EXTINF:-1,[RADIOSG] 988 FM
+#EXTINF:-1, tvg-logo="https://www.liveonlineradio.net/wp-content/uploads/2011/06/988-fm-100x47.jpg" group-title="MALAYSIA",988 FM
 http://starrfm.rastream.com/starrfm-988?type=.flv
 
 #EXTINF:-1,--------------------------RADIO SINGAPORE---------------------------- 
 
-#EXTINF:-1,[RADIOSG] RIA 89.7 FM
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/81/Ria_897fm_logo.jpg" group-title="MALAYSIA",RIA 89.7 FM
 http://mediacorp.rastream.com/897fm?type=.flv
 
-#EXTINF:-1,[RADIOSG] WARNA 94.2 FM
+#EXTINF:-1, tvg-logo="https://cdn.webrad.io/images/logos/radiosingapore-org/warna.png" group-title="MALAYSIA",WARNA 94.2 FM
 http://mediacorp.rastream.com/942fm?type=.flv
 
