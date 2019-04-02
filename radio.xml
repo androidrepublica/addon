@@ -66,7 +66,7 @@ http://2483.live.streamtheworld.com/ONEFMAAC?streamtheworld_user=1&uuid=15D33000
 http://astro1.rastream.com/amp-arena?type=.flv
 
 #EXTINF:-1 tvg-id="" tvg-name="IKIM FM" tvg-logo="http://assets.radioactive.sg/org-ikimfm%2F8bdb1b9b-7bce-4a11-a34e-15d3a98d9752.png" group-title="MALAYSIA",IKIM FM
-https://hls.rastream.com/ikim-ikimfm.web.hls/playlist.m3u8
+https://chunks.rastream.com/ikim-ikimfm/5T9yIUOh5Wkp-310844901-4992.aac
 
 #EXTINF:-1 tvg-id="" tvg-name="PI MAI FM" tvg-logo="http://www.onlineliveradio.net/wp-content/uploads/2015/01/pimaifm.png" group-title="MALAYSIA",PI MAI FM
 http://5243.live.streamtheworld.com/PIMAIFMAAC?type=.flv
