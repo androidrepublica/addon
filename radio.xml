@@ -8,6 +8,9 @@ http://astro3.rastream.com/gegar?type=.flv&_=0.25499305268749595
 #EXTINF:-1 tvg-id="" tvg-name="SINAR FM" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/857_300.png" group-title="MALAYSIA",SINAR FM
 http://astro2.rastream.com/sinar?type=.flv&_=0.36323276814073324
 
+#EXTINF:-1 tvg-id="" tvg-name="Klasik Nasional FM" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/yhJJMEVCrU.jpg" group-title="MALAYSIA",Klasik Nasional FM
+https://dkmgz1nucppmx.cloudfront.net/rtm-ch016/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="ERA FM" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/856_300.png" group-title="MALAYSIA",ERA FM
 http://astro2.rastream.com/era?type=.flv&_=0.6250803847797215
 
@@ -17,11 +20,14 @@ http://astro2.rastream.com/amp-era-kk?type=.flv
 #EXTINF:-1 tvg-id="" tvg-name="ERA FM SARAWAK" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/856_300.png" group-title="MALAYSIA",ERA FM SARAWAK
 http://astro2.rastream.com/amp-era-kch?type=.flv
 
+#EXTINF:-1 tvg-id="" tvg-name="MY UMMAH FM" tvg-logo="https://img6.androidappsapk.co/300/d/e/b/my.tujuh.myummahfm.png" group-title="MALAYSIA",MY UMMAH FM
+http://cloud.tujuh.my:8073/stream
+
 #EXTINF:-1 tvg-id="" tvg-name="HITZ FM" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/852_100.png" group-title="MALAYSIA",HITZ FM
 http://astro1.rastream.com/hitz?type=.flv&_=0.6058576568029821
 
 #EXTINF:-1 tvg-id="" tvg-name="HOT FM" tvg-logo="https://assets.hotfm.com.my/2019/03/logo_hotfm_150x84_white.png" group-title="MALAYSIA",HOT FM
-http://2033.live.streamtheworld.com/HOTFMAAC?streamtheworld_user=1&uuid=15D33000%2D0000%2D0001%2D6F5A%2D1120C6B01986&nobuf=1430320853303
+http://mediaprima.rastream.com/mediaprima-hotfm.android
 
 #EXTINF:-1 tvg-id="" tvg-name="HOT FM T'GANU" tvg-logo="https://assets.hotfm.com.my/2019/03/logo_hotfm_150x84_white.png" group-title="MALAYSIA",HOT FM T'GANU
 http://2173.live.streamtheworld.com/HOTFMTGANUAAC
@@ -36,7 +42,7 @@ http://starrfm.rastream.com/starrfm-suria?type=.flv&_=0.40780491195619106
 http://astro2.rastream.com/mix?type=.flv&_=0.8714617709629238
 
 #EXTINF:-1 tvg-id="" tvg-name="FLY FM" tvg-logo="https://assets.flyfm.com.my/2019/01/logo_flyfm_96x60.png" group-title="MALAYSIA",FLY FM
-http://4073.live.streamtheworld.com/FLYFMAAC?streamtheworld_user=1&uuid=15D33000%2D0000%2D0001%2D6F5A%2D1120C6B01986&nobuf=1430321011953
+http://mediaprima.rastream.com/mediaprima-flyfm.android
 
 #EXTINF:-1 tvg-id="" tvg-name="MY FM" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/853_100.png" group-title="MALAYSIA",MY FM
 http://astro1.rastream.com/myfm?type=.flv&_=0.1656162654981017
@@ -99,7 +105,7 @@ http://s8.voscast.com:7472/;stream.mp3
 http://60.51.214.210:8000/;stream.mp3
 
 #EXTINF:-1 tvg-id="" tvg-name="MUTIARA FM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Mutiara_FM_Logo.png" group-title="MALAYSIA",MUTIARA FM
-http://60.54.189.90:8085/;stream.mp3
+https://dkmgz1nucppmx.cloudfront.net//rtm-ch039//playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="PERLIS FM" tvg-logo="https://top-radio.org/wp-content/uploads/logo-fb/perlis-fm.jpg" group-title="MALAYSIA",PERLIS FM
 http://198.154.106.102:8453/;stream.mp3
@@ -161,11 +167,28 @@ http://astro4.rastream.com/opus?type=.flv
 #EXTINF:-1 tvg-id="" tvg-name="988 FM" tvg-logo="https://www.liveonlineradio.net/wp-content/uploads/2011/06/988-fm-100x47.jpg" group-title="MALAYSIA",988 FM
 http://starrfm.rastream.com/starrfm-988?type=.flv
 
-#EXTINF:-1,--------------------------RADIO SINGAPORE---------------------------- 
+#EXTINF:-1 tvg-id="" tvg-name="BAPAKKU FM" tvg-logo="https://i.imgur.com/Q1Fudx2.png" group-title="MALAYSIA",BAPAKKU FM
+http://radio.bapakku.fm:8000
 
-#EXTINF:-1 tvg-id="" tvg-name="RIA 89.7 FM" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/81/Ria_897fm_logo.jpg" group-title="MALAYSIA",RIA 89.7 FM
+#EXTINF:-1 tvg-id="" tvg-name="UTHM Radio" tvg-logo="http://global.uthm.edu.my/assets/images/uthmradio-1400x1048-64.jpg" group-title="MALAYSIA",UTHM Radio
+http://radio.uthm.edu.my:8000/live.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="Kool FM" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/MAhFL9xTjR.png" group-title="MALAYSIA",Kool FM
+http://mediaprima.rastream.com//mediaprima-koolfm
+
+#EXTINF:-1 tvg-id="" tvg-name="Durian FM" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/w2y32rav5cg6.png" group-title="MALAYSIA",Durian FM
+http://s3.voscast.com:7140/stream/1/
+
+--------------------------RADIO SINGAPORE---------------------------- 
+
+#EXTINF:-1 tvg-id="" tvg-name="RIA 89.7 FM" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/81/Ria_897fm_logo.jpg" group-title="SINGAPORE",RIA 89.7 FM
 http://mediacorp.rastream.com/897fm?type=.flv
 
-#EXTINF:-1 tvg-id="" tvg-name="WARNA 94.2 FM" tvg-logo="https://cdn.webrad.io/images/logos/radiosingapore-org/warna.png" group-title="MALAYSIA",WARNA 94.2 FM
+#EXTINF:-1 tvg-id="" tvg-name="WARNA 94.2 FM" tvg-logo="https://cdn.webrad.io/images/logos/radiosingapore-org/warna.png" group-title="SINGAPORE",WARNA 94.2 FM
 http://mediacorp.rastream.com/942fm?type=.flv
 
+#EXTINF:-1 tvg-id="" tvg-name="Gold 90.5FM" tvg-logo="https://thesmartlocal.com/media/reviews/photos/original/52/c4/16/_g1-1350580183.jpg" group-title="SINGAPORE",Gold 90.5FM
+https://17963.live.streamtheworld.com/GOLD905AAC.aac?dist=liveonlineradio
+
+#EXTINF:-1 tvg-id="" tvg-name="Love 97.2FM" tvg-logo="https://mytuner-radio.com/media/news/2017/09/15/love-972-fm.jpg" group-title="SINGAPORE",Love 97.2FM
+https://19813.live.streamtheworld.com/LOVE972FMAAC.aac?dist=liveonlineradio
