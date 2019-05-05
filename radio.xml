@@ -6,7 +6,7 @@
 http://astro3.rastream.com/gegar?type=.flv&_=0.25499305268749595
 
 #EXTINF:-1 tvg-id="" tvg-name="Bernama Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/28/Bernama-radio-logo.jpg/220px-Bernama-radio-logo.jpg" group-title="MALAYSIA",BERNAMA
-https://bernama.rastream.com:443/bernama-bernama.web.hls/playlist.m3u8
+https://bernama.rastream.com/bernama-bernama.web.hls/playlist.m3u8?awparams=companionads%3Atrue%3Btags%3Aradioactive%3Bstationid%3Abernama-bernama&playerid=BERNAMA%20Radio_web&authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvaWQiOiJsYXlsaW8iLCJpYXQiOjE1NTcwNjUwODEsImV4cCI6MTU1NzE1MTQ4MX0.A50xIlgh-I08-TMDcyYo3ZkzE88w5BoYHkGWfgCuErw
 
 #EXTINF:-1 tvg-id="" tvg-name="SINAR FM" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/857_300.png" group-title="MALAYSIA",SINAR FM
 http://astro2.rastream.com/sinar?type=.flv&_=0.36323276814073324
